@@ -2,6 +2,8 @@
 
 ![](https://komarev.com/ghpvc/?username=geaaru)
 
+![](https://raw.githubusercontent.com/geaaru/geaaru/master/github-metrics.svg)
+
 <!--
 **geaaru/geaaru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
