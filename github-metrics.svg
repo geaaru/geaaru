@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1730" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1696" class="">
     <defs>
         <style/>
     </defs>
@@ -1568,6 +1568,25 @@
                                 <div class="details">
                                     <div>on branch <span class="code">docker-backendv2</span></div>
                                     <div class="commit">
+                                        <span class="sha">#3e6ef99</span>
+                                        <span class="message">.github/workflows/push.yml: Add dockerv2 backend tests</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                      Pushed 1 commit in <span class="repo">geaaru/luet</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">docker-backendv2</span></div>
+                                    <div class="commit">
                                         <span class="sha">#8502114</span>
                                         <span class="message">vendor: Fix modules.txt</span>
                                     </div>
@@ -1627,32 +1646,6 @@
                                     <div class="commit">
                                         <span class="sha">#0c398ab</span>
                                         <span class="message">go.mod: Update</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                      Pushed 2 commits in <span class="repo">geaaru/luet</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">docker-backendv2</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#d3915de</span>
-                                        <span class="message">Update vendor for dockerv2 backend</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#70b26d0</span>
-                                        <span class="message">Add dockerv2 backend
-
-ATM, Dockerv2 backend it's optimized only
-for packages with package_dir attributes.</span>
                                     </div>
                                 </div>
                             </section>
@@ -2267,7 +2260,7 @@ for packages with package_dir attributes.</span>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 17/10/2021, 18:16 (timezone Europe/Rome) with lowlighter/metrics@3.14.0</span>
+                <span>Last updated 17/10/2021, 19:15 (timezone Europe/Rome) with lowlighter/metrics@3.14.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
