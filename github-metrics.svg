@@ -1991,7 +1991,7 @@ packages, as we will refactor things slowly.</span>
                   <span class="prefix"></span> Maintainer
                   
                     <span class="gh">
-                      ranked 285k out of 238m repositories
+                      ranked 286k out of 238m repositories
                     </span>
                   
                   
@@ -2327,7 +2327,7 @@ packages, as we will refactor things slowly.</span>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 20/10/2021, 02:40 (timezone Europe/Rome) with lowlighter/metrics@3.14.0</span>
+                <span>Last updated 20/10/2021, 04:00 (timezone Europe/Rome) with lowlighter/metrics@3.14.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
