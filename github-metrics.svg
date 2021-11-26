@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1943" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1837" class="">
     <defs>
         <style/>
     </defs>
@@ -1415,17 +1415,17 @@
                         <div class="field calendar">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
-                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="15" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="30" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
@@ -1623,6 +1623,33 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                      Pushed 3 commits in <span class="repo">MottainaiCI/mottainai-server</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">develop</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#7c37830</span>
+                                        <span class="message">mcli/cmd/task/compile: Upate dependency</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#bc76690</span>
+                                        <span class="message">Update vendor</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#ae2da68</span>
+                                        <span class="message">mcli/cmd/task/template: Move to lxd-compose project</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                       Pushed 1 commit in <span class="repo">geaaru/luet</span>
                     </div>
                                 </div>
@@ -1738,57 +1765,6 @@ in installation phase.
                                     </div>
                                 </div>
                             </section>
-                            <div class="row fill-width">
-                                <section class="activity">
-                                    <div class="field">
-                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                            <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                        </svg>
-                                        <div class="content">
-                      Pushed 9 commits in <span class="repo">mocaccinoOS/mocaccino-funtoo</span>
-                    </div>
-                                    </div>
-                                    <div class="details">
-                                        <div>on branch <span class="code">master</span></div>
-                                        <div class="commit">
-                                            <span class="sha">#b841a3c</span>
-                                            <span class="message">mos-extra-dev: Drop unneeded pkgs</span>
-                                        </div>
-                                        <div class="commit">
-                                            <span class="sha">#e8f05c8</span>
-                                            <span class="message">dev-python/twisted: Update rdeps</span>
-                                        </div>
-                                        <div class="commit">
-                                            <span class="sha">#60ba9bf</span>
-                                            <span class="message">dev-python/msgpack-portage: Bump v.1.0.2+1</span>
-                                        </div>
-                                        <div class="commit">
-                                            <span class="sha">#d76041f</span>
-                                            <span class="message">dev-python/msgpack: Bump v.1.0.2+1</span>
-                                        </div>
-                                        <div class="commit">
-                                            <span class="sha">#bdaf566</span>
-                                            <span class="message">dev-python/soappy-portage: Bump v.0.12.22+1</span>
-                                        </div>
-                                        <div class="commit">
-                                            <span class="sha">#c88d241</span>
-                                            <span class="message">dev-python/soappy: Bump v.0.12.22+1</span>
-                                        </div>
-                                        <div class="commit">
-                                            <span class="sha">#d3ecc06</span>
-                                            <span class="message">dev-python/app-dirs-portage: Bump v.1.4.3+1</span>
-                                        </div>
-                                        <div class="commit">
-                                            <span class="sha">#c8d1e0f</span>
-                                            <span class="message">dev-python/appdirs: Bump v.1.4.3+1</span>
-                                        </div>
-                                        <div class="commit">
-                                            <span class="sha">#2e56df9</span>
-                                            <span class="message">dev-python/wstools: Update bdep</span>
-                                        </div>
-                                    </div>
-                                </section>
-                            </div>
                         </div>
                     </section>
                 </div>
@@ -1882,7 +1858,7 @@ in installation phase.
                                         </defs>
                                         <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                             <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                            <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="75.91923340177961 155"/>
+                                            <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="75.96167008898016 155"/>
                                         </svg>
                                         <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                             <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -2399,7 +2375,7 @@ in installation phase.
                 </section>
                 <footer>
                     <span>These metrics do not include all private contributions</span>
-                    <span>Last updated 26 Nov 2021, 00:12:08 (timezone Europe/Rome) with lowlighter/metrics@3.16.0</span>
+                    <span>Last updated 26 Nov 2021, 01:38:47 (timezone Europe/Rome) with lowlighter/metrics@3.16.0</span>
                 </footer>
             </section>
             <div id="metrics-end"></div>
