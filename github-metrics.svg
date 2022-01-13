@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1732" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1645" class="">
     <defs>
         <style/>
     </defs>
@@ -68,7 +68,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            12737 Commits
+                            12740 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -301,9 +301,29 @@
                                     </svg>
                                     <div class="content">
                                         Released
-                                        <span class="bold">v0.4.0</span>
+                                        <span class="bold">v0.16.3</span>
                                         of
-                                        <span class="repo">geaaru/time-master</span>
+                                        <span class="repo">MottainaiCI/lxd-compose</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">MottainaiCI/repo-stable</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#6b08376</span>
+                                        <span class="message">app-emulation/lxd-compose: Bump v.0.16.3</span>
                                     </div>
                                 </div>
                             </section>
@@ -317,9 +337,29 @@
                                     <div class="content">
                                         Created new
                       tag
-                                        <span class="code">v0.4.0</span>
+                                        <span class="code">v0.16.3</span>
                                         in
-                                        <span class="repo">geaaru/time-master</span>
+                                        <span class="repo">MottainaiCI/lxd-compose</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">MottainaiCI/lxd-compose</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#ce24e9c</span>
+                                        <span class="message">Prepare release v0.16.3</span>
                                     </div>
                                 </div>
                             </section>
@@ -332,85 +372,18 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 2 commits in
-                                        <span class="repo">geaaru/time-master</span>
+                                        <span class="repo">geaaru/geaaru_overlay</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
+                                    <div>on branch <span class="code">funtoo</span></div>
                                     <div class="commit">
-                                        <span class="sha">#63b62d0</span>
-                                        <span class="message">.goreleaser.yml: Disable darwin</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#df93200</span>
-                                        <span class="message">Prepare v0.4.0</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 4 commits in
-                                        <span class="repo">geaaru/time-master</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#951393b</span>
-                                        <span class="message">.github/workflows: Add push.yml job</span>
+                                        <span class="sha">#35dd06f</span>
+                                        <span class="message">dev-python/faucet: Bump v.1.9.55</span>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#b39b799</span>
-                                        <span class="message">Move to ginkgo/v2</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#29ee9ec</span>
-                                        <span class="message">Move vendor github.com/onsi/ginkgo/v2</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#e72ba28</span>
-                                        <span class="message">Update vendor github.com/MottainaiCI/mottainai-server@v0.1.1</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">geaaru/time-master</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#7c75a11</span>
-                                        <span class="message">cmd/activity/summary: Add column Business Progress
-
-For any activity displayed it returns the
-business progress in perc.
-
-Note: If a task has work time greather then effort
-or has work time on task without effort uses it
-to calculate the total time and the percentuage.</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#d16e73c</span>
-                                        <span class="message">ActivityReport: Add BusinessProgressPerc attribute
-
-This attribute permits to calculate the progress
-of a specific activity considering if the task or
-subtask is completed.</span>
+                                        <span class="sha">#3458fef</span>
+                                        <span class="message">dev-python/fauncet: Drop 1.8.33</span>
                                     </div>
                                 </div>
                             </section>
@@ -1000,7 +973,7 @@ subtask is completed.</span>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 13 Jan 2022, 22:11:28 (timezone Europe/Rome) with lowlighter/metrics@3.17.0</span>
+                <span>Last updated 13 Jan 2022, 23:12:45 (timezone Europe/Rome) with lowlighter/metrics@3.17.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
