@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1940" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2256" class="">
     <defs>
         <style/>
     </defs>
@@ -301,6 +301,166 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 1000 commits in
+                                        <span class="repo">geaaru/lxc</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#b8a4fe1</div>
+                                        <div class="message">cgroups: fix cg_legacy_freeze() return type
+
+Signed-off-by: Christian Brauner &lt;christian.brauner@ubuntu.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2e85eff</div>
+                                        <div class="message">file_utils: tweak lxc_write_openat()
+
+Signed-off-by: Christian Brauner &lt;christian.brauner@ubuntu.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ca72ccb</div>
+                                        <div class="message">cgroups: improve utility controller handling
+
+Signed-off-by: Christian Brauner &lt;christian.brauner@ubuntu.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#042f9e9</div>
+                                        <div class="message">cgroups: s/cgroup2_chown/delegate/g
+
+Signed-off-by: Christian Brauner &lt;christian.brauner@ubuntu.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4cd3a76</div>
+                                        <div class="message">cgroups: move cgroup2 parameters into substruct
+
+Signed-off-by: Christian Brauner &lt;christian.brauner@ubuntu.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b1b1a60</div>
+                                        <div class="message">cgroups: s/container_limit_path/path_lim/g
+
+Signed-off-by: Christian Brauner &lt;christian.brauner@ubuntu.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#67ed60c</div>
+                                        <div class="message">cgroups: s/container_full_path/path_con/g
+
+Signed-off-by: Christian Brauner &lt;christian.brauner@ubuntu.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c0af7b1</div>
+                                        <div class="message">cgroups: s/cgfd_limit/dfd_lim/g
+
+Signed-off-by: Christian Brauner &lt;christian.brauner@ubuntu.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6a32c81</div>
+                                        <div class="message">cgroups: s/cgfd_mon/dfd_mon/g
+
+Signed-off-by: Christian Brauner &lt;christian.brauner@ubuntu.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e33870e</div>
+                                        <div class="message">cgroups: s/cgfd_con/dfd_con/g
+
+Signed-off-by: Christian Brauner &lt;christian.brauner@ubuntu.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a58be2a</div>
+                                        <div class="message">cgroups: s/mountpoint/at_mnt/g
+
+Signed-off-by: Christian Brauner &lt;christian.brauner@ubuntu.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#44585f1</div>
+                                        <div class="message">cgroups: s/container_base_path/at_base/g
+
+Signed-off-by: Christian Brauner &lt;christian.brauner@ubuntu.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e18e905</div>
+                                        <div class="message">cgroups: rename cgroupfs mount fd
+
+Signed-off-by: Christian Brauner &lt;christian.brauner@ubuntu.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a9db947</div>
+                                        <div class="message">cgroups: simplify and fix mounting on non-cgroup namespace aware kernels
+
+Signed-off-by: Christian Brauner &lt;christian.brauner@ubuntu.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b8572e8</div>
+                                        <div class="message">cgroups: introduce cgroup hierarchy type
+
+Signed-off-by: Christian Brauner &lt;christian.brauner@ubuntu.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e821c3b</div>
+                                        <div class="message">cgroups: remove unused helpers
+
+Signed-off-by: Christian Brauner &lt;christian.brauner@ubuntu.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#179754a</div>
+                                        <div class="message">cgroups: s/add_hierarchy()/cgroup_hierarchy_add()/g
+
+Signed-off-by: Christian Brauner &lt;christian.brauner@ubuntu.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0da35ac</div>
+                                        <div class="message">cgroups: split delegation checks into separate helpers
+
+Signed-off-by: Christian Brauner &lt;christian.brauner@ubuntu.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#63ba9ea</div>
+                                        <div class="message">cgroups: simplify string list handling
+
+Signed-off-by: Christian Brauner &lt;christian.brauner@ubuntu.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#35ec1a3</div>
+                                        <div class="message">cgroups: rework cgroup initialization
+
+Signed-off-by: Christian Brauner &lt;christian.brauner@ubuntu.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">funtoo/macaroni-funtoo</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">systemd</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#4b33436</div>
+                                        <div class="message">sys-fs/growpart: Fix bdep</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#36f60c3</div>
+                                        <div class="message">net-analyzer/macchanger: Fix bdep</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 11 commits in
                                         <span class="repo">funtoo/macaroni-funtoo</span>
                                     </div>
@@ -406,50 +566,6 @@
                                     <div class="commit">
                                         <div class="sha">#ab58c7a</div>
                                         <div class="message">pkglist/macaroni-funtoo-race3: Bump v.0.20220218</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">funtoo/macaroni-funtoo</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">systemd</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#74df62c</div>
-                                        <div class="message">seed/macaroni-funtoo-race3: Bump v.0.20220217</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1b8fe54</div>
-                                        <div class="message">pkglist/macaroni-funtoo-race3: Bump v.0.20220217</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">funtoo/macaroni-funtoo</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">systemd</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#97424f1</div>
-                                        <div class="message">toolchian/extra-db: Drop dev-db/tokumx</div>
                                     </div>
                                 </div>
                             </section>
@@ -1039,7 +1155,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 19 Feb 2022, 14:13:48 (timezone Europe/Rome) with lowlighter/metrics@3.20.0</span>
+                <span>Last updated 19 Feb 2022, 15:11:09 (timezone Europe/Rome) with lowlighter/metrics@3.20.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
