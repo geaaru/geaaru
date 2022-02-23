@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2056" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1773" class="">
     <defs>
         <style/>
     </defs>
@@ -308,6 +308,54 @@
                                 <div class="details">
                                     <div>on branch <span class="code">systemd</span></div>
                                     <div class="commit">
+                                        <div class="sha">#8b704e1</div>
+                                        <div class="message">templates/build-pkg-uses-subsets.yaml.tmpl: Ensure right perms</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e3bf554</div>
+                                        <div class="message">portage-converter: Update specs</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#da0e850</div>
+                                        <div class="message">scripts/create-toolchain-extra.sh: Update</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">funtoo/macaroni-funtoo</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">systemd</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#31d31c9</div>
+                                        <div class="message">sys-fs/cryptsetup: Update use flags</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 3 commits in
+                                        <span class="repo">funtoo/macaroni-funtoo</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">systemd</span></div>
+                                    <div class="commit">
                                         <div class="sha">#2815276</div>
                                         <div class="message">atoms-extra/server: Various bdeps fix</div>
                                     </div>
@@ -362,122 +410,6 @@
                                     <div class="commit">
                                         <div class="sha">#81ddbd7</div>
                                         <div class="message">virtual/python-singledispatch: Fix bdep</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 43 commits in
-                                        <span class="repo">funtoo/macaroni-funtoo</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">systemd</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#3305755</div>
-                                        <div class="message">dev-python/portend: Bump v.2.2</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b733813</div>
-                                        <div class="message">dev-python/prettytable: Bump v.0.7.2</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#388d8ff</div>
-                                        <div class="message">dev-python/setuptools_scm_git_archive: Bump v.1.0</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d5dd1b0</div>
-                                        <div class="message">dev-python/simplejson: Bump v.3.16.0</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3936589</div>
-                                        <div class="message">dev-python/singledispatch: Bump v.3.4.0.3</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#673abaa</div>
-                                        <div class="message">dev-python/tempora: Bump v.1.14.1</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#513f735</div>
-                                        <div class="message">dev-python/waitress: Bump v.1.0.2</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c122952</div>
-                                        <div class="message">dev-python/webob: Bump v.1.8.5</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#aa87f48</div>
-                                        <div class="message">dev-python/webtest: Bump v.2.0.29</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3a95c14</div>
-                                        <div class="message">dev-python/werkzeug: Bump v.2.0.2</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2562898</div>
-                                        <div class="message">dev-python/zc-lockfile: Bump v.1.4</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d839b13</div>
-                                        <div class="message">dev-util/cunit: Bump v.2.1</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b447450</div>
-                                        <div class="message">dev-util/lttng-ust: Bump v.2.10.1</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#749ddea</div>
-                                        <div class="message">net-misc/socat: Bump v.1.7.3.3</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9c4109a</div>
-                                        <div class="message">sys-auth/oath-toolkit: Bump v.2.6.2</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2d75b32</div>
-                                        <div class="message">sys-block/parted: Bump v.3.2</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fd48163</div>
-                                        <div class="message">sys-cluster/ceph: Bump v.14.2.1</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#79461b2</div>
-                                        <div class="message">sys-fs/cryptsetup: Bump v.2.1.0</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e4bb4d4</div>
-                                        <div class="message">sys-fs/lvm2: Bump v.2.02.173</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#bb3910a</div>
-                                        <div class="message">virtual/python-singledispatch: Bump v.0</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">funtoo/macaroni-funtoo</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">systemd</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#9585976</div>
-                                        <div class="message">dev-libs/userspace-rcu: Fix bdep</div>
                                     </div>
                                 </div>
                             </section>
@@ -1067,7 +999,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 23 Feb 2022, 12:10:25 (timezone Europe/Rome) with lowlighter/metrics@3.20.0</span>
+                <span>Last updated 23 Feb 2022, 13:21:10 (timezone Europe/Rome) with lowlighter/metrics@3.20.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
