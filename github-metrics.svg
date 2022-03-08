@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1723" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2007" class="">
     <defs>
         <style/>
     </defs>
@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            13014 Commits
+                            13033 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -301,6 +301,98 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 19 commits in
+                                        <span class="repo">funtoo/macaroni-commons</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#2e0d14e</div>
+                                        <div class="message">kernel-5.16/macaroni-full: Bump v.5.16.13</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1924843</div>
+                                        <div class="message">kernel-5.16/macaroni-minimal: Bump v.5.16.13</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fe19d68</div>
+                                        <div class="message">kernel-5.16/macaroni-modules: Bump v.5.16.13</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a842521</div>
+                                        <div class="message">kernel-5.16/macaroni-sources: Bump v.5.16.13</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0dfe155</div>
+                                        <div class="message">kernel-5.15/macaroni-lts-full: Bump v.5.15.27</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#abafd7b</div>
+                                        <div class="message">kernel-5.15/macaroni-lts-minimal: Bump v.5.15.27</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f86f274</div>
+                                        <div class="message">kernel-5.15/macaroni-lts-modules: Bump v.5.15.27</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a20bdff</div>
+                                        <div class="message">kernel-5.15/macaroni-lts-sources: Bump v.5.15.27</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#952e2ed</div>
+                                        <div class="message">kernel-5.4/macaroni-lts-full: Bump v.5.4.183</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e3bd039</div>
+                                        <div class="message">kernel-5.4/macaroni-lts-minimal: Bump v.5.4.183</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#82e3aef</div>
+                                        <div class="message">kernel-5.4/macaroni-lts-modules: Bump v.5.4.183</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#77cfb63</div>
+                                        <div class="message">kernel-5.4/macaroni-lts-sources: Bump v.5.4.183</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ce8b4b4</div>
+                                        <div class="message">kernel-5.10/macaroni-lts-initramfs: Bump v.5.4.183</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4967405</div>
+                                        <div class="message">kernel-5.10/macaroni-lts-initramfs: Bump v.5.10.104</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1cd03ec</div>
+                                        <div class="message">kernel-5.10/macaroni-lts-full: Bump v.5.10.104</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0f90136</div>
+                                        <div class="message">kernel-5.10/macaroni-lts-minimal: Bump v.5.10.104</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#baaf960</div>
+                                        <div class="message">kernel-5.10/macaroni-lts-modules: Bump v.5.10.104</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b9e1f34</div>
+                                        <div class="message">kernel-5.10/macaroni-lts-sources: Bump v.5.10.104</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9b0a2d1</div>
+                                        <div class="message">Makefile: Add REPO, REPO_EXTRA vars</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 1 commit in
                                         <span class="repo">MottainaiCI/mottainai-server</span>
                                     </div>
@@ -374,30 +466,6 @@
                                     <div class="commit">
                                         <div class="sha">#2d77238</div>
                                         <div class="message">Add vendor gopkg.in/yaml.v3@v3.0.0-20210107192922</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">funtoo/macaroni-funtoo</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#7191ef7</div>
-                                        <div class="message">sys-process/cronie: Fix portage cache perms</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7df41e6</div>
-                                        <div class="message">templates/build-pkg-uses-subsets.yaml.tmpl: Fix distfiles cache dir</div>
                                     </div>
                                 </div>
                             </section>
@@ -987,7 +1055,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 8 Mar 2022, 21:13:51 (timezone Europe/Rome) with lowlighter/metrics@3.21.0</span>
+                <span>Last updated 8 Mar 2022, 22:11:06 (timezone Europe/Rome) with lowlighter/metrics@3.21.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
