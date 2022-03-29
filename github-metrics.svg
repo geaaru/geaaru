@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1707" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1907" class="">
     <defs>
         <style/>
     </defs>
@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            13166 Commits
+                            13169 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -301,6 +301,114 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 3 commits in
+                                        <span class="repo">MottainaiCI/lxd-compose</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#abc7cc6</div>
+                                        <div class="message">Update go.*</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e8f49fb</div>
+                                        <div class="message">cmd/diagnose/vars: Move to yaml.v3</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cdc46ce</div>
+                                        <div class="message">Move to yaml.v3</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">funtoo/macaroni-funtoo</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">systemd</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#c1bac16</div>
+                                        <div class="message">portage-converter/server-extra.yaml: Add www-servers/caddy</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#02a87f6</div>
+                                        <div class="message">www-servers/caddy: Bump v.2.4.6</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 10 commits in
+                                        <span class="repo">funtoo/macaroni-funtoo</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">systemd</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#b111aea</div>
+                                        <div class="message">portage-converter/server-extra.yaml: Add net-proxy/cntlm</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5f0a1ee</div>
+                                        <div class="message">net-proxy/cntlm: Bump v.0.93</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c484a9c</div>
+                                        <div class="message">portage-converter/server-extra.yaml: Add www-servers/lighttpd</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2b88779</div>
+                                        <div class="message">dev-libs/geoip: Bump v.1.6.12</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fb3011c</div>
+                                        <div class="message">dev-libs/libev: Bump v.4.25</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e8174eb</div>
+                                        <div class="message">dev-libs/libgamin: Bump v.0.1.10</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8b141f8</div>
+                                        <div class="message">net-analyzer/rrdtool: Bump v.1.7.0</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ec1b9a5</div>
+                                        <div class="message">www-servers/lighttpd: Bump v.1.4.55</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1b0ac56</div>
+                                        <div class="message">dev-libs/libmemcached: Update bdeps</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4aec6fa</div>
+                                        <div class="message">sys-deve-1.13/automake: Update bdeps</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 2 commits in
                                         <span class="repo">funtoo/macaroni-funtoo</span>
                                     </div>
@@ -334,66 +442,6 @@
                                     <div class="commit">
                                         <div class="sha">#6e08568</div>
                                         <div class="message">virtual-11/j*: Fix bdeps</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">funtoo/macaroni-funtoo</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">systemd</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#75eb93c</div>
-                                        <div class="message">dev-java-4.2/apache-karaf-bin: Temporary remove it</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">funtoo/macaroni-funtoo</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">systemd</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#75b38e4</div>
-                                        <div class="message">atoms-extra/java/virtual-11/*: Drop core-kit funtoo-java mask file</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">funtoo/macaroni-funtoo</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">systemd</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#3e0685f</div>
-                                        <div class="message">atoms-extra/java: Fix typo</div>
                                     </div>
                                 </div>
                             </section>
@@ -983,7 +1031,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 29 Mar 2022, 19:15:33 (timezone Europe/Rome) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 29 Mar 2022, 20:15:42 (timezone Europe/Rome) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
