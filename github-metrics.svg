@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1723" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1740" class="">
     <defs>
         <style/>
     </defs>
@@ -301,6 +301,38 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 4 commits in
+                                        <span class="repo">MottainaiCI/mottainai-server</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">develop</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#199d86b</div>
+                                        <div class="message">mcli: Add `nodequeue delete_byid` command</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#89fd94b</div>
+                                        <div class="message">mcli/cmd/plan/create: cosmetic cleanup</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#57a1c0a</div>
+                                        <div class="message">fetcher: Add NodeQueueDelById method</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#322ed66</div>
+                                        <div class="message">Add api to remove nodequeue by id</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 1 commit in
                                         <span class="repo">funtoo/macaroni-funtoo</span>
                                     </div>
@@ -370,34 +402,6 @@
                                     <div class="commit">
                                         <div class="sha">#3cd4b17</div>
                                         <div class="message">dev-lang-*/php: Disable odbc use flag</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 3 commits in
-                                        <span class="repo">funtoo/macaroni-funtoo</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">systemd</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#eb44abc</div>
-                                        <div class="message">portage-converter/php-extra.yaml: Disable use flag xdm from dev-lang/phg</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#29c2ba4</div>
-                                        <div class="message">dev-lang-7.4/php: Bump v.7.4.28+1</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8ed8b7d</div>
-                                        <div class="message">dev-lang-8.1/php: Bump v.8.1.4+1</div>
                                     </div>
                                 </div>
                             </section>
@@ -987,7 +991,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 31 Mar 2022, 09:13:13 (timezone Europe/Rome) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 31 Mar 2022, 10:15:51 (timezone Europe/Rome) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
