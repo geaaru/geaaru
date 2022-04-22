@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1823" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1873" class="">
     <defs>
         <style/>
     </defs>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            13763 Commits
+                            13768 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -301,6 +301,42 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 5 commits in
+                                        <span class="repo">MottainaiCI/lxd-compose-galaxy</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#df78891</div>
+                                        <div class="message">mongo-replica-set/mongo-test-crypto: Using var_files</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bb6f134</div>
+                                        <div class="message">mongo-replica-set/mongo-create-client-key: Renaming and uses var_files</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7ceded8</div>
+                                        <div class="message">mongo-replica-set/mongo-master-key: Fix order of the hooks</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#42e444f</div>
+                                        <div class="message">mongo-rs: hooks/mongo-create-masterkey.yml - cosmetic fix and cleanup</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b6e5cef</div>
+                                        <div class="message">mongo-rs: Disable debug print from javascript</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 2 commits in
                                         <span class="repo">funtoo/macaroni-funtoo</span>
                                     </div>
@@ -412,30 +448,6 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                     <div class="commit">
                                         <div class="sha">#c8fe64d</div>
                                         <div class="message">media-video/pipewire: Bump v.0.3.50</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">funtoo/macaroni-funtoo</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">systemd</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#4346232</div>
-                                        <div class="message">seed/funtoo-kits: Bump v.0.20220421</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e48ec58</div>
-                                        <div class="message">toolchain/meta-repo: Bump v.0.20220421</div>
                                     </div>
                                 </div>
                             </section>
@@ -1025,7 +1037,7 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 22 Apr 2022, 12:15:34 (timezone Europe/Rome) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 22 Apr 2022, 13:11:51 (timezone Europe/Rome) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
