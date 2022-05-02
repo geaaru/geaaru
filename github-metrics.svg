@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2040" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1757" class="">
     <defs>
         <style/>
     </defs>
@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            14117 Commits
+                            14121 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -301,126 +301,6 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">funtoo/macaroni-funtoo</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">systemd</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#aa182bf</div>
-                                        <div class="message">seed/funtoo-kits: Bump v.0.20220501</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7482cb3</div>
-                                        <div class="message">toolchain/meta-repo: Bump v.0.20220501</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 20 commits in
-                                        <span class="repo">funtoo/macaroni-funtoo</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#d67651c</div>
-                                        <div class="message">portage-converter: Update specs</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#473acdb</div>
-                                        <div class="message">app-emulation/docker-swarm: Bump v.1.2.5</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e2a48f3</div>
-                                        <div class="message">dev-python/importlib_resources-compat: Bump v.3.3.1</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a54b3e5</div>
-                                        <div class="message">dev-python/importlib_resources: Bump v.5.7.1</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4d724fd</div>
-                                        <div class="message">dev-python/paramiko: Bump v.2.10.3</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8d9236f</div>
-                                        <div class="message">dev-util/byacc: Bump v.20190616</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#16d5e14</div>
-                                        <div class="message">sys-cluster/singularity: Bump v.3.8.7</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#75480fb</div>
-                                        <div class="message">dev-util/kbuild: Update bdeps</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2334840</div>
-                                        <div class="message">dev-util/docker-ls: Update bdeps</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4092f18</div>
-                                        <div class="message">dev-python/wcwidth: Update deps</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#975be80</div>
-                                        <div class="message">dev-python/pynacl: Update deps</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#49cc108</div>
-                                        <div class="message">dev-python/docopt: Update deps</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fd804d4</div>
-                                        <div class="message">dev-python/dockerpty: Update deps</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b385def</div>
-                                        <div class="message">dev-python/docker-pycreds: Update deps</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#216b425</div>
-                                        <div class="message">dev-python/cjkwrap: Update deps</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7b408cf</div>
-                                        <div class="message">dev-python/cached-property: Update bdeps</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#98954fd</div>
-                                        <div class="message">dev-python/bcrypt: Update deps</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#999f7a8</div>
-                                        <div class="message">dev-python/backports-ssl-match-hostname: Update bdeps</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f09437a</div>
-                                        <div class="message">app-emulation/docker-registry: Update bdeps</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9b171ef</div>
-                                        <div class="message">app-emulatin/docker-compose: Update deps</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
                                         Pushed 1 commit in
                                         <span class="repo">funtoo/macaroni-funtoo</span>
                                     </div>
@@ -428,8 +308,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#cd26c3f</div>
-                                        <div class="message">sys-process/cronie: Fix typo</div>
+                                        <div class="sha">#f6089a7</div>
+                                        <div class="message">sys-cluster/singularity: Revert version until ebuild is fixed</div>
                                     </div>
                                 </div>
                             </section>
@@ -448,8 +328,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">systemd</span></div>
                                     <div class="commit">
-                                        <div class="sha">#19a8851</div>
-                                        <div class="message">portage-converter/server-extra: Review</div>
+                                        <div class="sha">#3b9b58b</div>
+                                        <div class="message">seed/funtoo-stage3: Version must be follow distfiles</div>
                                     </div>
                                 </div>
                             </section>
@@ -461,19 +341,71 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 2 commits in
+                                        Pushed 1 commit in
+                                        <span class="repo">geaaru/luet</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">geaaru</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#c8f2cd4</div>
+                                        <div class="message">contrib/config/get_luet_root.sh: Set v0.24.0 as default</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 3 commits in
                                         <span class="repo">funtoo/macaroni-funtoo</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">systemd</span></div>
                                     <div class="commit">
-                                        <div class="sha">#06f63b1</div>
-                                        <div class="message">sys-process/cronie: Add finalize</div>
+                                        <div class="sha">#8bb9cd0</div>
+                                        <div class="message">seed/funtoo-base: Bump v.0.20220502</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#078d07b</div>
-                                        <div class="message">sys-process/cronbase: Add finalize</div>
+                                        <div class="sha">#2931d2e</div>
+                                        <div class="message">pkglist/funtoo-base: Bump v.0.20220502</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0042e75</div>
+                                        <div class="message">seed/funtoo-stage3: Bump v.0.20220502</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 3 commits in
+                                        <span class="repo">funtoo/macaroni-funtoo</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#5f3cc84</div>
+                                        <div class="message">portage-converter: Update desktop-extra specs</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0b884eb</div>
+                                        <div class="message">x11-misc/synergy: Update bdeps</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#521661e</div>
+                                        <div class="message">app-emulation/docker-swarm: Drop broken ebuild for now</div>
                                     </div>
                                 </div>
                             </section>
@@ -1063,7 +995,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 2 May 2022, 09:13:47 (timezone Europe/Rome) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 2 May 2022, 10:17:46 (timezone Europe/Rome) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
