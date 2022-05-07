@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1973" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2140" class="">
     <defs>
         <style/>
     </defs>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            14314 Commits
+                            14325 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -301,6 +301,66 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 11 commits in
+                                        <span class="repo">funtoo/macaroni-funtoo</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#fd16d79</div>
+                                        <div class="message">portage-converter/emulation: Update specs</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#16da057</div>
+                                        <div class="message">app-emulation/lxd: Add finalize and entities</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2a76e9b</div>
+                                        <div class="message">portage-converter: Update specs</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b4abcf9</div>
+                                        <div class="message">virtual-entities/base: Bump v.2022.05</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b37efee</div>
+                                        <div class="message">app-emulation/virtualbox-bin: Add finalize and entities</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e5c2fde</div>
+                                        <div class="message">net-misc/openntpd: Add finalize and entities</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f0d93a5</div>
+                                        <div class="message">net-vpn/tor: Add finalize and entities</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c1c5ef6</div>
+                                        <div class="message">www-servers/nginx: Add finalize and entities</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#12a7f83</div>
+                                        <div class="message">net-analyzer/tcpdump: Add finalize and entities</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#28f0ce1</div>
+                                        <div class="message">dev-db-13/postgresql: Add finalize and entities</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f5f2c9e</div>
+                                        <div class="message">net-vpn/openvpn: Add finalize and entities</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 12 commits in
                                         <span class="repo">funtoo/macaroni-funtoo</span>
                                     </div>
@@ -438,26 +498,6 @@
                                     <div class="commit">
                                         <div class="sha">#a3591c6</div>
                                         <div class="message">pkglist/macaroni-funtoo-race2: Bump v.0.20220506</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">funtoo/macaroni-funtoo</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">systemd</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#ac4f761</div>
-                                        <div class="message">dev-python/pbr: Bump v.5.9.0</div>
                                     </div>
                                 </div>
                             </section>
@@ -1047,7 +1087,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 7 May 2022, 12:14:47 (timezone Europe/Rome) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 7 May 2022, 13:11:31 (timezone Europe/Rome) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
