@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1840" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1707" class="">
     <defs>
         <style/>
     </defs>
@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            14386 Commits
+                            14390 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -301,59 +301,15 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 5 commits in
+                                        Pushed 1 commit in
                                         <span class="repo">funtoo/macaroni-funtoo</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">systemd</span></div>
+                                    <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#eec0a9b</div>
-                                        <div class="message">app-editors/vim-core: Bump v.8.2.4939</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0883117</div>
-                                        <div class="message">app-editors/vim: Bump v.8.2.4939</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1057358</div>
-                                        <div class="message">dev-lang/go: Bump v.1.18.2</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b707741</div>
-                                        <div class="message">media-fonts/noto-emoji: Bump v.20220506</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#90559a3</div>
-                                        <div class="message">sys-power/cpupower: Bump v.5.17.6</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 3 commits in
-                                        <span class="repo">funtoo/macaroni-funtoo</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">systemd</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#6f5f711</div>
-                                        <div class="message">seed/macaroni-funtoo-base: Bump v.0.20220512</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4188f52</div>
-                                        <div class="message">pkglist/macaroni-funtoo-base: Bump v.0.20220512</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6a18856</div>
-                                        <div class="message">seed/macaroni-funtoo-stage: Bump v.0.20220512</div>
+                                        <div class="sha">#0dec9fd</div>
+                                        <div class="message">x11-misc/colord: Update finalize and rdeps</div>
                                     </div>
                                 </div>
                             </section>
@@ -370,42 +326,10 @@
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
+                                    <div>on branch <span class="code">systemd</span></div>
                                     <div class="commit">
-                                        <div class="sha">#d93b687</div>
-                                        <div class="message">macaroni/live-setup: Bump v.0.12+12</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 4 commits in
-                                        <span class="repo">funtoo/macaroni-funtoo</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#cddbb5e</div>
-                                        <div class="message">system/macaroni-funtoo-calamares: Bump v.0.20220512</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a4b9a20</div>
-                                        <div class="message">macaroni/calamares-server: Bump v.0.20220512</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1c30695</div>
-                                        <div class="message">net-libs/gupnp: Bump v.1.0.3</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3d82f77</div>
-                                        <div class="message">www-client/chromium: Fix rdeps</div>
+                                        <div class="sha">#e3e783a</div>
+                                        <div class="message">app-crypt/certbot: Fix typo</div>
                                     </div>
                                 </div>
                             </section>
@@ -424,8 +348,54 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#0d53d14</div>
-                                        <div class="message">macaroni/whip-catalog: Bump v.0.20220512</div>
+                                        <div class="sha">#fa6a7f3</div>
+                                        <div class="message">macaroni/entities-catalog: Bump v.0.20220513
+
+Add dynamic group `games`</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">funtoo/macaroni-funtoo</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">systemd</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#037957a</div>
+                                        <div class="message">app-crypt/certbot: Fix Manifest</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">funtoo/macaroni-funtoo</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#ba497ee</div>
+                                        <div class="message">macaroni/macaroni-funtoo-calamares: Update image</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#80ce837</div>
+                                        <div class="message">macaroni/calamares-server: Update image</div>
                                     </div>
                                 </div>
                             </section>
@@ -1015,7 +985,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 13 May 2022, 07:38:03 (timezone Europe/Rome) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 13 May 2022, 08:20:49 (timezone Europe/Rome) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
