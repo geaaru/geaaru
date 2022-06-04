@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2090" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1907" class="">
     <defs>
         <style/>
     </defs>
@@ -301,6 +301,58 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 9 commits in
+                                        <span class="repo">funtoo/macaroni-funtoo</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">systemd</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#eeaff95</div>
+                                        <div class="message">portage-converter/service-extra.yaml: Add sys-block/targetcli-fb</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0a00692</div>
+                                        <div class="message">dev-libs/gobject-introspection-common: Bump v.1.70.0</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6370292</div>
+                                        <div class="message">dev-libs/gobject-introspection: Bump v.1.70.0</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8cd544a</div>
+                                        <div class="message">dev-python-3/pygobject: Bump v.3.36.1</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e0fb51f</div>
+                                        <div class="message">dev-python/configshell-fb: Bump v.1.1.25</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f479eb8</div>
+                                        <div class="message">dev-python/pyudev: Bump v.0.21.0</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#74a81b8</div>
+                                        <div class="message">dev-python/rtslib-fb: Bump v.2.1.69</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fcf7da9</div>
+                                        <div class="message">dev-python/urwid: Bump v.2.1.2</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#dade75e</div>
+                                        <div class="message">sys-block/targetcli-fb: Bump v.2.1.49</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 4 commits in
                                         <span class="repo">funtoo/macaroni-funtoo</span>
                                     </div>
@@ -390,146 +442,6 @@
                                     <div class="commit">
                                         <div class="sha">#3716048</div>
                                         <div class="message">sys-block/iscsitarget: Drop package unmaintained</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1000 commits in
-                                        <span class="repo">geaaru/gentoo</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#762ab45</div>
-                                        <div class="message">www-servers/tomcat: dropped obsolete 9.0.60 &amp; 10.0.18
-
-Bug: https://bugs.gentoo.org/842051
-Signed-off-by: Miroslav Šulc &lt;fordfrog@gentoo.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e95f63b</div>
-                                        <div class="message">www-client/firefox-bin: add 91.10.0, drop 91.9.1
-
-Signed-off-by: Joonas Niilola &lt;juippis@gentoo.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4829525</div>
-                                        <div class="message">media-video/ffmpeg: Stabilize 4.4.2 arm64, #848879
-
-Signed-off-by: Sam James &lt;sam@gentoo.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#275ff99</div>
-                                        <div class="message">app-text/mupdf: Stabilize 1.19.1 arm, #848846
-
-Signed-off-by: Sam James &lt;sam@gentoo.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1cc7249</div>
-                                        <div class="message">app-text/mupdf: Stabilize 1.19.1 arm64, #848846
-
-Signed-off-by: Sam James &lt;sam@gentoo.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2f14592</div>
-                                        <div class="message">dev-libs/libindicate: Stabilize 12.10.1-r3 arm64, #848810
-
-Signed-off-by: Sam James &lt;sam@gentoo.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#25c0e9d</div>
-                                        <div class="message">dev-libs/libappindicator: Stabilize 12.10.1_p20200706 arm64, #848810
-
-Signed-off-by: Sam James &lt;sam@gentoo.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7909e0d</div>
-                                        <div class="message">dev-libs/tre: Stabilize 0.8.0_p20210321 arm64, #843221
-
-Signed-off-by: Sam James &lt;sam@gentoo.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8f3fb8a</div>
-                                        <div class="message">dev-lang/R: Stabilize 4.1.2-r1 arm64, #843221
-
-Signed-off-by: Sam James &lt;sam@gentoo.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4c0fd5b</div>
-                                        <div class="message">x11-libs/qscintilla: Stabilize 2.13.1 arm, #825670
-
-Signed-off-by: Sam James &lt;sam@gentoo.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c547bed</div>
-                                        <div class="message">dev-python/PyQt-builder: Stabilize 1.12.2 arm, #825670
-
-Signed-off-by: Sam James &lt;sam@gentoo.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0467245</div>
-                                        <div class="message">dev-python/PyQt5: Stabilize 5.15.6 arm, #825670
-
-Signed-off-by: Sam James &lt;sam@gentoo.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7b6dd2b</div>
-                                        <div class="message">dev-python/sip: Stabilize 6.5.0-r1 arm, #825670
-
-Signed-off-by: Sam James &lt;sam@gentoo.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1fb41c5</div>
-                                        <div class="message">x11-libs/qscintilla: Stabilize 2.13.1 arm64, #825670
-
-Signed-off-by: Sam James &lt;sam@gentoo.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5a9d8e4</div>
-                                        <div class="message">dev-python/PyQtWebEngine: Stabilize 5.15.5 arm64, #825670
-
-Signed-off-by: Sam James &lt;sam@gentoo.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#470962d</div>
-                                        <div class="message">dev-python/PyQt-builder: Stabilize 1.12.2 arm64, #825670
-
-Signed-off-by: Sam James &lt;sam@gentoo.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d75afba</div>
-                                        <div class="message">dev-python/PyQt5: Stabilize 5.15.6 arm64, #825670
-
-Signed-off-by: Sam James &lt;sam@gentoo.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9f81b2e</div>
-                                        <div class="message">dev-python/sip: Stabilize 6.5.0-r1 arm64, #825670
-
-Signed-off-by: Sam James &lt;sam@gentoo.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e90e15b</div>
-                                        <div class="message">net-nds/openldap: add 2.6.2
-
-Signed-off-by: Sam James &lt;sam@gentoo.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fc6127e</div>
-                                        <div class="message">dev-python/lxml: revbump w/ tigher cython dep to avoid miscompile
-
-Generated bad exception handling code.
-
-Closes: https://bugs.gentoo.org/830882
-Signed-off-by: Sam James &lt;sam@gentoo.org&gt;</div>
                                     </div>
                                 </div>
                             </section>
@@ -1119,7 +1031,7 @@ Signed-off-by: Sam James &lt;sam@gentoo.org&gt;</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 4 Jun 2022, 18:16:23 (timezone Europe/Rome) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 4 Jun 2022, 19:11:42 (timezone Europe/Rome) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
