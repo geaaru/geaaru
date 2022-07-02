@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2323" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2023" class="">
     <defs>
         <style/>
     </defs>
@@ -31,19 +31,19 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
                                     <rect class="day" x="0" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    1.94m added, 468k removed
+                                    2.35m added, 468k removed
                                 </div>
                             </section>
                             <section>
@@ -294,6 +294,30 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">funtoo/macaroni-funtoo</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">systemd</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#508528f</div>
+                                        <div class="message">seed/funtoo-kits: Bump v.0.20220701</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#86c442c</div>
+                                        <div class="message">toolchain/meta-repo: Bump v.0.20220701</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -513,163 +537,6 @@ Signed-off-by: Christian Brauner &lt;christian.brauner@ubuntu.com&gt;</div>
 
 Link: https://discuss.linuxcontainers.org/t/lxd-4-23-unable-to-start-nested-containers/13416
 Signed-off-by: Christian Brauner &lt;christian.brauner@ubuntu.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 521 commits in
-                                        <span class="repo">geaaru/lxd</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#c6f930a</div>
-                                        <div class="message">lxd/db/instances: Reference cluster package for ClusterTx helpers
-
-Signed-off-by: Max Asnaashari &lt;max.asnaashari@canonical.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fe37c21</div>
-                                        <div class="message">lxd/db/instances: Use InstanceToArgs in InstanceList
-
-This reworks InstanceList a bit to both reduce the number of
-queries and use InstanceArgs to get all the data for an instance.
-As InstanceArgs now holds all the api.Profiles each instance's profiles,
-InstanceList has been simplified to just fetch the database instances,
-convert them to InstanceArgs, and convert their projects to api.Project.
-
-Signed-off-by: Max Asnaashari &lt;max.asnaashari@canonical.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b0a07e8</div>
-                                        <div class="message">lxd/db/instances: Instance and Snapshot Conversions
-
-Signed-off-by: Max Asnaashari &lt;max.asnaashari@canonical.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d0e2fc5</div>
-                                        <div class="message">lxd/db/cluster/snapshots: Minimal cluster.Snapshot
-
-A minimal cluster.InstanceSnapshot is necessary for convertinb between
-cluster.InstanceSnapshot, cluster.Instance, and db.InstanceArgs.
-
-Signed-off-by: Max Asnaashari &lt;max.asnaashari@canonical.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4477932</div>
-                                        <div class="message">lxd/db/instances.mapper: Remove unused generator files
-
-Signed-off-by: Max Asnaashari &lt;max.asnaashari@canonical.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b05e126</div>
-                                        <div class="message">lxd/db/instances: Remove db.Instance and generator comments
-
-Signed-off-by: Max Asnaashari &lt;max.asnaashari@canonical.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7b7509e</div>
-                                        <div class="message">lxd/db/cluster/instances.mapper: Update generated code
-
-Signed-off-by: Max Asnaashari &lt;max.asnaashari@canonical.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d3ff2d6</div>
-                                        <div class="message">lxd/db/cluster/instances: cluster.Instance generator comments/helpers
-
-Signed-off-by: Max Asnaashari &lt;max.asnaashari@canonical.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e6cd148</div>
-                                        <div class="message">lxd/db/cluster/profiles: Make GetProfileIfEnabled GetProfilesIfEnabled
-
-This prevents redundant checking if a project has the profiles feature.
-
-Signed-off-by: Max Asnaashari &lt;max.asnaashari@canonical.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#72d965f</div>
-                                        <div class="message">Merge pull request #10541 from masnax/db/generator/devices
-
-Generator: Handle Devices as a collection</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e1f144b</div>
-                                        <div class="message">lxd/profiles: Update usage of CreateProfileDevices
-
-Signed-off-by: Max Asnaashari &lt;max.asnaashari@canonical.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7ca69b0</div>
-                                        <div class="message">lxd/db/cluster/mapper: update generated code
-
-Signed-off-by: Max Asnaashari &lt;max.asnaashari@canonical.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#94e05d7</div>
-                                        <div class="message">lxd/db/generate/db/method/v2: Add newLine flag to ifErrNotNil
-
-Signed-off-by: Max Asnaashari &lt;max.asnaashari@canonical.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#507915f</div>
-                                        <div class="message">lxd/db/generate/db/method/v2: Expect collections for generated reference methods
-
-There was an inconsistency in generated methods for tables that hold
-reference data for other database entities (Devices, Config, Instance
-Profiles, Certificate Projects) in that Update and Delete methods
-operated on collections and Create expected a single entity.
-
-This commit updates the generation for these methods to always expect a
-collection. A collection is more ideal than single entities because
-these sorts of relationships are often many-to-one relationships
-(Devices to a Profile).
-
-Signed-off-by: Max Asnaashari &lt;max.asnaashari@canonical.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c8a3eb0</div>
-                                        <div class="message">Merge pull request #10544 from ru-fu/video-link
-
-doc: add link to video about network forwards</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#09d8bb6</div>
-                                        <div class="message">doc: add link to video about network forwards
-
-Signed-off-by: Ruth Fuchss &lt;ruth.fuchss@canonical.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#cc23adc</div>
-                                        <div class="message">Merge pull request #10539 from tarruda/raw.qemu.conf-detailed-docs
-
-doc/instances: Add section about raw.qemu.conf</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#67cc08c</div>
-                                        <div class="message">fixup! doc/instances: Add section about raw.qemu.conf
-
-Signed-off-by: Thiago Padilha &lt;thiago@padilha.cc&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0b34d7f</div>
-                                        <div class="message">fixup! doc/instances: Add section about raw.qemu.conf
-
-Signed-off-by: Thiago Padilha &lt;thiago@padilha.cc&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b90290c</div>
-                                        <div class="message">doc/instances: Add section about raw.qemu.conf
-
-Signed-off-by: Thiago Padilha &lt;thiago@padilha.cc&gt;</div>
                                     </div>
                                 </div>
                             </section>
@@ -1259,7 +1126,7 @@ Signed-off-by: Thiago Padilha &lt;thiago@padilha.cc&gt;</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 2 Jul 2022, 01:12:54 (timezone Europe/Rome) with lowlighter/metrics@3.25.0</span>
+                <span>Last updated 2 Jul 2022, 03:08:25 (timezone Europe/Rome) with lowlighter/metrics@3.25.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
