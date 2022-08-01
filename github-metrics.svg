@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1674" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1657" class="">
     <defs>
         <style/>
     </defs>
@@ -302,6 +302,63 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
+                                        <span class="repo">geaaru/luet</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">refactor-installer</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#f5a0c5d</div>
+                                        <div class="message">Cleanup go mod</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 3 commits in
+                                        <span class="repo">geaaru/luet</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">refactor-installer</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#14eb0d6</div>
+                                        <div class="message">Drop tests from pkg/v2 related to build phase</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#67527da</div>
+                                        <div class="message">Update code to use tar-formers@v0.5.0
+
+* Added a new config section `tar_flows` to
+  customize the extract process of the packages
+  and speedup installation.
+
+* Using new options from tar-formers library
+
+* drop support for env LUET_UNPACK_MUTEX that
+  could be now configured by luet config.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9f493be</div>
+                                        <div class="message">Update vendor github.com/geaaru/tar-formers@v0.5.0</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
                                         <span class="repo">MottainaiCI/mottainai-server</span>
                                     </div>
                                 </div>
@@ -341,86 +398,6 @@
                                         <span class="code">v0.5.0</span>
                                         in
                                         <span class="repo">geaaru/tar-formers</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">geaaru/tar-formers</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#cb9c631</div>
-                                        <div class="message">Update copyright</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 4 commits in
-                                        <span class="repo">geaaru/tar-formers</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#b9681e1</div>
-                                        <div class="message">Update vendor github.com/spf13/afero@v1.9.2</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#975ff20</div>
-                                        <div class="message">tar-formers: Fix logging setup</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#03e8729</div>
-                                        <div class="message">Add vendor golang.org/x/sync</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a545b40</div>
-                                        <div class="message">Speedup untar process
-
-Untar tarball with a lot of files like for example
-the kernel sources was very slow for the f.Sync
-operation that slow down the task but it's needed
-to ensure the integrity of the file extracted.
-To speedup this step I introduced these improvements:
-- using of io.CopyBuffer instead of io.Copy
-- permits to define the size of the buffer to use on task specs (default
-  16 that stands for 16KB)
-- run parallel the operations of the f.Sync for a max of goroutine
-  configurable by the MaxOpenFiles option of the task (default 10)
-
-This the new times with (500 max open files and buffer size of 32KB):
-
- # time /tmp/tar-formers portal --file
-  ../macaroni-sources-kernel-5.18-5.18.package.tar --to . --specs
-  ./specs.yaml
-  Operation completed.
-
-  real  0m26.750s
-  user  0m15.427s
-  sys   0m42.496s
-
-instead of the old time:
-
-  real  11m24.271s
-  user  0m13.484s
-  sys   0m53.115s</div>
                                     </div>
                                 </div>
                             </section>
@@ -1010,7 +987,7 @@ instead of the old time:
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 1 Aug 2022, 19:22:54 (timezone Europe/Rome) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 1 Aug 2022, 20:20:01 (timezone Europe/Rome) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
