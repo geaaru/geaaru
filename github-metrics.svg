@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2023" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2007" class="">
     <defs>
         <style/>
     </defs>
@@ -302,6 +302,26 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
+                                        <span class="repo">geaaru/luet</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">refactor-installer</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#4b18967</div>
+                                        <div class="message">v2: CheckConflicts has safeCheck argument</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
                                         <span class="repo">funtoo/macaroni-funtoo</span>
                                     </div>
                                 </div>
@@ -456,30 +476,6 @@ io.Reader requires a new io.Reader for the new
 request. Ensure this possibility with a callback
 that the user can be use to return the io.Reader
 for every new HTTP request.</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">geaaru/luet</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">refactor-installer</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#8410923</div>
-                                        <div class="message">ArtifactsManager: Permits to run uninstall finalizer</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fa0d814</div>
-                                        <div class="message">LuetFinalizer: Implement RunUninstall</div>
                                     </div>
                                 </div>
                             </section>
@@ -1069,7 +1065,7 @@ for every new HTTP request.</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 5 Aug 2022, 19:22:41 (timezone Europe/Rome) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 5 Aug 2022, 20:17:18 (timezone Europe/Rome) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
