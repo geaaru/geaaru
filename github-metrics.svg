@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2007" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1807" class="">
     <defs>
         <style/>
     </defs>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            15710 Commits
+                            15712 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -302,6 +302,103 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
+                                        <span class="repo">geaaru/luet</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">refactor-installer</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#3325b21</div>
+                                        <div class="message">tests/integration/07_finalizer_uninstall.sh: Add missing command</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">funtoo/macaroni-funtoo</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#ccd4d44</div>
+                                        <div class="message">seed/macaroni-funtoo-race1: Bump v.0.20220806</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a50fd4a</div>
+                                        <div class="message">pkglist/macaroni-funtoo-race1: Bump v.0.20220806</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 7 commits in
+                                        <span class="repo">geaaru/luet</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">refactor-installer</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#463f0d3</div>
+                                        <div class="message">cmd/miner/remove: Add --force</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#62c4f28</div>
+                                        <div class="message">Add test integration for post-remove hook</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a202e92</div>
+                                        <div class="message">ArtifactsManager: Review finalizer and add call post-remove hook</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3c731ee</div>
+                                        <div class="message">PackageSet now permit to register finalizer
+
+Just to run post-remove hooks we register
+the finalizer on database.
+
+In particular, added:
+
+* PackageSet.SetPackageFinalizer()
+* PackageSet.GetPackageFinalizer()
+* PackageSet.RemvoePackageFinalizer()</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#71237f1</div>
+                                        <div class="message">PackageArtifact: Add GetPackage method to handle weird package metadata</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9b26ac2</div>
+                                        <div class="message">v2: Move LuetFinalizer under repository package and using yaml.v3</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#00b6ab0</div>
+                                        <div class="message">v1/ArtifactsManager: Using files list from db on remove if not passed</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
                                         <span class="repo">funtoo/macaroni-funtoo</span>
                                     </div>
                                 </div>
@@ -330,142 +427,6 @@
                                     <div class="commit">
                                         <div class="sha">#1730bff</div>
                                         <div class="message">dev-python/attrs: Bump v.22.1.0</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 3 commits in
-                                        <span class="repo">funtoo/macaroni-funtoo</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#38bf3cf</div>
-                                        <div class="message">seed/macaroni-funtoo-base: Bump v.0.20220805</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6e0726f</div>
-                                        <div class="message">pkglist/macaroni-funtoo-base: Bump v.0.20220805</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fb46d5e</div>
-                                        <div class="message">seed/macaroni-funtoo-stage: Bump v.0.20220805</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 18 commits in
-                                        <span class="repo">funtoo/macaroni-funtoo</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#f6e99b0</div>
-                                        <div class="message">portage-converter: Update specs</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fd32920</div>
-                                        <div class="message">dev-python/jsonpointer: Bump v.2.0</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f453d80</div>
-                                        <div class="message">atoms/boot: Update bdeps</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d5f8a99</div>
-                                        <div class="message">dev-python/functools32: Move to boot race</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0521b5a</div>
-                                        <div class="message">dev-python/zope-interface: Move to boot race</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fa1ccd3</div>
-                                        <div class="message">dev-python/webcolors: Move to boot race</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#39c7e0b</div>
-                                        <div class="message">dev-python/strict-rfc3339: Move to boot race</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#664cf49</div>
-                                        <div class="message">dev-python/rfc3987: Move to boot race</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3408249</div>
-                                        <div class="message">dev-python/rfc3986-validator: Move to boot race</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5e20f52</div>
-                                        <div class="message">dev-python/rfc3339-validator: Move to boot race</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#113430c</div>
-                                        <div class="message">dev-python/regex: Move to boot race</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b8a4e78</div>
-                                        <div class="message">dev-python/pyrsistent-compat: Move to boot race</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#579143a</div>
-                                        <div class="message">dev-python/pyrsistent: Move to boot race</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#00bab38</div>
-                                        <div class="message">dev-python/namespace-zope: Move to boot race</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e345e66</div>
-                                        <div class="message">dev-python/more-itertools-compat: Move to boot race</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#cd6b6bd</div>
-                                        <div class="message">dev-python/more-itertools: Move to boot race</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#41edba6</div>
-                                        <div class="message">dev-python/jsonpointer: Move to boot race</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c0f0ba1</div>
-                                        <div class="message">dev-python/attrs move to boot race</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">geaaru/luet</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">refactor-installer</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#4b18967</div>
-                                        <div class="message">v2: CheckConflicts has safeCheck argument</div>
                                     </div>
                                 </div>
                             </section>
@@ -1055,7 +1016,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 6 Aug 2022, 12:13:52 (timezone Europe/Rome) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 6 Aug 2022, 13:10:52 (timezone Europe/Rome) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
