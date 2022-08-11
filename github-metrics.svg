@@ -787,7 +787,7 @@ Drop wrong asserts and cleanup</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 1.05m out of 332m repositories</span>
+                                    <span class="gh">ranked 1.06m out of 332m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 16 stars</div>
                             </div>
@@ -987,7 +987,7 @@ Drop wrong asserts and cleanup</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 11 Aug 2022, 14:28:35 (timezone Europe/Rome) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 11 Aug 2022, 15:36:58 (timezone Europe/Rome) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
