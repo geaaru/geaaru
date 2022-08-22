@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2103" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1970" class="">
     <defs>
         <style/>
     </defs>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            15793 Commits
+                            15795 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -301,6 +301,30 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">funtoo/macaroni-funtoo</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#1883406</div>
+                                        <div class="message">seed/macaroni-funtoo-race7: Bump v.0.20220822</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f974c3c</div>
+                                        <div class="message">pkglist/macaroni-funtoo-race7: Bump v.0.20220822</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 599 commits in
                                         <span class="repo">geaaru/gentoo</span>
                                     </div>
@@ -494,62 +518,6 @@ Signed-off-by: Arthur Zamarin &lt;arthurzam@gentoo.org&gt;</div>
                                     <div class="commit">
                                         <div class="sha">#2592886</div>
                                         <div class="message">Prepare release v0.28.0</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 10 commits in
-                                        <span class="repo">funtoo/macaroni-funtoo</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#ace2837</div>
-                                        <div class="message">www-apps/grafana-bin: Bump v.9.0.7</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3e63b82</div>
-                                        <div class="message">www-client/brave-bin: Bump v.1.42.88</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3ca3a4e</div>
-                                        <div class="message">www-client/firefox-bin: Bump v.103.0.2</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9e53bba</div>
-                                        <div class="message">www-client/google-chrome: Bump v.104.0.5112.79</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6ee21ec</div>
-                                        <div class="message">www-client/vivaldi: Bump v.5.3.2679.73</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#514a7ff</div>
-                                        <div class="message">dev-lang-8.1/php: Bump v.8.1.9</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#374c113</div>
-                                        <div class="message">dev-libs/libbson: Bump v.1.22.1</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#19ea11b</div>
-                                        <div class="message">dev-libs/mongo-c-driver: Bump v.1.22.1</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#31af3c6</div>
-                                        <div class="message">dev-python/docker-py: Bump v.5.0.3</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#82b331b</div>
-                                        <div class="message">dev-python/protobuf-python: Bump v.21.5</div>
                                     </div>
                                 </div>
                             </section>
@@ -1098,7 +1066,7 @@ Signed-off-by: Arthur Zamarin &lt;arthurzam@gentoo.org&gt;</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 22 Aug 2022, 22:14:05 (timezone Europe/Rome) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 22 Aug 2022, 23:12:32 (timezone Europe/Rome) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
