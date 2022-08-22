@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1803" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2103" class="">
     <defs>
         <style/>
     </defs>
@@ -301,6 +301,150 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 599 commits in
+                                        <span class="repo">geaaru/gentoo</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#b42807e</div>
+                                        <div class="message">xfce-base/xfce4-panel: Bump to 4.17.3
+
+Signed-off-by: Michał Górny &lt;mgorny@gentoo.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0dd1c9e</div>
+                                        <div class="message">net-dns/pdns-recursor: Stabilize 4.7.1 on amd64/x86
+
+Package-Manager: Portage-3.0.30, Repoman-3.0.3
+Signed-off-by: Sven Wegener &lt;swegener@gentoo.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#16cb56f</div>
+                                        <div class="message">gui-wm/gamescope: Bump to 3.11.39, drop old 3.11.36
+
+Signed-off-by: James Le Cuirot &lt;chewi@gentoo.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#365f04c</div>
+                                        <div class="message">dev-cpp/sdbus-c++: Fix pkg-config dep on libsystemd when statically linked
+
+Closes: https://bugs.gentoo.org/865389
+Signed-off-by: James Le Cuirot &lt;chewi@gentoo.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f69e4e4</div>
+                                        <div class="message">sys-boot/systemd-boot: use python_has_version
+
+Closes: https://github.com/gentoo/gentoo/pull/26842
+Signed-off-by: Arthur Zamarin &lt;arthurzam@gentoo.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#681dd11</div>
+                                        <div class="message">sys-devel/llvm: use python_has_version
+
+Signed-off-by: Arthur Zamarin &lt;arthurzam@gentoo.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#11a65fb</div>
+                                        <div class="message">sys-fs/fuse: use python_has_version
+
+Signed-off-by: Arthur Zamarin &lt;arthurzam@gentoo.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4272e61</div>
+                                        <div class="message">sys-fs/unionfs-fuse: use python_has_version
+
+Signed-off-by: Arthur Zamarin &lt;arthurzam@gentoo.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e14924f</div>
+                                        <div class="message">sys-fs/udev: use python_has_version
+
+Signed-off-by: Arthur Zamarin &lt;arthurzam@gentoo.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#21ef29d</div>
+                                        <div class="message">sys-libs/libxcrypt: use python_has_version
+
+Signed-off-by: Arthur Zamarin &lt;arthurzam@gentoo.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4b9b780</div>
+                                        <div class="message">www-apache/mod_gnutls: use python_has_version
+
+Signed-off-by: Arthur Zamarin &lt;arthurzam@gentoo.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5ff2f73</div>
+                                        <div class="message">www-client/chromium: use python_has_version
+
+Signed-off-by: Arthur Zamarin &lt;arthurzam@gentoo.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#be8f27c</div>
+                                        <div class="message">x11-libs/libdrm: use python_has_version
+
+Signed-off-by: Arthur Zamarin &lt;arthurzam@gentoo.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2cdce3a</div>
+                                        <div class="message">x11-misc/picom: use python_has_version
+
+Signed-off-by: Arthur Zamarin &lt;arthurzam@gentoo.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0d75b67</div>
+                                        <div class="message">x11-base/xorg-proto: use python_has_version
+
+Signed-off-by: Arthur Zamarin &lt;arthurzam@gentoo.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#179b066</div>
+                                        <div class="message">dev-python/pikepdf: add 5.5.0
+
+Signed-off-by: Arthur Zamarin &lt;arthurzam@gentoo.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d7e8ebb</div>
+                                        <div class="message">app-editors/vscodium: drop 1.70.1-r1
+
+Signed-off-by: Randall T. Vasquez &lt;ran.dall@icloud.com&gt;
+Closes: https://github.com/gentoo/gentoo/pull/26932
+Signed-off-by: Arthur Zamarin &lt;arthurzam@gentoo.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7717db7</div>
+                                        <div class="message">app-editors/vscodium: add 1.70.2.22230
+
+Signed-off-by: Randall T. Vasquez &lt;ran.dall@icloud.com&gt;
+Signed-off-by: Arthur Zamarin &lt;arthurzam@gentoo.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1cc4a2e</div>
+                                        <div class="message">app-editors/vscodium: drop 1.70.0-r1
+
+Signed-off-by: Randall T. Vasquez &lt;ran.dall@icloud.com&gt;
+Signed-off-by: Arthur Zamarin &lt;arthurzam@gentoo.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#eb5c601</div>
+                                        <div class="message">app-editors/vscodium: add 1.70.1.22229
+
+Signed-off-by: Randall T. Vasquez &lt;ran.dall@icloud.com&gt;
+Signed-off-by: Arthur Zamarin &lt;arthurzam@gentoo.org&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 1 commit in
                                         <span class="repo">funtoo/macaroni-funtoo</span>
                                     </div>
@@ -406,30 +550,6 @@
                                     <div class="commit">
                                         <div class="sha">#82b331b</div>
                                         <div class="message">dev-python/protobuf-python: Bump v.21.5</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">funtoo/macaroni-funtoo</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#770f90e</div>
-                                        <div class="message">seed/macaroni-funtoo-race6: Bump v.0.20220822</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4b514c2</div>
-                                        <div class="message">pkglist/macaroni-funtoo-race6: Bump v.0.20220822</div>
                                     </div>
                                 </div>
                             </section>
@@ -978,7 +1098,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 22 Aug 2022, 19:16:10 (timezone Europe/Rome) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 22 Aug 2022, 20:15:47 (timezone Europe/Rome) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
