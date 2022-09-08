@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1820" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2153" class="">
     <defs>
         <style/>
     </defs>
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    1.68m added, 447k removed
+                                    603k added, 164k removed
                                 </div>
                             </section>
                             <section>
@@ -301,6 +301,168 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 810 commits in
+                                        <span class="repo">geaaru/lxd</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#3d50318</div>
+                                        <div class="message">lxd/db/storage/buckets: Fix member specific filter bug in GetNetworkLoadBalancers
+
+Signed-off-by: Thomas Parrott &lt;thomas.parrott@canonical.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6aad4b1</div>
+                                        <div class="message">Merge pull request #10698 from ru-fu/video-link
+
+doc/storage: add link to video about benchmarking storage drivers</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#31decfb</div>
+                                        <div class="message">doc/storage: add link to video about benchmarking storage drivers
+
+Added as a related link instead of "embedded" video, because the
+video isn't illustrating the same content as the page, but presents
+additional, related information.
+
+Signed-off-by: Ruth Fuchss &lt;ruth.fuchss@canonical.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#47871a4</div>
+                                        <div class="message">Merge pull request #10697 from tomponline/tp-warning-types-remove
+
+DB: Remove unused warning types</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b25bcf8</div>
+                                        <div class="message">lxd/db/warnings: Remove unused types
+
+These were replaced in #10695
+
+Signed-off-by: Thomas Parrott &lt;thomas.parrott@canonical.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7707526</div>
+                                        <div class="message">Merge pull request #10695 from masnax/db/one-tx/warnings
+
+Generator: New generator logic for Warnings</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#61d268b</div>
+                                        <div class="message">lxd/db/cluster: Remove version flag from generator comments
+
+Signed-off-by: Max Asnaashari &lt;max.asnaashari@canonical.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#acd8783</div>
+                                        <div class="message">lxd/db/generate: Remove v1 generator
+
+Signed-off-by: Max Asnaashari &lt;max.asnaashari@canonical.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5822fcc</div>
+                                        <div class="message">lxd/db/warnings.mapper: Remove db package warnings generated files
+
+Signed-off-by: Max Asnaashari &lt;max.asnaashari@canonical.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1dd0710</div>
+                                        <div class="message">lxd/warnings/warnings: Use cluster package helpers for Warnings
+
+Signed-off-by: Max Asnaashari &lt;max.asnaashari@canonical.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3a351cb</div>
+                                        <div class="message">lxd/warnings: Add getWarningEntityURL
+
+Signed-off-by: Max Asnaashari &lt;max.asnaashari@canonical.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#14fcce5</div>
+                                        <div class="message">shared/api/certificate: Add api.Certificate URL helper
+
+Signed-off-by: Max Asnaashari &lt;max.asnaashari@canonical.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#75345c3</div>
+                                        <div class="message">lxd/db/cluster/mapper: Get Images/Certificates by ID
+
+Signed-off-by: Max Asnaashari &lt;max.asnaashari@canonical.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d97997b</div>
+                                        <div class="message">lxd/db/cluster/warnings.mapper: Update generated code
+
+Signed-off-by: Max Asnaashari &lt;max.asnaashari@canonical.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0715495</div>
+                                        <div class="message">lxd/db/warnings.mapper: Remove db.Warnings and its code generation
+
+Signed-off-by: Max Asnaashari &lt;max.asnaashari@canonical.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9af51f0</div>
+                                        <div class="message">lxd/db/cluster/warnings: Add cluster.Warnings
+
+Signed-off-by: Max Asnaashari &lt;max.asnaashari@canonical.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cf361a6</div>
+                                        <div class="message">lxd: Update usages of warning types
+
+Signed-off-by: Max Asnaashari &lt;max.asnaashari@canonical.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8c713b2</div>
+                                        <div class="message">lxd/db/warningtype: Move warning type definitions to warningtype package
+
+Signed-off-by: Max Asnaashari &lt;max.asnaashari@canonical.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ab77b4f</div>
+                                        <div class="message">i18n: Update translation templates
+
+Signed-off-by: Thomas Hipp &lt;thomas.hipp@canonical.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7f27a3b</div>
+                                        <div class="message">lxc/remote: Allow specifying alternate server address for tokens
+
+Signed-off-by: Thomas Hipp &lt;thomas.hipp@canonical.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">MottainaiCI/repo-stable</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#b974db0</div>
+                                        <div class="message">system/luet-geaaru: Bump v.0.29.2</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 13 commits in
                                         <span class="repo">funtoo/macaroni-funtoo</span>
                                     </div>
@@ -398,46 +560,6 @@
                                     <div class="commit">
                                         <div class="sha">#c1c2869</div>
                                         <div class="message">system/luet-geaaru-testing: Bump v.0.29.2</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Created new
-                      tag
-                                        <span class="code">v0.29.2-geaaru</span>
-                                        in
-                                        <span class="repo">geaaru/luet</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">geaaru/luet</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">geaaru</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#1d9384d</div>
-                                        <div class="message">Prepare release v0.29.2</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#625e413</div>
-                                        <div class="message">RebuildIndexes: Fix rebuild when finalizer collection is not present</div>
                                     </div>
                                 </div>
                             </section>
@@ -986,7 +1108,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 8 Sept 2022, 18:20:00 (timezone Europe/Rome) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 8 Sept 2022, 19:27:06 (timezone Europe/Rome) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
