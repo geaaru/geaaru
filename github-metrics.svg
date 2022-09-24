@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1737" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2020" class="">
     <defs>
         <style/>
     </defs>
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    2.33m added, 465k removed
+                                    2.01m added, 456k removed
                                 </div>
                             </section>
                             <section>
@@ -301,6 +301,155 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 1000 commits in
+                                        <span class="repo">geaaru/gentoo</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#a18be2a</div>
+                                        <div class="message">dev-libs/libglib-testing: add new package 0.1.1
+
+Closes: https://github.com/gentoo/gentoo/pull/27366
+Signed-off-by: Pascal Jäger &lt;pascal.jaeger@leimstift.de&gt;
+Signed-off-by: Matt Turner &lt;mattst88@gentoo.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#75742d4</div>
+                                        <div class="message">sys-libs/glibc: drop duplicate patch in 2.36-r1
+
+It's in the patchset now.
+
+Closes: https://bugs.gentoo.org/872056
+Signed-off-by: Sam James &lt;sam@gentoo.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#be0e1a7</div>
+                                        <div class="message">net-libs/ngtcp2: add 0.9.0
+
+Signed-off-by: Craig Andrews &lt;candrews@gentoo.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a74c2b0</div>
+                                        <div class="message">www-client/firefox: add 105.0
+
+Signed-off-by: Joonas Niilola &lt;juippis@gentoo.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#db24476</div>
+                                        <div class="message">sys-kernel/gentoo-sources: add 5.19.10
+
+Signed-off-by: Mike Pagano &lt;mpagano@gentoo.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#091abf5</div>
+                                        <div class="message">sys-kernel/gentoo-sources: add 5.15.69
+
+Signed-off-by: Mike Pagano &lt;mpagano@gentoo.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1bf5e5b</div>
+                                        <div class="message">sys-kernel/gentoo-sources: add 5.10.144
+
+Signed-off-by: Mike Pagano &lt;mpagano@gentoo.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9cae292</div>
+                                        <div class="message">sys-kernel/gentoo-sources: add 5.4.214
+
+Signed-off-by: Mike Pagano &lt;mpagano@gentoo.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#67cb620</div>
+                                        <div class="message">sys-kernel/gentoo-sources: add 4.19.259
+
+Signed-off-by: Mike Pagano &lt;mpagano@gentoo.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fbeba2e</div>
+                                        <div class="message">sys-kernel/gentoo-sources: add 4.14.294
+
+Signed-off-by: Mike Pagano &lt;mpagano@gentoo.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3316600</div>
+                                        <div class="message">sys-kernel/gentoo-sources: add 4.9.329
+
+Signed-off-by: Mike Pagano &lt;mpagano@gentoo.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f8955fe</div>
+                                        <div class="message">net-analyzer/nagios-core: new revision fixing some SSL issues.
+
+This patch has been accepted upstream already and looks like it might
+have some security implications (in addition to fixing an ugly crash),
+so better safe than sorry. Thanks to Sylvain CANOINE for pointing it
+out.
+
+Closes: https://bugs.gentoo.org/871939
+Signed-off-by: Michael Orlitzky &lt;mjo@gentoo.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0aaa953</div>
+                                        <div class="message">net-proxy/tinyproxy: add 1.11.1_p20220908
+
+https://bugs.gentoo.org/871924
+
+Signed-off-by: Ben Kohler &lt;bkohler@gentoo.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#229548c</div>
+                                        <div class="message">sys-kernel/vanilla-sources: add 5.4.214, drop 5.4.213
+
+Signed-off-by: Mike Pagano &lt;mpagano@gentoo.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cc81eab</div>
+                                        <div class="message">sys-kernel/vanilla-sources: add 5.19.10, drop 5.19.9
+
+Signed-off-by: Mike Pagano &lt;mpagano@gentoo.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9558dfa</div>
+                                        <div class="message">sys-kernel/vanilla-sources: add 5.15.69, drop 5.15.68
+
+Signed-off-by: Mike Pagano &lt;mpagano@gentoo.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d451227</div>
+                                        <div class="message">sys-kernel/vanilla-sources: add 5.10.144, drop 5.10.143
+
+Signed-off-by: Mike Pagano &lt;mpagano@gentoo.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1f13cac</div>
+                                        <div class="message">sys-kernel/vanilla-sources: add 4.9.329, drop 4.9.328
+
+Signed-off-by: Mike Pagano &lt;mpagano@gentoo.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bf2510e</div>
+                                        <div class="message">sys-kernel/vanilla-sources: add 4.19.259, drop 4.19.258
+
+Signed-off-by: Mike Pagano &lt;mpagano@gentoo.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d89510b</div>
+                                        <div class="message">sys-kernel/vanilla-sources: add 4.14.294, drop 4.14.293
+
+Signed-off-by: Mike Pagano &lt;mpagano@gentoo.org&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 1 commit in
                                         <span class="repo">funtoo/macaroni-funtoo</span>
                                     </div>
@@ -386,34 +535,6 @@
                                     <div class="commit">
                                         <div class="sha">#6ebbbcd</div>
                                         <div class="message">portage-converter/kits-specs-map.yaml: Update</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 3 commits in
-                                        <span class="repo">funtoo/macaroni-funtoo</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">systemd</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#5e13c41</div>
-                                        <div class="message">seed/macaroni-funtoo-base: Bump v.0.20220923</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#58f346c</div>
-                                        <div class="message">pkglist/macaroni-funtoo-base: Bump v.0.20220923</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#98971b9</div>
-                                        <div class="message">seed/macaroni-funtoo-stage: Bump v.0.20220923</div>
                                     </div>
                                 </div>
                             </section>
@@ -962,7 +1083,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 24 Sept 2022, 11:15:47 (timezone Europe/Rome) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 24 Sept 2022, 12:15:37 (timezone Europe/Rome) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
