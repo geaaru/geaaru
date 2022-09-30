@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1703" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1837" class="">
     <defs>
         <style/>
     </defs>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            16523 Commits
+                            16538 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    1.02m added, 168k removed
+                                    1.34m added, 301k removed
                                 </div>
                             </section>
                             <section>
@@ -301,6 +301,162 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 7 commits in
+                                        <span class="repo">funtoo/macaroni-funtoo</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#341a18c</div>
+                                        <div class="message">Revert "kernel-5.10/rtw89: Bump v.0.20220824+5"
+
+This reverts commit a8565222e3d12ca8c80d871ff9182691eb679ff4.
+
+Revert because it seems break linux bootstrap with vega cards.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#486e0b1</div>
+                                        <div class="message">Revert "sys-fs-5.10/zfs-kmod: Bump v.2.1.5+8"
+
+This reverts commit edd041f7ed13a0137899fe56f74f934c8691470e.
+
+Revert because it seems break linux bootstrap with vega cards.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d473a64</div>
+                                        <div class="message">Revert "kernel-5.10/virtualbox-modules: Bump v.6.1.38.153438+6"
+
+This reverts commit 441a118b84c6d76ffc60b4f653172a98d874e8ca.
+
+Revert because it seems break linux bootstrap with vega cards.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c2aca83</div>
+                                        <div class="message">Revert "kernel-5.10/virtualbox-guest-additions: Bump v.6.1.38.153438+6"
+
+This reverts commit e779208f5fb8aac4b229fabc8e6d9e6aab382327.
+
+Revert because it seems break linux bootstrap with vega cards.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ccc80e1</div>
+                                        <div class="message">Revert "kernel-5.10/rtw89: Bump v.0.20220824+7"
+
+This reverts commit 51257f7de4fa14e1b9d3ee978395606d38fb40c9.
+
+Revert because it seems break linux bootstrap with vega cards.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ff677cd</div>
+                                        <div class="message">Revert "x11-drivers-5.10/nvidia-kernel-modules: Bump v.515.48.07+8"
+
+This reverts commit 0a36c57bfc0bd42be9b34f82177fb8592c0bbb3c.
+
+Revert because it seems break linux bootstrap with vega cards.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#40506d1</div>
+                                        <div class="message">Revert "kernel-5.10/lkrg: Bump v.0.9.5+6"
+
+This reverts commit 597a2236148c13612d87a7374270695d98e7e627.
+
+Revert because it seems break linux bootstrap with vega cards.</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 5 commits in
+                                        <span class="repo">funtoo/macaroni-commons</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#bca93e5</div>
+                                        <div class="message">Revert "kernel-5.10/macaroni-lts-sources: Bump v.5.10.146"
+
+This reverts commit fe1621756e0112fa48961cba5bd95c158f17f19c.
+
+Revert because it seems break linux bootstrap with vega cards.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#628fa9d</div>
+                                        <div class="message">Revert "kernel-5.10/macaroni-lts-modules: Bump v.5.10.146"
+
+This reverts commit 6a244383aca43f2d3b950113bf1100c43197f77e.
+
+Revert because it seems break linux bootstrap with vega cards.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4da700d</div>
+                                        <div class="message">Revert "kernel-5.10/macaroni-lts-minimal: Bump v.5.10.146"
+
+This reverts commit b012566e362c11eec81fa37952e58c748b607b85.
+
+Revert because it seems break linux bootstrap with vega cards.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5d998e1</div>
+                                        <div class="message">Revert "kernel-5.10/macaroni-lts-full: Bump v.5.10.146"
+
+This reverts commit ea6a0bc26970c94d779c5d0d98b8f765b59c61a9.
+
+Revert because it seems break linux bootstrap with vega cards.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#597ae45</div>
+                                        <div class="message">Revert "kernel-5.10/macaroni-lts-initramfs: Bump v.5.10.146"
+
+This reverts commit 1b30a46966997b1c0623cce5590accb57d907380.
+
+Revert because it seems break linux bootstrap with vega cards.</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 3 commits in
+                                        <span class="repo">funtoo/macaroni-funtoo</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#c0da0d1</div>
+                                        <div class="message">seed/funtoo-base: Bump v.0.20220909+12</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6458a23</div>
+                                        <div class="message">pkglist/funtoo-base: Bump v.0.20220909+1</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8864292</div>
+                                        <div class="message">seed/funtoo-base: Add dev-python/PyQt5[+websockets]</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 2 commits in
                                         <span class="repo">funtoo/macaroni-funtoo</span>
                                     </div>
@@ -332,82 +488,6 @@
                                 </div>
                                 <div class="details">
                                     <div>opened  in <span class="repo">geaaru/luet</span></div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 3 commits in
-                                        <span class="repo">funtoo/macaroni-funtoo</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#89e70a1</div>
-                                        <div class="message">seed/macaroni-funtoo-base: Bump v.0.20220929</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#dde9be6</div>
-                                        <div class="message">pkglist/macaroni-funtoo-base: Bump v.0.20220929</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#572bd0f</div>
-                                        <div class="message">seed/macaroni-funtoo-stage: Bump v.0.20220929</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">funtoo/macaroni-funtoo</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">systemd</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#447178e</div>
-                                        <div class="message">media-libs/libglvnd: Bump v.1.3.2 (new package)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#95c9d15</div>
-                                        <div class="message">media-libs/mesa: Add use flag glvnd</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">funtoo/macaroni-funtoo</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#ff717ef</div>
-                                        <div class="message">seed/funtoo-kits: Bump v.0.20220929</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#989ba75</div>
-                                        <div class="message">toolchain/meta-repo: Bump v.0.20220929</div>
-                                    </div>
                                 </div>
                             </section>
                         </div>
@@ -955,7 +1035,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 30 Sept 2022, 08:08:42 (timezone Europe/Rome) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 30 Sept 2022, 09:37:58 (timezone Europe/Rome) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
