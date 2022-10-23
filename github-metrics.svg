@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2036" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1770" class="">
     <defs>
         <style/>
     </defs>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            17166 Commits
+                            17177 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    1.30m added, 168k removed
+                                    1.92m added, 468k removed
                                 </div>
                             </section>
                             <section>
@@ -301,27 +301,47 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 4 commits in
+                                        Pushed 9 commits in
                                         <span class="repo">funtoo/macaroni-funtoo</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">terragon</span></div>
+                                    <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#9b33271</div>
-                                        <div class="message">portage-converter: Update artefacts base file</div>
+                                        <div class="sha">#29d64b2</div>
+                                        <div class="message">dev-python/PyQt-builder: Bump v.1.14.0</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#d1b3507</div>
-                                        <div class="message">Drop Dockerfile.gnome not available in terragon</div>
+                                        <div class="sha">#faaa302</div>
+                                        <div class="message">dev-python/sip: Bump v.6.7.2</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#c76e8a0</div>
-                                        <div class="message">Update Dockerfiles</div>
+                                        <div class="sha">#f8f35d9</div>
+                                        <div class="message">dev-qt-5/qtwebkit: Bump v.5.212.0_pre20200309-r2</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#d10a626</div>
-                                        <div class="message">conf/: Review configs for docker images</div>
+                                        <div class="sha">#f13931d</div>
+                                        <div class="message">dev-util/spirv-tools: Bump v.2022.2+5</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f60092c</div>
+                                        <div class="message">media-gfx/blender-bin: Bump v.3.3.1</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#dfd0900</div>
+                                        <div class="message">media-libs/shaderc: Bump v.2022.3</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#87c00c8</div>
+                                        <div class="message">media-video/mpv: Bump v.0.34.1.20221012</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#83cabba</div>
+                                        <div class="message">media-video/pipewire: Bump v.0.3.59</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f208a9f</div>
+                                        <div class="message">net-libs/cppzmq: Bump v.4.9.0</div>
                                     </div>
                                 </div>
                             </section>
@@ -338,126 +358,10 @@
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#23ab73f</div>
-                                        <div class="message">app-office/libreoffice-bin: Bump v.7.4.2.3</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">funtoo/macaroni-funtoo</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#0cd59dc</div>
-                                        <div class="message">app-emulation/virtualbox-bin: Bump v.7.0.0.153978+1</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a1aacee</div>
-                                        <div class="message">app-emulation/virtualbox-bin: Disable chm use flags that seems broken</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 19 commits in
-                                        <span class="repo">funtoo/macaroni-funtoo</span>
-                                    </div>
-                                </div>
-                                <div class="details">
                                     <div>on branch <span class="code">terragon</span></div>
                                     <div class="commit">
-                                        <div class="sha">#00ed4fb</div>
-                                        <div class="message">app-crypt-1/gpgme: Bump v.1.15.1</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#703d797</div>
-                                        <div class="message">app-crypt/gnupg: Bump v.2.2.27</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1a3aae3</div>
-                                        <div class="message">app-crypt/libb2: Bump v.0.98.1</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a0632d1</div>
-                                        <div class="message">app-crypt/pinentry: Bump v.1.1.1</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#324da23</div>
-                                        <div class="message">app-editors/nano: Bump v.6.4</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#238c66a</div>
-                                        <div class="message">app-eselect/eselect-lib-bin-symlink: Bump v.0.1.1</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5f129ce</div>
-                                        <div class="message">app-eselect/eselect-pinentry: Bump v.0.7.2</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#28a0f2f</div>
-                                        <div class="message">app-misc/editor-wrapper: Bump v.4</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#edd1879</div>
-                                        <div class="message">app-portage/portage-utils: Bump v.0.93.3</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e3675f2</div>
-                                        <div class="message">dev-libs/libassuan: Bump v.2.5.4</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#76a8fd5</div>
-                                        <div class="message">dev-libs/libgcrypt: Bump v.1.9.2</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#bf81d2f</div>
-                                        <div class="message">dev-libs/libgpg-error: Bump v.1.41</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9d63bdc</div>
-                                        <div class="message">dev-libs/libksba: Bump v.1.5.0</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#eb3447c</div>
-                                        <div class="message">dev-libs/libpcre2: Bump v.10.35</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#96183ec</div>
-                                        <div class="message">dev-libs/npth: Bump v.1.6</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#54c3641</div>
-                                        <div class="message">net-misc/curl: Bump v.7.85.0</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5076c0a</div>
-                                        <div class="message">net-misc/wget: Bump v.1.21.3</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9e5616b</div>
-                                        <div class="message">sys-apps/groff: Bump v.1.22.4</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#16007f7</div>
-                                        <div class="message">sys-apps/less: Bump v.608</div>
+                                        <div class="sha">#c7af28b</div>
+                                        <div class="message">toolchain/base: Bump v.1</div>
                                     </div>
                                 </div>
                             </section>
@@ -469,23 +373,55 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 3 commits in
-                                        <span class="repo">funtoo/macaroni-funtoo</span>
+                                        Pushed 1 commit in
+                                        <span class="repo">geaaru/luet</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">terragon</span></div>
+                                    <div>on branch <span class="code">refactor-installer</span></div>
                                     <div class="commit">
-                                        <div class="sha">#825ec17</div>
-                                        <div class="message">app-admin/ego: Bump v.2.8.6</div>
+                                        <div class="sha">#be14de4</div>
+                                        <div class="message">get_luet_root.sh: Using right default database path</div>
                                     </div>
-                                    <div class="commit">
-                                        <div class="sha">#40cdaed</div>
-                                        <div class="message">conf/luet.yaml.docker: Update</div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">geaaru/luet</span>
                                     </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">refactor-installer</span></div>
                                     <div class="commit">
-                                        <div class="sha">#f216539</div>
-                                        <div class="message">Dockerfile.dev: Review for terragon</div>
+                                        <div class="sha">#51d4b9b</div>
+                                        <div class="message">get_luet_root.sh: Using right default database path</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">geaaru/luet</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">geaaru</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#be14de4</div>
+                                        <div class="message">get_luet_root.sh: Using right default database path</div>
                                     </div>
                                 </div>
                             </section>
@@ -1034,7 +970,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 23 Oct 2022, 10:20:08 (timezone Europe/Rome) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 23 Oct 2022, 11:18:01 (timezone Europe/Rome) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
