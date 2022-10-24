@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1654" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1987" class="">
     <defs>
         <style/>
     </defs>
@@ -30,20 +30,20 @@
                         <div class="field calendar">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
-                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="30" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    1.35m added, 177k removed
+                                    1.38m added, 317k removed
                                 </div>
                             </section>
                             <section>
@@ -301,6 +301,126 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">funtoo/macaroni-funtoo</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">terragon</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#f595a98</div>
+                                        <div class="message">portage-converter: Add base-extra and update base</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8c2a17f</div>
+                                        <div class="message">atoms/base-extra: Update bdeps</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 25 commits in
+                                        <span class="repo">funtoo/macaroni-funtoo</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">terragon</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#f344369</div>
+                                        <div class="message">dev-libs/nspr: Bump v.4.35</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a6b80fd</div>
+                                        <div class="message">dev-libs/nss: Bump v.3.84</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a1e252f</div>
+                                        <div class="message">dev-libs/popt: Bump v.1.16</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2eedd73</div>
+                                        <div class="message">dev-perl/Locale-gettext: Bump v.1.70.0</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fcaead4</div>
+                                        <div class="message">dev-util/meson: Bump v.0.63.1</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#aa7b786</div>
+                                        <div class="message">dev-util/ninja: Bump v.1.9.0</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b30ac90</div>
+                                        <div class="message">dev-util/pkgconf: Bump v.1.5.4</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ba233c5</div>
+                                        <div class="message">dev-util/re2c: Bump v.1.1.1</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4e68a9b</div>
+                                        <div class="message">sys-apps/baselayout: Bump v.2.6.1</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3753acf</div>
+                                        <div class="message">sys-apps/corenetwork: Bump v.1.7.0</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1274ebd</div>
+                                        <div class="message">sys-apps/help2man: Bump v.1.47.10</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#dd46fd2</div>
+                                        <div class="message">sys-apps/openrc: Bump v.0.44.10</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3497e69</div>
+                                        <div class="message">sys-apps/sysvinit: Bump v.2.95</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b94e2cb</div>
+                                        <div class="message">sys-apps/texinfo: Bump v.6.8</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1564ea3</div>
+                                        <div class="message">sys-libs/e2fsprogs-libs: Bump v.1.46.5</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ec637b7</div>
+                                        <div class="message">sys-libs/timezone-data: Bump v.2022e</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f7214e4</div>
+                                        <div class="message">sys-process/psmisc: Bump v.23.2</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#76f71d4</div>
+                                        <div class="message">virtual/os-headers: Bump v.0</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#59cdc2a</div>
+                                        <div class="message">virtual/perl-ExtUtils-MakeMaker: Bump v.7.440.0</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2d68790</div>
+                                        <div class="message">virtual/pkgconfig: Bump v.2</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 1 commit in
                                         <span class="repo">funtoo/macaroni-funtoo</span>
                                     </div>
@@ -354,46 +474,6 @@
                                     <div class="commit">
                                         <div class="sha">#692d397</div>
                                         <div class="message">pkglist/macaroni-funtoo-base: Add missing mkdir</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">funtoo/macaroni-funtoo</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">terragon</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#0a80eb9</div>
-                                        <div class="message">seed/funtoo-base: /etc/profile is not yet present</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">funtoo/macaroni-funtoo</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">terragon</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#dc95357</div>
-                                        <div class="message">seed/macaroni-funtoo-base: Fix typo</div>
                                     </div>
                                 </div>
                             </section>
@@ -942,7 +1022,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 24 Oct 2022, 01:18:44 (timezone Europe/Rome) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 24 Oct 2022, 03:47:42 (timezone Europe/Rome) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
