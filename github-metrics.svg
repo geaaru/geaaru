@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2286" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1654" class="">
     <defs>
         <style/>
     </defs>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            17260 Commits
+                            17261 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    1.03m added, 297k removed
+                                    804k added, 25.1k removed
                                 </div>
                             </section>
                             <section>
@@ -308,6 +308,46 @@
                                 <div class="details">
                                     <div>on branch <span class="code">terragon</span></div>
                                     <div class="commit">
+                                        <div class="sha">#42fb5c5</div>
+                                        <div class="message">atoms/base-python: Review bdeps</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">funtoo/macaroni-funtoo</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#db522d9</div>
+                                        <div class="message">app-emulation/lxd: Fix typo</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">funtoo/macaroni-funtoo</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">terragon</span></div>
+                                    <div class="commit">
                                         <div class="sha">#f8b3968</div>
                                         <div class="message">atoms/base-python: Review bdeps</div>
                                     </div>
@@ -354,246 +394,6 @@
                                     <div class="commit">
                                         <div class="sha">#bf1195c</div>
                                         <div class="message">pkglist/macaroni-funtoo-race1: Bump v.0.20221025</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 49 commits in
-                                        <span class="repo">funtoo/macaroni-funtoo</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">terragon</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#62c24f9</div>
-                                        <div class="message">dev-python/pygments: Bump v.2.13.0</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1812068</div>
-                                        <div class="message">dev-python/pyopenssl: Bump v.22.1.0</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4866a6c</div>
-                                        <div class="message">dev-python/pyparsing: Bump v.2.4.7</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#83d8e79</div>
-                                        <div class="message">dev-python/pytz: Bump v.2022.5</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#cd7e544</div>
-                                        <div class="message">dev-python/requests: Bump v.2.28.1</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#480797d</div>
-                                        <div class="message">dev-python/semantic_version: Bump v.2.10.0</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d4cd318</div>
-                                        <div class="message">dev-python/setuptools-rust: Bump v.1.5.2</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1e9d55a</div>
-                                        <div class="message">dev-python/setuptools_scm: Bump v.7.0.5</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#efeaa64</div>
-                                        <div class="message">dev-python/six: Bump v.1.16.0</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#45eee29</div>
-                                        <div class="message">dev-python/snowballstemmer: Bump v.2.2.0</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f352393</div>
-                                        <div class="message">dev-python/toml: Bump v.0.10.2</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8b33d4f</div>
-                                        <div class="message">dev-python/tomli: Bump v.2.0.0</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e286eab</div>
-                                        <div class="message">dev-python/typing-extensions: Bump v.3.7.4.3</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9f67dfb</div>
-                                        <div class="message">dev-python/urllib3: Bump v.1.26.12</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#78765e6</div>
-                                        <div class="message">dev-python/wheel: Bump v.0.37.1</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ab424d2</div>
-                                        <div class="message">dev-python/zipp: Bump v.3.9.0</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#675501b</div>
-                                        <div class="message">virtual/libffi: Bump v.3.3</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2822f92</div>
-                                        <div class="message">virtual/python-enum34: Bump v.2</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#85e0b5d</div>
-                                        <div class="message">virtual/python-ipaddress: Bump v.1.0</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fa2e487</div>
-                                        <div class="message">virtual/rust: Bump v.1.64.0</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 458 commits in
-                                        <span class="repo">geaaru/lxd</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#bad9164</div>
-                                        <div class="message">lxd/networks: Start deferred networks depending on physical interfaces before logical ones
-
-Signed-off-by: Thomas Parrott &lt;thomas.parrott@canonical.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1bc1340</div>
-                                        <div class="message">gomod: go mod tidy
-
-Signed-off-by: Thomas Parrott &lt;thomas.parrott@canonical.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5806206</div>
-                                        <div class="message">lxd/networks: Don't log all networks initialized if they weren't yet
-
-Signed-off-by: Thomas Parrott &lt;thomas.parrott@canonical.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#01df73b</div>
-                                        <div class="message">lxd/firewall/drivers/drivers/nftables: Pass rules via stdin rather than as command arguments
-
-This allows for larger rulesets so we don't hit the maximum number of command line arguments limit.
-
-Signed-off-by: Thomas Parrott &lt;thomas.parrott@canonical.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b4570e5</div>
-                                        <div class="message">lxd/db/schema/schema: Add context to schema updates
-
-Signed-off-by: Max Asnaashari &lt;max.asnaashari@canonical.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#191771b</div>
-                                        <div class="message">lxd: Pass node transaction ctx to query helpers
-
-Signed-off-by: Max Asnaashari &lt;max.asnaashari@canonical.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#356a67b</div>
-                                        <div class="message">lxd: Update node.Transaction usages
-
-Signed-off-by: Max Asnaashari &lt;max.asnaashari@canonical.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#aca0dbe</div>
-                                        <div class="message">lxd/db/db: Include context in node Transaction
-
-Signed-off-by: Max Asnaashari &lt;max.asnaashari@canonical.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8cfb065</div>
-                                        <div class="message">lxd/test: Update tests
-
-Signed-off-by: Max Asnaashari &lt;max.asnaashari@canonical.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7c62299</div>
-                                        <div class="message">lxd: Pass transaction ctx through to query helpers
-
-Since adding context to cluster.Transaction, outside of lxd-generate
-helpers, this context was not actually being used for anything. Now that
-query.Scan and query.SelectObjects accept a ctx argument to pass to
-tx.QueryContext, we can pass along the transaction context to these
-helpers.
-
-Signed-off-by: Max Asnaashari &lt;max.asnaashari@canonical.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b8031b9</div>
-                                        <div class="message">lxd/db/cluster/mapper: Update generated code
-
-Signed-off-by: Max Asnaashari &lt;max.asnaashari@canonical.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4c63e2e</div>
-                                        <div class="message">lxd/db/generate/db/method: Pass context to query helpers
-
-Signed-off-by: Max Asnaashari &lt;max.asnaashari@canonical.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6c5448c</div>
-                                        <div class="message">lxd/db/query/objects: Include context in db query helpers
-
-Signed-off-by: Max Asnaashari &lt;max.asnaashari@canonical.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ec472d4</div>
-                                        <div class="message">lxd/db/cluster/mapper: Update generated code
-
-Signed-off-by: Max Asnaashari &lt;max.asnaashari@canonical.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#01cfa19</div>
-                                        <div class="message">lxd/db/generate/db/method: Use QueryRowContext for one-row queries
-
-Signed-off-by: Max Asnaashari &lt;max.asnaashari@canonical.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8d1780e</div>
-                                        <div class="message">Merge pull request #10898 from tomponline/tp-instance-project
-
-lxd: Fix calls to inst.Project().Name when used in fmt.Sprintf</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#bb8e513</div>
-                                        <div class="message">Makefile: Use same pinned version of golangci-lint as github workflows
-
-Signed-off-by: Thomas Parrott &lt;thomas.parrott@canonical.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7d37d16</div>
-                                        <div class="message">Makefile: Fix shellcheck version detection
-
-Signed-off-by: Thomas Parrott &lt;thomas.parrott@canonical.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4c8531d</div>
-                                        <div class="message">lxd: Fix calls to inst.Project().Name when used in fmt.Sprintf and related functions
-
-Signed-off-by: Thomas Parrott &lt;thomas.parrott@canonical.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#eea1896</div>
-                                        <div class="message">lxd/device: Support physical infiniband for VMs
-
-Signed-off-by: Thomas Hipp &lt;thomas.hipp@canonical.com&gt;</div>
                                     </div>
                                 </div>
                             </section>
@@ -1142,7 +942,7 @@ Signed-off-by: Thomas Hipp &lt;thomas.hipp@canonical.com&gt;</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 25 Oct 2022, 22:20:17 (timezone Europe/Rome) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 25 Oct 2022, 23:15:50 (timezone Europe/Rome) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
