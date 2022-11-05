@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1887" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2003" class="">
     <defs>
         <style/>
     </defs>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            17369 Commits
+                            17371 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    1.25m added, 216k removed
+                                    710k added, 66.9k removed
                                 </div>
                             </section>
                             <section>
@@ -301,6 +301,190 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">funtoo/macaroni-funtoo</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#8991a40</div>
+                                        <div class="message">seed/macaroni-funtoo-race1: Bump v.0.20221105</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5b9dfc2</div>
+                                        <div class="message">pkglist/macaroni-funtoo-race1: Bump v.0.20221105</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">geaaru/geaaru_overlay</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">funtoo</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#dd0a279</div>
+                                        <div class="message">sys-fs/lxcfs: Bump v.5.0.3_pre20221104</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6b80942</div>
+                                        <div class="message">sys-fs/lxcfs: Drop legacy ebuilds</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1000 commits in
+                                        <span class="repo">geaaru/gentoo</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#b9f566a</div>
+                                        <div class="message">kde-apps/ktp-auth-handler: 22.08.3 version bump
+
+Signed-off-by: Andreas Sturmlechner &lt;asturm@gentoo.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4a0f9c5</div>
+                                        <div class="message">kde-apps/ktp-approver: 22.08.3 version bump
+
+Signed-off-by: Andreas Sturmlechner &lt;asturm@gentoo.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5654a8c</div>
+                                        <div class="message">kde-apps/ktp-accounts-kcm: 22.08.3 version bump
+
+Signed-off-by: Andreas Sturmlechner &lt;asturm@gentoo.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bbc2a08</div>
+                                        <div class="message">kde-apps/kopete: 22.08.3 version bump
+
+Signed-off-by: Andreas Sturmlechner &lt;asturm@gentoo.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e15f08a</div>
+                                        <div class="message">kde-apps/krfb: 22.08.3 version bump
+
+Signed-off-by: Andreas Sturmlechner &lt;asturm@gentoo.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5fe4c86</div>
+                                        <div class="message">kde-apps/krdc: 22.08.3 version bump
+
+Signed-off-by: Andreas Sturmlechner &lt;asturm@gentoo.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#33b48cd</div>
+                                        <div class="message">kde-apps/kio-extras: 22.08.3 version bump
+
+Signed-off-by: Andreas Sturmlechner &lt;asturm@gentoo.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fa9146a</div>
+                                        <div class="message">kde-apps/kget: 22.08.3 version bump
+
+Signed-off-by: Andreas Sturmlechner &lt;asturm@gentoo.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#93ba3df</div>
+                                        <div class="message">kde-apps/kdenetwork-filesharing: 22.08.3 version bump
+
+Signed-off-by: Andreas Sturmlechner &lt;asturm@gentoo.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ee2eff1</div>
+                                        <div class="message">kde-apps/kdenetwork-meta: 22.08.3 version bump
+
+Signed-off-by: Andreas Sturmlechner &lt;asturm@gentoo.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#44a1108</div>
+                                        <div class="message">kde-apps/kaccounts-providers: 22.08.3 version bump
+
+Signed-off-by: Andreas Sturmlechner &lt;asturm@gentoo.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#919af28</div>
+                                        <div class="message">kde-apps/kaccounts-integration: 22.08.3 version bump
+
+Signed-off-by: Andreas Sturmlechner &lt;asturm@gentoo.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#99d424a</div>
+                                        <div class="message">kde-apps/dolphin-plugins-dropbox: 22.08.3 version bump
+
+Signed-off-by: Andreas Sturmlechner &lt;asturm@gentoo.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ba1f1fa</div>
+                                        <div class="message">media-sound/elisa: 22.08.3 version bump
+
+Signed-off-by: Andreas Sturmlechner &lt;asturm@gentoo.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#982fab3</div>
+                                        <div class="message">kde-apps/libkcompactdisc: 22.08.3 version bump
+
+Signed-off-by: Andreas Sturmlechner &lt;asturm@gentoo.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ee65cba</div>
+                                        <div class="message">kde-apps/libkcddb: 22.08.3 version bump
+
+Signed-off-by: Andreas Sturmlechner &lt;asturm@gentoo.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#edd1c25</div>
+                                        <div class="message">kde-apps/kwave: 22.08.3 version bump
+
+Signed-off-by: Andreas Sturmlechner &lt;asturm@gentoo.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7557af4</div>
+                                        <div class="message">kde-apps/kmix: 22.08.3 version bump
+
+Signed-off-by: Andreas Sturmlechner &lt;asturm@gentoo.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#90d2315</div>
+                                        <div class="message">kde-apps/kdenlive: 22.08.3 version bump
+
+Signed-off-by: Andreas Sturmlechner &lt;asturm@gentoo.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d972e7d</div>
+                                        <div class="message">kde-apps/kdemultimedia-meta: 22.08.3 version bump
+
+Signed-off-by: Andreas Sturmlechner &lt;asturm@gentoo.org&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 3 commits in
                                         <span class="repo">funtoo/macaroni-funtoo</span>
                                     </div>
@@ -336,122 +520,6 @@
                                 </div>
                                 <div class="details">
                                     <div>opened  in <span class="repo">geaaru/luet-portage-converter</span></div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 7 commits in
-                                        <span class="repo">funtoo/macaroni-funtoo</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">systemd</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#f0ab74a</div>
-                                        <div class="message">app-editors/vim-core: Bump v.9.0.0828</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5d2450f</div>
-                                        <div class="message">app-editors/vim: Bump v.9.0.0828</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4a911d5</div>
-                                        <div class="message">dev-util/strace: Bump v.6.0</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1cb7cbb</div>
-                                        <div class="message">net-libs/nodejs: Bump v.14.21.0</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#425313e</div>
-                                        <div class="message">sys-power/cpupower: Bump v.6.0.7</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b74d647</div>
-                                        <div class="message">dev-python/zope-interface: Bump v.5.5.1</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5edcc18</div>
-                                        <div class="message">dev-python/pyrsistent: Bump v.0.19.2</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 3 commits in
-                                        <span class="repo">funtoo/macaroni-funtoo</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">systemd</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#19cce8b</div>
-                                        <div class="message">seed/macaroni-funtoo-base: Bump v.0.20221105</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#add3e9e</div>
-                                        <div class="message">pkglist/macaroni-funtoo-base: Bump v.0.20221105</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6c93e81</div>
-                                        <div class="message">seed/macaroni-funtoo-stage: Bump v.0.20221105</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 7 commits in
-                                        <span class="repo">funtoo/macaroni-funtoo</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">terragon</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#2251d74</div>
-                                        <div class="message">scripts/create-toolchain-virtuals.sh: Update</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a6a1196</div>
-                                        <div class="message">toolchain/base-tools2: Bump v.1</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a487961</div>
-                                        <div class="message">portage-converter/base-tools2.yml: Add pkgs</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3b523bc</div>
-                                        <div class="message">seed/macaroni-funtoo-race4: Bump v.0.20221105</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8cb6364</div>
-                                        <div class="message">pkglist/macaroni-funtoo-race4: Bump v.0.20221105</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#dd2a1bc</div>
-                                        <div class="message">seed/macaroni-funtoo-race3: Add setup instructions</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e3856ea</div>
-                                        <div class="message">seed/macaroni-funtoo-stage: Add whip stuff</div>
-                                    </div>
                                 </div>
                             </section>
                         </div>
@@ -840,7 +908,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 982k out of 352m repositories</span>
+                                    <span class="gh">ranked 945k out of 352m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 19 stars</div>
                             </div>
@@ -999,7 +1067,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 5 Nov 2022, 11:15:17 (timezone Europe/Rome) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 5 Nov 2022, 12:11:27 (timezone Europe/Rome) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
