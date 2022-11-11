@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1670" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1970" class="">
     <defs>
         <style/>
     </defs>
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    759k added, 167k removed
+                                    1.08m added, 57.9k removed
                                 </div>
                             </section>
                             <section>
@@ -301,6 +301,102 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 69 commits in
+                                        <span class="repo">funtoo/macaroni-funtoo</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">terragon</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#2f26272</div>
+                                        <div class="message">net-misc/cni-plugins: Bump v.0.8.1</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f01c671</div>
+                                        <div class="message">net-misc/networkmanager: Bump v.1.40.2</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7352cd8</div>
+                                        <div class="message">net-vpn/strongswan: Bump v.5.7.2</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1e75995</div>
+                                        <div class="message">sys-block/parted: Bump v.3.2</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#37e251b</div>
+                                        <div class="message">sys-cluster/glusterfs: Bump v.9.0</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2cbeac6</div>
+                                        <div class="message">sys-cluster/singularity: Bump v.3.8.7</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b28519a</div>
+                                        <div class="message">sys-fs-3/fuse: Bump v.3.6.1</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cebfe7e</div>
+                                        <div class="message">sys-fs/cryptsetup: Bump v.2.5.0</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8eca896</div>
+                                        <div class="message">sys-fs/fuse-common: Bump v.3.4.1</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#844ca85</div>
+                                        <div class="message">sys-fs/growpart: Bump v.0.0.30</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fcbe7a3</div>
+                                        <div class="message">sys-fs/lxcfs: Bump v.4.0.12</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e1a0bd9</div>
+                                        <div class="message">sys-kernel/dummy-sources: Bump v.4.5.3</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e5a7a7c</div>
+                                        <div class="message">sys-libs/libapparmor: Bump v.3.0.1</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b95d6d8</div>
+                                        <div class="message">sys-libs/talloc: Bump v.2.3.1</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a0df26a</div>
+                                        <div class="message">sys-process/criu: Bump v.3.17.1</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c44ccbf</div>
+                                        <div class="message">sys-process/numactl: Bump v.2.0.16</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a7300f9</div>
+                                        <div class="message">sys-process/tini: Bump v.0.19.0</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0cc5b0d</div>
+                                        <div class="message">virtual/linux-sources: Bump v.3</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#aa7fad9</div>
+                                        <div class="message">virtual/logger: Bump v.0</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4e5c83f</div>
+                                        <div class="message">www-servers/caddy: Bump v.2.6.2</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 1 commit in
                                         <span class="repo">funtoo/macaroni-funtoo</span>
                                     </div>
@@ -374,30 +470,6 @@
                                     <div class="commit">
                                         <div class="sha">#be2d515</div>
                                         <div class="message">dev-python/twisted: Review bdeps</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">funtoo/macaroni-funtoo</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">terragon</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#fc9876e</div>
-                                        <div class="message">atoms-extra/dev: Review bdeps after disabling -soap on twisted</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#976d4df</div>
-                                        <div class="message">dev-python/soappy: Only available to py2.7 (drop for now)</div>
                                     </div>
                                 </div>
                             </section>
@@ -946,7 +1018,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 11 Nov 2022, 21:15:18 (timezone Europe/Rome) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 11 Nov 2022, 22:13:26 (timezone Europe/Rome) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
