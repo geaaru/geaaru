@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1654" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1787" class="">
     <defs>
         <style/>
     </defs>
@@ -301,6 +301,62 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 10 commits in
+                                        <span class="repo">funtoo/macaroni-funtoo</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">terragon</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#ac968cc</div>
+                                        <div class="message">dev-db-3/arangodb: Drop for now until could be compiled with gcc11</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#49fc5fc</div>
+                                        <div class="message">app-metrics/alertmanager-bin: Bump v.0.24.0</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f391e16</div>
+                                        <div class="message">app-metrics/blackbox_exporter-bin: Bump v.0.22.0</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#07348dc</div>
+                                        <div class="message">app-metrics/consul_exporter-bin: Bump v.0.8.0</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#68c4b3a</div>
+                                        <div class="message">app-metrics/memcached_exporter-bin: Bump v.0.10.0</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#28590ad</div>
+                                        <div class="message">app-metrics/mysqld_exporter-bin: Bump v.0.14.0</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#39254d6</div>
+                                        <div class="message">app-metrics/node_exporter-bin: Bump v.1.4.0</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5a8b73e</div>
+                                        <div class="message">app-metrics/prometheus-bin: Bump v.2.39.1</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#42ae60e</div>
+                                        <div class="message">app-metrics/redis_exporter-bin: Bump v.1.44.0</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3422429</div>
+                                        <div class="message">www-apps/grafana-bin: Bump v.9.2.1</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 1 commit in
                                         <span class="repo">funtoo/macaroni-funtoo</span>
                                     </div>
@@ -372,30 +428,6 @@
                                         <div class="message">funtoo-http: Add support to next release
 
 Signed-off-by: Daniele Rondina &lt;geaaru@gmail.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">funtoo/macaroni-funtoo</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">terragon</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#92d1f73</div>
-                                        <div class="message">portage-converter: Add db-extra.yaml</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#916d238</div>
-                                        <div class="message">portage-converter/server-extra.yaml: Update</div>
                                     </div>
                                 </div>
                             </section>
@@ -944,7 +976,7 @@ Signed-off-by: Daniele Rondina &lt;geaaru@gmail.com&gt;</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 13 Nov 2022, 19:16:20 (timezone Europe/Rome) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 13 Nov 2022, 20:11:16 (timezone Europe/Rome) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
