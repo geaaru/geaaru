@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1837" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1770" class="">
     <defs>
         <style/>
     </defs>
@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            17493 Commits
+                            17504 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    1.37m added, 217k removed
+                                    1.12m added, 64.6k removed
                                 </div>
                             </section>
                             <section>
@@ -302,14 +302,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">funtoo/macaroni-funtoo</span>
+                                        <span class="repo">funtoo/macaronictl</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#cdb2cd0</div>
-                                        <div class="message">seed/funtoo-base: Add patch for gnome-maps (meson 0.63)</div>
+                                        <div class="sha">#8e7ab7a</div>
+                                        <div class="message">Cleanup vendor/</div>
                                     </div>
                                 </div>
                             </section>
@@ -321,55 +321,47 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 11 commits in
-                                        <span class="repo">funtoo/macaroni-funtoo</span>
+                                        Pushed 9 commits in
+                                        <span class="repo">funtoo/macaronictl</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">terragon</span></div>
+                                    <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#239877f</div>
-                                        <div class="message">app-admin/cloud-init: Bump v.22.4.2</div>
+                                        <div class="sha">#7b5edc6</div>
+                                        <div class="message">.github/workflows: Update jobs</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#a38ed10</div>
-                                        <div class="message">dev-db-11/postgresql: Bump v.11.18</div>
+                                        <div class="sha">#26ecd8d</div>
+                                        <div class="message">Update vendor github.com/onsi/ginkgo/v2@v2.5.1</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#85a8e28</div>
-                                        <div class="message">dev-db-13/postgresql: Bump v.13.9</div>
+                                        <div class="sha">#7e5d78c</div>
+                                        <div class="message">Update vendor github.com/mattn/go-runewidth@v0.0.14</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#4a5c64b</div>
-                                        <div class="message">dev-libs/hiredis: Bump v.1.1.0</div>
+                                        <div class="sha">#dfd6070</div>
+                                        <div class="message">Update vendor/</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#9e9776a</div>
-                                        <div class="message">dev-libs/protobuf: Bump v.21.9</div>
+                                        <div class="sha">#50a743d</div>
+                                        <div class="message">Update vendor github.com/spf13/cobra@v1.6.1</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#c25354b</div>
-                                        <div class="message">dev-python/protobuf-python: Bump v.21.9</div>
+                                        <div class="sha">#7ce1750</div>
+                                        <div class="message">Update vendor github.com/spf13/viper@v1.14.0</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#bc7dbf9</div>
-                                        <div class="message">net-analyzer/fail2ban: Bump v.1.0.2</div>
+                                        <div class="sha">#ef6ebbc</div>
+                                        <div class="message">Move to go 1.18</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#b8e9060</div>
-                                        <div class="message">net-dns/bind-tools: Bump v.9.18.9</div>
+                                        <div class="sha">#97efea7</div>
+                                        <div class="message">specs/config: Move to yaml.v3</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#395222f</div>
-                                        <div class="message">net-dns/bind: Bump v.9.18.9</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#281879d</div>
-                                        <div class="message">net-misc/networkmanager: Bump v.1.40.4</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8acebe0</div>
-                                        <div class="message">sys-fs/cryptsetup: Bump v.2.5.0+1</div>
+                                        <div class="sha">#18512a1</div>
+                                        <div class="message">Update vendor gopkg.in/yaml.v3@v3.0.1</div>
                                     </div>
                                 </div>
                             </section>
@@ -388,8 +380,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#a7b471c</div>
-                                        <div class="message">seed/funtoo-base: Add patchgnome2048 (meson 0.63)</div>
+                                        <div class="sha">#46782c1</div>
+                                        <div class="message">seed/funtoo-base: Add patch for gnome-documents (meson 0.63)</div>
                                     </div>
                                 </div>
                             </section>
@@ -401,19 +393,15 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 2 commits in
+                                        Pushed 1 commit in
                                         <span class="repo">funtoo/macaroni-funtoo</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">terragon</span></div>
+                                    <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#18cbd82</div>
-                                        <div class="message">seed/macaroni-funtoo-race7: Bump v.0.20221126</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1f28bb0</div>
-                                        <div class="message">pkglist/macaroni-funtoo-race7: Bump v.0.20221126</div>
+                                        <div class="sha">#11ba42d</div>
+                                        <div class="message">seed/funtoo-base: Add patch for gnome-photos (meson 0.63)</div>
                                     </div>
                                 </div>
                             </section>
@@ -425,19 +413,15 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 2 commits in
+                                        Pushed 1 commit in
                                         <span class="repo">funtoo/macaroni-funtoo</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">terragon</span></div>
+                                    <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#f747b9a</div>
-                                        <div class="message">portage-converter/dev-extra.yaml: Update specs</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#31207bc</div>
-                                        <div class="message">atoms-extra/dev: Review build order</div>
+                                        <div class="sha">#cdb2cd0</div>
+                                        <div class="message">seed/funtoo-base: Add patch for gnome-maps (meson 0.63)</div>
                                     </div>
                                 </div>
                             </section>
@@ -986,7 +970,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 26 Nov 2022, 22:11:07 (timezone Europe/Rome) with lowlighter/metrics@3.29.0</span>
+                <span>Last updated 26 Nov 2022, 23:11:40 (timezone Europe/Rome) with lowlighter/metrics@3.29.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
