@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1853" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1820" class="">
     <defs>
         <style/>
     </defs>
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    956k added, 216k removed
+                                    1.01m added, 41.5k removed
                                 </div>
                             </section>
                             <section>
@@ -301,6 +301,70 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 6 commits in
+                                        <span class="repo">funtoo/macaroni-funtoo</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">terragon</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#5b77d0f</div>
+                                        <div class="message">dev-python/chardet: Bump v.5.1.0</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d75ff76</div>
+                                        <div class="message">dev-python/cryptography: Bump v.38.0.4</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#beb53ca</div>
+                                        <div class="message">dev-python/gpep517: Bump v.13</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#630367b</div>
+                                        <div class="message">dev-python/importlib_metadata: Bump v.5.1.0</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ac6bdb3</div>
+                                        <div class="message">dev-python/packaging: Bump v.22.0</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4d6741c</div>
+                                        <div class="message">dev-python/zipp: Bump v.3.11.0</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">funtoo/macaroni-funtoo</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">terragon</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#0bde8e7</div>
+                                        <div class="message">seed/macaroni-funtoo-race1: Bump v.0.20221214</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#980d46f</div>
+                                        <div class="message">pkglist/macaroni-funtoo-race1: Bump v.0.20221214</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 4 commits in
                                         <span class="repo">funtoo/macaroni-funtoo</span>
                                     </div>
@@ -370,78 +434,6 @@
                                     <div class="commit">
                                         <div class="sha">#0f6411c</div>
                                         <div class="message">app-admin/macaronictl: Bump v.0.5.0</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 9 commits in
-                                        <span class="repo">funtoo/macaroni-funtoo</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">terragon</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#b8db6f1</div>
-                                        <div class="message">app-arch/xz-utils: Bump v.5.2.9</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d6e2dd4</div>
-                                        <div class="message">dev-lang-3.7/python: Bump v.3.7.16</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#cb5ba08</div>
-                                        <div class="message">dev-lang-3.9/python: Bump v.3.9.16</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1b8babb</div>
-                                        <div class="message">dev-python/setuptools: Bump v.65.6.3</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#96f7c4c</div>
-                                        <div class="message">sys-apps/less: Bump v.617</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f3b6249</div>
-                                        <div class="message">sys-devel/m4: Bump v.1.4.19</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5595d08</div>
-                                        <div class="message">sys-libs/ncurses: Bump v.6.3+2</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d26d17a</div>
-                                        <div class="message">seed/funtoo-base: Bump v.0.20221214</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6059d0c</div>
-                                        <div class="message">pkglist/funtoo-base: Bump v.0.20221214</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">funtoo/macaroni-funtoo</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">terragon</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#f9a2900</div>
-                                        <div class="message">portage-converter/base-extra.yml: Update kmod use flags</div>
                                     </div>
                                 </div>
                             </section>
@@ -990,7 +982,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 14 Dec 2022, 18:11:16 (timezone Europe/Rome) with lowlighter/metrics@3.30.0</span>
+                <span>Last updated 14 Dec 2022, 19:15:28 (timezone Europe/Rome) with lowlighter/metrics@3.30.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
