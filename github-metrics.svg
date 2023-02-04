@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1953" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2036" class="">
     <defs>
         <style/>
     </defs>
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    1.39m added, 220k removed
+                                    130k added, 29k removed
                                 </div>
                             </section>
                             <section>
@@ -294,6 +294,46 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 6 commits in
+                                        <span class="repo">geaaru/luet</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">refactor-installer</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#f6b831e</div>
+                                        <div class="message">lxd-compose: Move to go 1.19 and drop 1.17</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#65efa73</div>
+                                        <div class="message">tests/integration/14_upgrade_revision.sh: Restore oneTimeTearDown</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e885e13</div>
+                                        <div class="message">tests/integration: Add new tests for provides and upgrades</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#074cd85</div>
+                                        <div class="message">v2/solver: Review logic to handle provides</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e0d2a04</div>
+                                        <div class="message">DefaultPackage: Add method GetProvidePackage</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b0bc77c</div>
+                                        <div class="message">ArtifactsMap: Add methods HasKey, GetKeyFromValue</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -464,26 +504,6 @@ broken installations.</div>
                                     <div class="commit">
                                         <div class="sha">#0938ecc</div>
                                         <div class="message">pkg/compiler/imagehashtree_test: Again fix hashes <img class="gemoji" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAACXBIWXMAAAsTAAALEwEAmpwYAAAKjElEQVR4nO2beVAUVx7HO9naTbm1u+XWrqnalJvovB5uFRC57/sGgREQGOa9Hm5RkBiz8VzPNeUdk+gak2yMa4ybaLJuaYxrZU3Eo7tBPFAO5fIAvADFO/62uocegYGBaUYFyl/V56+ed/y+7/dev/frNxT1wl7Yc7Uztrm/oYazlYzBPhzCa1lEijlE6jma3GYV5BGPyGMOEXgCfszR+D6HcDOPyEkWke08jVNLaDyKGkpWaq8ZySNmCYfIOU5Bfu7qpCG80vhzAZYm1zia2cbTGldqsBpPM1EsjUu5biNbYsnAyQlZUO6aBxU+06E6oAAuhBZBbUQR1Ea+qacmvAguhM6EKv8CqPCaDuXOeVA2LtNAIB6RJk7BzB80U6cUMbEcIhc7d/KETQaUu+RBdWBhFyflUulbAKedckUxOwlxj0fad4tHq0Y8F8fLLLVjOZop7+z4acdsqAooMIvTPRJRBBXe08XI0LerILf5sTj1mTrPKbTLOdQxv2kCpxyz4XzwzKfneC9RUWb3RAgekcOcReYfn67jr2X+mqXF1VxstNRaC1X+M56p490555kPvFI/NdqO0tqns1Byb6T+iUOkWR/uk3KgNqoIaqOfPxfCCuGEPhqYn3lFeop5nVdkvs4h0iKFfIXPNKiLnTm4iCkUB0WcDgr8mFdgbBbnS2g8ilPonBdCrSpoOtTFzRy0lLt3iIDw4+MIJw7I+TO2ql/xNFMlOX8+NB/qVYWDnrOeOhE4RB6WjCUTZAvAIrJLmvOVgXlQn1gwZDjtnCWJcLN0jGakyc4fU+JIyfly92yoT54xpKhLnAFlEzJ004FmvjHJ+Z8syW85hFvFV52dFhqSp0NDytCjNn7ak1ekMj2i3wJwNFklrfgXYnPhojp/yFLhny1NhctALXy5T+dPvp7zew6R++K73j0TLuJpQxvNNCi100UBjzI0fQpwHOGV0ujXTc2BS9q8IU9VREcU0KQJKOqlXp0HauHLPCI3xdF308KlrJzhQWYOlNp2nBnGaryMzf1gaeWvUWXB5dzsYUNFsPRGwP/uVQAW4d1iEsOawJW8LLiSP3xowLqzAi+sbxMzf9lzBCAshn+5LwNXCjKHHWUOusWQRYyHgfPHFBkWUvhfUDHQWKQddpwL6tgTKMgqAwF4RDSSAJfyGGh6a/hRkyIJwJQZCkCTNeIcsSTQ9JfhyaX8jiwzIi09CfCD8PCkE4HmeXhY0jQXS1nmxwbJVB7hOnEB9MNwdWG6yVycmwZHZiRA0wK1rPL9pWFuGhydkQDNC+SVL3PAunQ9jW26rwE3hAcV4Rq4ulhtEs2L1BDhMgFomgbXcTawIMYbqudONbkeYxwpjIe8YDews7IQ2xHakFPPKTedAHz33CGL8B3hQVWMBq4tSzOJK0tSwdpS1zEJBxsrWJccID4ztb7OVM5LgqIID7C0UHapP8XHSVZ9Z7x1ArAKEth1D6Agj4QH1ap0uL4ixWT+lR0GLuOsu3RSwNfRFnblhptcX+PyqbA62Q/GW1sa1BnlZg/c23Gy+lkeqJE2RJO7b4I6BFDDjVVTZXH5b4mwNtUP7G0MO50V4gw1S6f0qx5uzmSIdNNNqc54OdjCFiYQrq1Mlt3H8oB0KUkS1U0A0i5OgTg13FibNCAql8ZDtMcEUCq7OuDpYAPc/BijZb/ICwYby67hbqGkoTDaFZpXJw64b2d8dAKwtNa3+xS4Lub+YtLg5obEAZEbMclg9CQc7azg7PLJPZb7uiAELJRdne/MP3ICB9y30x66KVCiIE7d3wI14mswIB1aPpwimx/mhPfqgMTuouAey76T4Ga0nCBe03sJA+rfiQkdAoxl3uj6FlDg/cKDMicNtG5OkM16rXevDgijOy/RDa5viu+xbOWqaEj0tzcqwrElEbL71vKBSkz0cIg8MkiP8UpmRcd5GVo2x0Prx/JYxXgaFaBli/HyB+aHGBXg0KJQ2X1rXj5Fyg82GmyFOcSkS4ehpqUqaPtssiy2Ffn22nlvJ+s+y59ZG2FUgOr3I2X3rT4/SToL/GQoAJ2OJAHqspLg1rZYWTR+HA2eEw33AwIb8736VQcOd+ixfHa0o+x+CVREpYr+HUfMmwYCCMYJ10+EhTA4FW7viJZN8cog8OgmwuzkSdC6Papf5Ws/Coc4v3FdyqsCxkP9lnDZfbq1PQZKx+kWwNIxmjFUT8Yi5jPp4lLLJzFw+6so2TRuC4cdc71hU6EHHF0bZHL51p1RsGexL2ws8IC9S/2gdWfkwPqzJF5Khlzv0XnBOET8pGlQP1MF7bsjhg1VCVOldNh7VG8GFPWSsEIKPzzlpob2b8Phzh7zU/FpEHy1yAs2v+UOGwpd4ZO33WHfCh+4vCPkqbTX+nkU8JZY/GReYkleo4wZq8RzpChoXBwHd/eGmYXLO4Nh5TRn8HGxMrrKxwfZwdZ57tC2J9RsbdeQROn2CEf1ZUfplN/xiNwSo8BTDXf2hcLd70Nkc2d/CGyc7QL2dl2Py33h52YNB9Z5DahtgdYvIqDECosbIH6sdnyfAgjG0uQdKQoaZsXDvYPBsri5Lwhw7HiTHO+McJhaXThJdvsC56J1c59H+DDVXyserRohXX4sscbQ9mUY3D8UaBK3DgZAUridgVO21kogceNgUa4j/H2OM3y+2AXWz3KC+VmOEB9ia3CCFHi3wMnk9gUal8fob4oIl7woU6yEJm7iBWZhKnilwd0DgfDgcEC/WZjTdTMT6W8D365xhZaD/kbLXdzjC5vnTwIXxyc5BUGU7za4m9R+2/YwcfCMbnz6Mg6R9R2HB6hMSoQHxf7w4EjfnNnpBRYdKSzH8RawY4UL3Dvs16+yEjcO+sKy6Q76iPB2tYL2H/tXx539QXDSVS1te49Tcu1LSvULlmb+p/9iRFTw4HDfHfhrnm70PZwtRTFMcbw7u1a7grWVTsz9H7j1y/nTfqn6i9VVdP4r1ECsdIxmJIewmCsQOK+ZAveFMDPSiZM7vGBhrj00/MdnQM5LFH/qAYunOcDVA75Gf9e+NwhO+6bp7xCX0drRlDmsDKW9yiFcLYlwNnwqtO8LMotz5qL1n2FQ5qwLezG9R2ciypx2zEr9Bw6RU5IIQmM3Pgp/7o7fP+wPl+ZOFnd6HWF/9TjK/TP1NKyKzn+FVeCt+qvqwiUqMgXufB/4fEZ9RyiUB6d0ujHOFPf67d+cxiKi5hS6LLLuKh2GhllxcPe/z0aIW1+HQFVKkpTeApZmHnI0M5t6llZC41E8Tb5hO/1hotRWAzUZKmjdHvoUQj0Arr0fCRWTk/WOi9tbRNjq8dmvUs/Ljis19hwiP3b+54j4ldlNDXV5CXB9U4TsyGjfEwzNq6OgWp2oz+ZKjnMKfPaIMtOFGizGIsaO1yVU7nUXQ/xXiWcaVE5Jgtq8BLi8IBYal8XA1XVROtZEQuPSGLg4JxZqslTiKJ+YqPuA0RmWJg85BflOaIsarFY8WjWijM6I5hCzm0W4zUAM02nnED7E09rUZ7LAmduO0trRLK1N4BD5kEXCJQymmkfMDRaRNg6Jf5S8zynwbVa8n4jrOBof4RXMVt6CZAj7D7N36IW9sBdGdbL/A9KqOAv2vD/jAAAAAElFTkSuQmCC" height="16" width="16" alt="" /></div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">geaaru/luet</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">refactor-installer</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#4eaaea6</div>
-                                        <div class="message">pkg/compiler/imagehashtree_test: Fix test</div>
                                     </div>
                                 </div>
                             </section>
@@ -1032,7 +1052,7 @@ broken installations.</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 4 Feb 2023, 15:10:07 (timezone Europe/Rome) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 4 Feb 2023, 16:11:12 (timezone Europe/Rome) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
