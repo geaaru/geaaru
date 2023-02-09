@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            19027 Commits
+                            19028 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    2.35m added, 773k removed
+                                    2.19m added, 921k removed
                                 </div>
                             </section>
                             <section>
@@ -225,14 +225,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="281.38442861911744" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="281.38442861911744" y="0" width="150.63852069718345" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="432.02294931630087" y="0" width="12.166802471895528" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="444.18975178819636" y="0" width="6.440760571493287" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="450.6305123596897" y="0" width="2.64502492637462" height="8" fill="#0298c3"/>
-                    <rect mask="url(#languages-bar)" x="453.27553728606426" y="0" width="2.412736480310221" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="455.6882737663745" y="0" width="2.374785953002766" height="8" fill="#427819"/>
-                    <rect mask="url(#languages-bar)" x="458.0630597193773" y="0" width="1.9369402806226652" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="281.3697487260706" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="281.3697487260706" y="0" width="150.65466015966638" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="432.024408885737" y="0" width="12.166167726896006" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="444.19057661263304" y="0" width="6.4404245554713855" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="450.6310011681044" y="0" width="2.6448869347905934" height="8" fill="#0298c3"/>
+                    <rect mask="url(#languages-bar)" x="453.275888102895" y="0" width="2.412610607270071" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="455.68849871016505" y="0" width="2.374662059850717" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="458.06316077001577" y="0" width="1.9368392299842299" height="8" fill="#563d7c"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -294,6 +294,26 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">geaaru/luet</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">geaaru</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#13dde62</div>
+                                        <div class="message">database: Review provides search</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -378,26 +398,6 @@
                                     <div class="commit">
                                         <div class="sha">#0f0ca9b</div>
                                         <div class="message">app-admin/macaronictl: Add conflict with macaronictl-thin</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">macaroni-os/macaroni-commons</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#86ffaad</div>
-                                        <div class="message">app-admin/macaronictl: Bump v.0.6.0</div>
                                     </div>
                                 </div>
                             </section>
@@ -833,7 +833,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 2.86m out of 375m repositories</span>
+                                    <span class="gh">ranked 2.90m out of 375m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 2 times</div>
                             </div>
@@ -946,7 +946,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 9 Feb 2023, 22:11:30 (timezone Europe/Rome) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 9 Feb 2023, 23:12:19 (timezone Europe/Rome) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
