@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1587" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1903" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}.gauge text,h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.field.warning{color:#d79533}.field.warning svg{fill:#d79533}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details,footer{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}.label{background-color:#58a6ff30;color:#0366d6;padding:0 10px;font-weight:500;line-height:22px;margin:2px 5px;white-space:nowrap;border-radius:32px;font-size:12px}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;flex-direction:column;justify-content:flex-end;padding:0 4px}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .bold,.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement .value{background-color:#58a6ff26}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.x .value{background-color:#b0b0b026}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.b .value{background-color:#9e91ff26}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.a .value{background-color:#e7bd6926}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.s .value{background-color:#eb355e26}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement.secret .value{background-color:#ff79d126}.achievement .gh,.achievement .value{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}.achievement .value{margin-left:46px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}.gauge text,h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details,footer{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;flex-direction:column;justify-content:flex-end;padding:0 4px}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .bold,.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement .gh{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    4.32m added, 1.45m removed
+                                    4.33m added, 1.45m removed
                                 </div>
                             </section>
                             <section>
@@ -301,6 +301,142 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 1000 commits in
+                                        <span class="repo">geaaru/gentoo</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#1a38d67</div>
+                                        <div class="message">dev-python/rfc3986-validator: Use pypi.eclass
+
+Signed-off-by: Michał Górny &lt;mgorny@gentoo.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2f077bf</div>
+                                        <div class="message">dev-python/restructuredtext-lint: Use pypi.eclass
+
+Signed-off-by: Michał Górny &lt;mgorny@gentoo.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#60d5822</div>
+                                        <div class="message">dev-python/pytest-markdown: Use pypi.eclass
+
+Signed-off-by: Michał Górny &lt;mgorny@gentoo.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3e74d10</div>
+                                        <div class="message">dev-python/precis-i18n: Use pypi.eclass
+
+Signed-off-by: Michał Górny &lt;mgorny@gentoo.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ad05382</div>
+                                        <div class="message">sys-cluster/ceph: Drop no longer needed snappy dep from 15.2.17
+
+Signed-off-by: Patrick McLean &lt;chutzpah@gentoo.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ca4d871</div>
+                                        <div class="message">sys-cluster/ceph: drop 15.2.17-r1, 16.2.10-r3, 16.2.10-r4
+
+Signed-off-by: Patrick McLean &lt;chutzpah@gentoo.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7925308</div>
+                                        <div class="message">net-libs/c-client: Stabilize 2007f_p7 sparc, #901883
+
+Signed-off-by: Sam James &lt;sam@gentoo.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c09a817</div>
+                                        <div class="message">app-text/crqt-ng: Stabilize 1.0.9 x86, #901773
+
+Signed-off-by: Sam James &lt;sam@gentoo.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6cdcb29</div>
+                                        <div class="message">app-text/crengine-ng: Stabilize 0.9.7 x86, #901773
+
+Signed-off-by: Sam James &lt;sam@gentoo.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e04cb51</div>
+                                        <div class="message">net-libs/libgssglue: Stabilize 0.7 x86, #901943
+
+Signed-off-by: Sam James &lt;sam@gentoo.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a4abda2</div>
+                                        <div class="message">media-gfx/libimagequant: Stabilize 4.1.0 amd64, #901915
+
+Signed-off-by: Sam James &lt;sam@gentoo.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b337316</div>
+                                        <div class="message">dev-db/kyotocabinet: Stabilize 1.2.79-r1 x86, #901935
+
+Signed-off-by: Sam James &lt;sam@gentoo.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6acf88b</div>
+                                        <div class="message">net-libs/libpsl: Stabilize 0.21.2 sparc, #901887
+
+Signed-off-by: Sam James &lt;sam@gentoo.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2f9b8d7</div>
+                                        <div class="message">xfce-base/xfce4-session: Stabilize 4.18.1 arm64, #901761
+
+Signed-off-by: Sam James &lt;sam@gentoo.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1a3184d</div>
+                                        <div class="message">media-gfx/libimagequant: Stabilize 4.1.0 sparc, #901915
+
+Signed-off-by: Sam James &lt;sam@gentoo.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a63e8f3</div>
+                                        <div class="message">app-forensics/aide: Stabilize 0.18 amd64, #901901
+
+Signed-off-by: Sam James &lt;sam@gentoo.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#de72ef9</div>
+                                        <div class="message">xfce-base/xfce4-session: Stabilize 4.18.1 arm, #901761
+
+Signed-off-by: Sam James &lt;sam@gentoo.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d776d74</div>
+                                        <div class="message">xfce-base/xfce4-power-manager: Stabilize 4.18.1 arm, #901759
+
+Signed-off-by: Sam James &lt;sam@gentoo.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3531bed</div>
+                                        <div class="message">xfce-base/xfce4-power-manager: Stabilize 4.18.1 arm64, #901759
+
+Signed-off-by: Sam James &lt;sam@gentoo.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#25c0195</div>
+                                        <div class="message">xfce-base/libxfce4ui: Remove old
+
+Signed-off-by: Michał Górny &lt;mgorny@gentoo.org&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 1 commit in
                                         <span class="repo">macaroni-os/macaroni-commons</span>
                                     </div>
@@ -365,65 +501,6 @@
                                         <span class="code">v0.8.0</span>
                                         in
                                         <span class="repo">macaroni-os/macaronictl</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">macaroni-os/macaroni-funtoo</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#101f8a5</div>
-                                        <div class="message">Revert "app-arch/rpm: Bump v.4.18.1"
-
-This reverts commit 7b7485e8f802abe9f1997eb5091feb69bdeecee2.
-
-It seems that doesn't compile:
-
-```
-fsm.c:1019:6: error: a label can only be part of a statement and a
-declaration is not a statement
- 1019 |      int mayopen = S_ISREG(fp-&gt;sb.st_mode) ||
- S_ISDIR(fp-&gt;sb.st_mode);
-       |      ^~~
-       fsm.c: In function ‘removeSBITS’:
-       fsm.c:473:13: warning: ignoring return value of ‘fchmodat’,
-       declared with attribute warn_unused_result [-Wunused-result]
-         473 |      (void) fchmodat(dirfd, path, stb.st_mode &amp; 0777,
-             flags);
-      |             ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-      make[3]: *** [Makefile:791: fsm.lo] Error 1
-      make[3]: *** Waiting for unfinished jobs....
-      libtool: compile:  x86_64-pc-linux-gnu-gcc -DHAVE_CONFIG_H -I..
-      -I.. -I../include -I/usr/include/lua5.3 -I../misc
-      -DLOCALEDIR=\"/usr/share/locale\" -DSYSCONFDIR=\"/etc\"
-      -DLOCALSTATEDIR=\"/var/lib\"
-      -DLIBRPMALIAS_FILENAME=\"rpmpopt-4.18.1\"
-      -DLIBRPMALIAS_EXECPATH=\"/usr/bin\" -Wall -Wpointer-arith
-      -Wmissing-prototypes -Wstrict-prototypes -fno-strict-aliasing
-      -fno-strict-overflow -fno-delete-null-pointer-checks -Wempty-body
-      -mtune=generic -O2 -pipe -c package.c  -fPIC -DPIC -o
-      .libs/package.o
-      make[3]: Leaving directory
-      '/var/tmp/portage/app-arch/rpm-4.18.1/work/rpm-4.18.1/lib'
-      make[2]: *** [Makefile:587: all] Error 2
-      make[2]: Leaving directory
-      '/var/tmp/portage/app-arch/rpm-4.18.1/work/rpm-4.18.1/lib'
-      make[1]: *** [Makefile:1303: all-recursive] Error 1
-      make[1]: Leaving directory
-      '/var/tmp/portage/app-arch/rpm-4.18.1/work/rpm-4.18.1'
-      make: *** [Makefile:742: all] Error 2
-```</div>
                                     </div>
                                 </div>
                             </section>
@@ -972,7 +1049,7 @@ declaration is not a statement
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 19 Mar 2023, 09:14:29 (timezone Europe/Rome) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 19 Mar 2023, 10:11:30 (timezone Europe/Rome) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
