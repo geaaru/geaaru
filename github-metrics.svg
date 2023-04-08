@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2053" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1753" class="">
     <defs>
         <style/>
     </defs>
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    4.32m added, 1.45m removed
+                                    3.65m added, 1.10m removed
                                 </div>
                             </section>
                             <section>
@@ -301,6 +301,30 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">macaroni-os/macaroni-funtoo</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">systemd</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#c5863de</div>
+                                        <div class="message">seed/macaroni-funtoo-race1: Bump v.0.20230408</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4e3c2b6</div>
+                                        <div class="message">pkglist/macaroni-funtoo-race1: Bump v.0.20230408</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 1 commit in
                                         <span class="repo">macaroni-os/macaroni-funtoo</span>
                                     </div>
@@ -394,173 +418,6 @@
                                     <div class="commit">
                                         <div class="sha">#bf08084</div>
                                         <div class="message">seed/macaroni-funtoo-stage: Bump v.0.20230408</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1000 commits in
-                                        <span class="repo">geaaru/gentoo</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#7ad5168</div>
-                                        <div class="message">net-misc/asterisk: add 20.2.0
-
-Signed-off-by: Jaco Kroon &lt;jaco@uls.co.za&gt;
-Signed-off-by: Joonas Niilola &lt;juippis@gentoo.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0697e55</div>
-                                        <div class="message">net-libs/pjproject: Add 2.13-r1
-
-Bug: https://bugs.gentoo.org/887559
-Closes: https://bugs.gentoo.org/888879
-Signed-off-by: Jaco Kroon &lt;jaco@uls.co.za&gt;
-Closes: https://github.com/gentoo/gentoo/pull/30088
-Signed-off-by: Joonas Niilola &lt;juippis@gentoo.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9b3461d</div>
-                                        <div class="message">acct-user/deluge: add /var/lib/deluge as ACCT_USER_HOME
-
-Sets homedir for the 'deluge' user to '/var/lib/deluge'
-which is the default working directory for both deluged and
-deluge-web when started with openrc. This change makes the openrc
-scripts work out-of-the-box after emerging deluge.
-
-Previously users were required to manually create and set
-permissions for this directory and/or edit configs for deluged and
-deluge-web for them to be startable via openrc. Since the deluge
-user also writes logs to this directory by default, this solution
-is not always apparent to users.
-
-Closes: https://bugs.gentoo.org/828507
-Signed-off-by: kolhell &lt;kolspambox@gmail.com&gt;
-Closes: https://github.com/gentoo/gentoo/pull/30272
-Signed-off-by: Joonas Niilola &lt;juippis@gentoo.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#328a11b</div>
-                                        <div class="message">dev-java/tomcat-servlet-api: remove unused files
-
-Signed-off-by: Michael Mair-Keimberger &lt;mmk@levelnine.at&gt;
-Closes: https://github.com/gentoo/gentoo/pull/30473
-Signed-off-by: Miroslav Šulc &lt;fordfrog@gentoo.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f137d02</div>
-                                        <div class="message">dev-java/batik: drop 1.14-r1
-
-Closes: https://bugs.gentoo.org/903687
-Closes: https://bugs.gentoo.org/903600
-Signed-off-by: Volkmar W. Pogatzki &lt;gentoo@pogatzki.net&gt;
-Closes: https://github.com/gentoo/gentoo/pull/30480
-Signed-off-by: Miroslav Šulc &lt;fordfrog@gentoo.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f882ffe</div>
-                                        <div class="message">dev-java/fop: drop 2.7
-
-Closes: https://bugs.gentoo.org/903672
-Bug: https://bugs.gentoo.org/903687
-Signed-off-by: Volkmar W. Pogatzki &lt;gentoo@pogatzki.net&gt;
-Signed-off-by: Miroslav Šulc &lt;fordfrog@gentoo.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#367268c</div>
-                                        <div class="message">dev-java/jakarta-activation-api: drop 2.1.0-r1
-
-Signed-off-by: Volkmar W. Pogatzki &lt;gentoo@pogatzki.net&gt;
-Signed-off-by: Miroslav Šulc &lt;fordfrog@gentoo.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6338128</div>
-                                        <div class="message">dev-java/jakarta-mail-api: drop 2.1.0-r1
-
-Signed-off-by: Volkmar W. Pogatzki &lt;gentoo@pogatzki.net&gt;
-Signed-off-by: Miroslav Šulc &lt;fordfrog@gentoo.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c16983e</div>
-                                        <div class="message">dev-java/byte-buddy: drop 1.12.21
-
-Signed-off-by: Volkmar W. Pogatzki &lt;gentoo@pogatzki.net&gt;
-Signed-off-by: Miroslav Šulc &lt;fordfrog@gentoo.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#859456e</div>
-                                        <div class="message">app-text/dblatex: Stabilize 0.3.12 ppc64, #903858
-
-Signed-off-by: Arthur Zamarin &lt;arthurzam@gentoo.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4a07414</div>
-                                        <div class="message">dev-python/kiwisolver: Stabilize 1.4.4-r1 hppa, #903846
-
-Signed-off-by: Arthur Zamarin &lt;arthurzam@gentoo.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b90f788</div>
-                                        <div class="message">sys-kernel/vanilla-sources: add 4.14.312, drop 4.14.311
-
-Signed-off-by: Alice Ferrazzi &lt;alicef@gentoo.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b6fb821</div>
-                                        <div class="message">sys-kernel/vanilla-sources: add 4.19.280, drop 4.19.279
-
-Signed-off-by: Alice Ferrazzi &lt;alicef@gentoo.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7ba79b4</div>
-                                        <div class="message">sys-kernel/vanilla-sources: add 5.4.240, drop 5.4.239
-
-Signed-off-by: Alice Ferrazzi &lt;alicef@gentoo.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a87a6b6</div>
-                                        <div class="message">sys-kernel/vanilla-sources: add 5.10.177, drop 5.10.176
-
-Signed-off-by: Alice Ferrazzi &lt;alicef@gentoo.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4f98f21</div>
-                                        <div class="message">sys-kernel/vanilla-sources: add 5.15.106, drop 5.15.105
-
-Signed-off-by: Alice Ferrazzi &lt;alicef@gentoo.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#95c47c5</div>
-                                        <div class="message">dev-python/argcomplete: Remove old
-
-Signed-off-by: Michał Górny &lt;mgorny@gentoo.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8d23e5f</div>
-                                        <div class="message">dev-python/cryptography: Stabilize 40.0.1 ppc64, #903815
-
-Signed-off-by: Jakov Smolić &lt;jsmolic@gentoo.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9efab81</div>
-                                        <div class="message">app-text/dblatex: Stabilize 0.3.12 arm64, #903858
-
-Signed-off-by: Arthur Zamarin &lt;arthurzam@gentoo.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3a647be</div>
-                                        <div class="message">app-text/dblatex: Stabilize 0.3.12 arm, #903858
-
-Signed-off-by: Arthur Zamarin &lt;arthurzam@gentoo.org&gt;</div>
                                     </div>
                                 </div>
                             </section>
@@ -996,7 +853,7 @@ Signed-off-by: Arthur Zamarin &lt;arthurzam@gentoo.org&gt;</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 3.15m out of 392m repositories</span>
+                                    <span class="gh">ranked 3.12m out of 392m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 2 times</div>
                             </div>
@@ -1109,7 +966,7 @@ Signed-off-by: Arthur Zamarin &lt;arthurzam@gentoo.org&gt;</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 8 Apr 2023, 21:08:35 (timezone Europe/Rome) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 8 Apr 2023, 22:10:38 (timezone Europe/Rome) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
