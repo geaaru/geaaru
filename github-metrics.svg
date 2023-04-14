@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2020" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2369" class="">
     <defs>
         <style/>
     </defs>
@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            21743 Commits
+                            21766 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    1.61m added, 563k removed
+                                    4.34m added, 1.46m removed
                                 </div>
                             </section>
                             <section>
@@ -294,6 +294,102 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 23 commits in
+                                        <span class="repo">macaroni-os/macaroni-funtoo</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#77d5992</div>
+                                        <div class="message">x11-misc/gccmakedep: Update bdeps</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c37d1d9</div>
+                                        <div class="message">sys-boot/mokutil: Update rdeps</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0c66a51</div>
+                                        <div class="message">sys-apps/pcsc-lite: Update specs</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b4ec184</div>
+                                        <div class="message">net-misc/spice-gtk: Update deps</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#57bf8a6</div>
+                                        <div class="message">net-misc/remmina: Update bdeps and rdeps</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ee47dbb</div>
+                                        <div class="message">net-misc/freerdp: Update rdeps and bdeps</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2dcf893</div>
+                                        <div class="message">net-libs-2.0/phodav: Update bdeps</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7f3f512</div>
+                                        <div class="message">net-libs/libvncserver: Update specs</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c7ad40b</div>
+                                        <div class="message">net-dialup/minicom: Update uri</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#39374bd</div>
+                                        <div class="message">dev-perl/Text-CSV: Update bdeps</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d75d620</div>
+                                        <div class="message">dev-libs-3/libindicator: Update bdeps</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8b8a12c</div>
+                                        <div class="message">dev-libs-3/libappindicator: Update bdeps</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7c6b69b</div>
+                                        <div class="message">dev-libs/libedit: Update rdeps</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#40a90da</div>
+                                        <div class="message">app-shells/tcsh: Update rdeps</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2dd1f6d</div>
+                                        <div class="message">app-admin/makepasswd: Update specs</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#900628b</div>
+                                        <div class="message">www-client/brave-bin: Bump v.1.49.128</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f6d20df</div>
+                                        <div class="message">www-client/firefox-bin: Bump v.111.0.1</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7005535</div>
+                                        <div class="message">www-client/google-chrome: Bump v.111.0.5563.110</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cdf9529</div>
+                                        <div class="message">net-im/telegram-desktop-bin: Bump v.4.7.1</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#25052bd</div>
+                                        <div class="message">net-misc/postman-bin: Bump v.10.12.0+2</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -470,19 +566,6 @@
                                     <div class="commit">
                                         <div class="sha">#df6787f</div>
                                         <div class="message">seed/macaroni-funtoo-office: hidden package</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 5a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm.061 3.073a4 4 0 10-5.123 0 6.004 6.004 0 00-3.431 5.142.75.75 0 001.498.07 4.5 4.5 0 018.99 0 .75.75 0 101.498-.07 6.005 6.005 0 00-3.432-5.142z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Added nomorelogic as collaborator in
-                                        <span class="repo">macaroni-os/pageant</span>
                                     </div>
                                 </div>
                             </section>
@@ -918,7 +1001,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 3.14m out of 393m repositories</span>
+                                    <span class="gh">ranked 3.15m out of 393m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 2 times</div>
                             </div>
@@ -1031,7 +1114,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 14 Apr 2023, 20:13:41 (timezone Europe/Rome) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 14 Apr 2023, 21:08:49 (timezone Europe/Rome) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
