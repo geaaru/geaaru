@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1987" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1687" class="">
     <defs>
         <style/>
     </defs>
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    4.37m added, 1.46m removed
+                                    3.57m added, 1.31m removed
                                 </div>
                             </section>
                             <section>
@@ -301,6 +301,50 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">macaroni-os/macaroni-funtoo</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#9dbd9a2</div>
+                                        <div class="message">seed/macaroni-funtoo-race8: Bump v.0.20230418</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">macaroni-os/macaroni-funtoo</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#d794082</div>
+                                        <div class="message">dev-lang/fpc: Bump v.3.2.2 (new package)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6d3b22e</div>
+                                        <div class="message">dev-lang/lazarus: Bump v.2.2.4 (new package)</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 2 commits in
                                         <span class="repo">macaroni-os/macaroni-funtoo</span>
                                     </div>
@@ -358,122 +402,6 @@
                                     <div class="commit">
                                         <div class="sha">#dfa1d5e</div>
                                         <div class="message">sys-libs/libstatgrab: Bump v.0.91+1</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 36 commits in
-                                        <span class="repo">macaroni-os/macaroni-funtoo</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#a3bbd79</div>
-                                        <div class="message">lxqt-base/lxqt-openssh-askpass: Bump v.1.2.0 (new package)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#00a847b</div>
-                                        <div class="message">lxqt-base/lxqt-panel: Bump v.1.2.1 (new package)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1559b89</div>
-                                        <div class="message">lxqt-base/lxqt-policykit: Bump v.1.2.0 (new package)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0e85833</div>
-                                        <div class="message">lxqt-base/lxqt-powermanagement: Bump v.1.2.0 (new package)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#53372c0</div>
-                                        <div class="message">lxqt-base/lxqt-qtplugin: Bump v.1.2.0 (new package)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#641f96c</div>
-                                        <div class="message">lxqt-base/lxqt-runner: Bump v.1.2.0 (new package)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8b4ccf7</div>
-                                        <div class="message">lxqt-base/lxqt-session: Bump v.1.2.0 (new package)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#316f63c</div>
-                                        <div class="message">lxqt-base/lxqt-sudo: Bump v.1.2.0 (new package)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e7f6475</div>
-                                        <div class="message">media-gfx/lximage-qt: Bump v.1.2.0 (new package)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2826798</div>
-                                        <div class="message">media-sound/pavucontrol-qt: Bump v.1.2.0 (new package)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#57635f5</div>
-                                        <div class="message">sys-libs/libstatgrab: Bump v.0.91 (new package)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#401a488</div>
-                                        <div class="message">x11-libs/libfm-qt: Bump v.1.2.1 (new package)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#36210dc</div>
-                                        <div class="message">x11-libs/qtermwidget: Bump v.1.2.0 (new package)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#733a4a3</div>
-                                        <div class="message">x11-misc/lightdm: Bump v.1.30.0 (new package)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b714e3d</div>
-                                        <div class="message">x11-misc/pcmanfm-qt: Bump v.1.2.1 (new package)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ee1c702</div>
-                                        <div class="message">x11-misc/qps: Bump v.2.6.0 (new package)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7f55146</div>
-                                        <div class="message">x11-misc/screengrab: Bump v.2.5.0 (new package)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c0f91bf</div>
-                                        <div class="message">x11-terms/qterminal: Bump v.1.2.0 (new package)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#910c040</div>
-                                        <div class="message">x11-themes/lxqt-themes: Bump v.1.2.0 (new package)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#316ff84</div>
-                                        <div class="message">dev-lang-2.7/python: Dropped. py2.7 is EOL!</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">macaroni-os/macaroni-funtoo</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#b714f11</div>
-                                        <div class="message">app-text/ronn: Bump v.0.7.3+1</div>
                                     </div>
                                 </div>
                             </section>
@@ -1022,7 +950,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 18 Apr 2023, 18:12:42 (timezone Europe/Rome) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 18 Apr 2023, 19:09:06 (timezone Europe/Rome) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
