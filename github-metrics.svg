@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1987" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2286" class="">
     <defs>
         <style/>
     </defs>
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    3.56m added, 1.02m removed
+                                    3.38m added, 1.21m removed
                                 </div>
                             </section>
                             <section>
@@ -294,6 +294,102 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 95 commits in
+                                        <span class="repo">macaroni-os/macaroni-funtoo</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">terragon</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#0dedc56</div>
+                                        <div class="message">sys-devel/gdb: Update build.yaml</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d11ee02</div>
+                                        <div class="message">sys-apps/metatools: Update specs</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#66e4fac</div>
+                                        <div class="message">net-misc/sshpass: Update build.yaml</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#101bf60</div>
+                                        <div class="message">net-misc/ipcalc: Update build.yaml</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c851a77</div>
+                                        <div class="message">dev-util-3/xdelta: Update build.yaml</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1c440c6</div>
+                                        <div class="message">dev-util/strace: Update build.yaml</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#294340b</div>
+                                        <div class="message">dev-util/kbuild: Update build.yaml</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ef0e67b</div>
+                                        <div class="message">dev-util/ctags: Update build.yaml</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7dfe8fd</div>
+                                        <div class="message">dev-util/cscope: Update build.yaml</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ac2b50c</div>
+                                        <div class="message">dev-libs/libisofs: Update build.yaml</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4abf8f9</div>
+                                        <div class="message">dev-libs/libisoburn: Update build.yaml</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#adf465b</div>
+                                        <div class="message">dev-libs/libburn: Update build.yaml</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d7e8def</div>
+                                        <div class="message">app-text/discount: Update build.yaml</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a80df94</div>
+                                        <div class="message">app-shells/quoter: Update build.yaml</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#65d2667</div>
+                                        <div class="message">app-shells/push: Update build.yaml</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a8f2877</div>
+                                        <div class="message">app-portage/eix: Update build.yaml</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b34df04</div>
+                                        <div class="message">app-misc/tmux: Update build.yaml</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6fc76fe</div>
+                                        <div class="message">app-eselect/eselect-ctags: Update build.yaml</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d6a81f6</div>
+                                        <div class="message">app-editors/vim-core: Update build.yaml</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4b50bfd</div>
+                                        <div class="message">app-editors/vim: Update build.yaml</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -454,30 +550,6 @@
                                     <div class="commit">
                                         <div class="sha">#56eb0f4</div>
                                         <div class="message">net-libs/nodejs: Bump v.20.1.0</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">macaroni-os/macaroni-funtoo</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">terragon</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#82981ca</div>
-                                        <div class="message">seed/macaroni-funtoo-race5: Bump v.0.20230520</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6be3433</div>
-                                        <div class="message">pkglist/macaroni-funtoo-race5: Bump v.0.20230520</div>
                                     </div>
                                 </div>
                             </section>
@@ -913,7 +985,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 3.18m out of 402m repositories</span>
+                                    <span class="gh">ranked 3.17m out of 402m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 2 times</div>
                             </div>
@@ -1026,7 +1098,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 20 May 2023, 20:12:23 (timezone Europe/Rome) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 20 May 2023, 21:08:35 (timezone Europe/Rome) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
