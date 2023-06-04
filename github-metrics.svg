@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    3.67m added, 1.13m removed
+                                    3.35m added, 1.15m removed
                                 </div>
                             </section>
                             <section>
@@ -301,6 +301,102 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 24 commits in
+                                        <span class="repo">macaroni-os/macaroni-funtoo</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">systemd</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#3c82e66</div>
+                                        <div class="message">dev-lang-stable/rust-bin: Bump v.1.69.0</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4bd0117</div>
+                                        <div class="message">dev-libs/gmp: Bump v.6.2.1</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9c1cff2</div>
+                                        <div class="message">dev-libs/libbsd: Bump v.0.11.7+1</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5181807</div>
+                                        <div class="message">dev-python/cryptography: Bump v.41.0.0</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9d4404a</div>
+                                        <div class="message">dev-python/cython: Bump v.0.29.35</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6cc2b7c</div>
+                                        <div class="message">dev-python/importlib_metadata: Bump v.6.6.0</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#342ab00</div>
+                                        <div class="message">dev-python/pygments: Bump v.2.15.1</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0f75e9b</div>
+                                        <div class="message">dev-python/pyopenssl: Bump v.23.2.0</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6c5797b</div>
+                                        <div class="message">dev-python/requests: Bump v.2.31.0</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#48457ab</div>
+                                        <div class="message">dev-python/setuptools-rust: Bump v.1.6.0</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b170d80</div>
+                                        <div class="message">dev-python/setuptools: Bump v.67.8.0</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f6093d7</div>
+                                        <div class="message">dev-python/urllib3: Bump v.1.26.15+1</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#25e9aa8</div>
+                                        <div class="message">dev-vcs/git: Bump v.2.40.1</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#18ce9d3</div>
+                                        <div class="message">net-misc/curl: Bump v.8.1.2</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d508410</div>
+                                        <div class="message">net-misc/wget: Bump v.1.21.4</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2f7a919</div>
+                                        <div class="message">sys-apps/coreutils: Bump v.9.3</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#db93315</div>
+                                        <div class="message">sys-apps/less: Bump v.633</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7e132ea</div>
+                                        <div class="message">sys-apps/man-db: Bump v.2.11.2</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#10e8678</div>
+                                        <div class="message">sys-apps/systemd: Bump v.251.16</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f4420b6</div>
+                                        <div class="message">virtual/rust: Bump v.1.69.0</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 1 commit in
                                         <span class="repo">geaaru/geaaru_overlay</span>
                                     </div>
@@ -390,118 +486,6 @@
                                     <div class="commit">
                                         <div class="sha">#4931fac</div>
                                         <div class="message">seed/funtoo-base: Bump v.0.20230531+2</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 22 commits in
-                                        <span class="repo">geaaru/luet</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">refactor-builder</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#6e7bfe0</div>
-                                        <div class="message">luet-build: Add --avoid-cleanup-tmpdir global flag</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#cb70646</div>
-                                        <div class="message">Add Collection.GetPackage method</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7780ebf</div>
-                                        <div class="message">artifact: Add merge method</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#459671c</div>
-                                        <div class="message">helpers: Add SHA256Sum method</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4044764</div>
-                                        <div class="message">compression: Add constructor and Ext() method</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#23d966b</div>
-                                        <div class="message">v2/tree: Add method TreeIdx.GetPackageVersion</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#84ce5ee</div>
-                                        <div class="message">v2/tree: Add WriteDefinitionFile method</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a7cad72</div>
-                                        <div class="message">Update vendor github.com/geaaru/tar-formers@v0.8.2</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#70b9ec7</div>
-                                        <div class="message">Update vendor github.com/geaaru/tar-formers@v0.8.0</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b6fee37</div>
-                                        <div class="message">v2/tree: Permit to create only upper level idx file
-
-* add `--only-upper-level` option to tree genidx command</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1e49f5e</div>
-                                        <div class="message">v2/tree: Add basedir attribute on indexes to retrieve upper path</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e5e9882</div>
-                                        <div class="message">luet-build: Rewrite `tree pkglist` command
-
-`luet-build tree pkglist` now uses indexes
-on read packages list.
-
-For now the options --revdeps, --deps, --buildtime,
---full are no more availables.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5faf66e</div>
-                                        <div class="message">v2/tree: Ensure to setup treeDir after reading indexes</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9540618</div>
-                                        <div class="message">v2/tree: Add support to uncompress indexes</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#365927c</div>
-                                        <div class="message">TreeIdx: Use relative path on indexes</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3f1f85c</div>
-                                        <div class="message">v2/repository: Wagon using tree method</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fc372cb</div>
-                                        <div class="message">luet-build: Add command `tree genidx`
-
-To speedup processing of the tree we add
-the integration with compresses indexes
-that could be added to an existing repository.
-
-Will be used to bump new repo soon.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#51d818c</div>
-                                        <div class="message">package: Add yaml tags</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#87ac8ec</div>
-                                        <div class="message">Prepare release v0.35.6</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3778a2d</div>
-                                        <div class="message">Update vendor github.com/geaaru/pkgs-checker@v0.13.4 (#24)
-
-Closes: #24</div>
                                     </div>
                                 </div>
                             </section>
@@ -786,7 +770,7 @@ Closes: #24</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 481k out of 117m users</span>
+                                    <span class="gh">ranked 482k out of 117m users</span>
                                 </div>
                                 <div class="text">Followed by 24 users</div>
                             </div>
@@ -1050,7 +1034,7 @@ Closes: #24</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 4 Jun 2023, 14:20:16 (timezone Europe/Rome) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 4 Jun 2023, 15:11:38 (timezone Europe/Rome) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
