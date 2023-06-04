@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1637" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1953" class="">
     <defs>
         <style/>
     </defs>
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    4.43m added, 1.51m removed
+                                    4m added, 1.50m removed
                                 </div>
                             </section>
                             <section>
@@ -302,38 +302,188 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
+                                        <span class="repo">geaaru/luet</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">refactor-builder</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#8b10be2</div>
+                                        <div class="message">tests/integration: Disable all tests with --from-repositories</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1000 commits in
+                                        <span class="repo">geaaru/gentoo</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#47a4032</div>
+                                        <div class="message">sys-kernel/gentoo-kernel-bin: Stabilize 5.10.181 arm64 ppc64 x86, #907448
+
+Signed-off-by: Michał Górny &lt;mgorny@gentoo.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c67772e</div>
+                                        <div class="message">sys-kernel/gentoo-kernel: Stabilize 5.10.181 arm64 ppc64 x86, #907448
+
+Signed-off-by: Michał Górny &lt;mgorny@gentoo.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1e99096</div>
+                                        <div class="message">virtual/dist-kernel: Stabilize 5.4.244 arm64 ppc64 x86, #907447
+
+Signed-off-by: Michał Górny &lt;mgorny@gentoo.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#183a58f</div>
+                                        <div class="message">sys-kernel/gentoo-kernel-bin: Stabilize 5.4.244 arm64 ppc64 x86, #907447
+
+Signed-off-by: Michał Górny &lt;mgorny@gentoo.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2eb6e59</div>
+                                        <div class="message">sys-kernel/gentoo-kernel: Stabilize 5.4.244 arm64 ppc64 x86, #907447
+
+Signed-off-by: Michał Górny &lt;mgorny@gentoo.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d95e454</div>
+                                        <div class="message">dev-qt/qtbase: drop 6.5.0-r2
+
+Signed-off-by: Jimi Huotari &lt;chiitoo@gentoo.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f52d27f</div>
+                                        <div class="message">dev-qt/qtbase: add patch for CVE-2023-33285
+
+https://lists.qt-project.org/pipermail/development/2023-June/043989.html
+
+Signed-off-by: Jimi Huotari &lt;chiitoo@gentoo.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#78c8011</div>
+                                        <div class="message">media-tv/plex-media-server: add 1.32.2.7100
+
+Signed-off-by: Joe Kappus &lt;joe@wt.gd&gt;
+Closes: https://github.com/gentoo/gentoo/pull/31235
+Signed-off-by: Joonas Niilola &lt;juippis@gentoo.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#21d2947</div>
+                                        <div class="message">media-gfx/tuxpaint: remove subslot binder from media-libs/sdl2-gfx
+
+Signed-off-by: Joonas Niilola &lt;juippis@gentoo.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d164819</div>
+                                        <div class="message">media-gfx/tuxpaint-stamps: add 20230402
+
+Signed-off-by: Philipp Rösner &lt;rndxelement@protonmail.com&gt;
+Closes: https://github.com/gentoo/gentoo/pull/30499
+Signed-off-by: Joonas Niilola &lt;juippis@gentoo.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#945cc3e</div>
+                                        <div class="message">media-gfx/tuxpaint: add 0.9.29
+
+Tuxpaint version 0.9.29 and further only supports
+sdl2. Therefore, switched to sdl2 in this ebuild.
+Also include an upstream patch for fixing the problem
+of the trans directory not being created before it is
+used.
+
+Signed-off-by: Philipp Rösner &lt;rndxelement@protonmail.com&gt;
+Signed-off-by: Joonas Niilola &lt;juippis@gentoo.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cbfc28c</div>
+                                        <div class="message">media-libs/sdl2-pango: new package, add 2.1.5
+
+Signed-off-by: Philipp Rösner &lt;rndxelement@protonmail.com&gt;
+Signed-off-by: Joonas Niilola &lt;juippis@gentoo.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2d83aac</div>
+                                        <div class="message">sys-devel/llvm-common: Remove old snapshot
+
+Signed-off-by: Michał Górny &lt;mgorny@gentoo.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#337f17f</div>
+                                        <div class="message">sys-devel/llvm: Remove old snapshot
+
+Signed-off-by: Michał Górny &lt;mgorny@gentoo.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#dfe4d28</div>
+                                        <div class="message">dev-ml/llvm-ocaml: Remove old snapshot
+
+Signed-off-by: Michał Górny &lt;mgorny@gentoo.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8c1143d</div>
+                                        <div class="message">sys-devel/clang-common: Remove old snapshot
+
+Signed-off-by: Michał Górny &lt;mgorny@gentoo.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#08a686c</div>
+                                        <div class="message">sys-devel/clang: Remove old snapshot
+
+Signed-off-by: Michał Górny &lt;mgorny@gentoo.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#79b3f44</div>
+                                        <div class="message">dev-python/clang-python: Remove old snapshot
+
+Signed-off-by: Michał Górny &lt;mgorny@gentoo.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4b0a9bd</div>
+                                        <div class="message">dev-python/lit: Remove old snapshot
+
+Signed-off-by: Michał Górny &lt;mgorny@gentoo.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d7eef5f</div>
+                                        <div class="message">sys-devel/lld: Remove old snapshot
+
+Signed-off-by: Michał Górny &lt;mgorny@gentoo.org&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
                                         <span class="repo">macaroni-os/macaroni-funtoo</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">systemd</span></div>
                                     <div class="commit">
-                                        <div class="sha">#281dc4e</div>
-                                        <div class="message">Revert "dev-python/scandir: Bump v.1.10.0+1"
+                                        <div class="sha">#5da0f5c</div>
+                                        <div class="message">Revert "dev-python/pathlib2: Bump v.2.3.2+1"
 
-This reverts commit b2cb0eac13e58fafbb7b653ee64f8df8e1eeab15.
+This reverts commit 0c402910d9bb5d175844eefb73c30c5264b309bf.
 
-To move in the next race</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">geaaru/luet</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">refactor-builder</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#3f71fc2</div>
-                                        <div class="message">tests/integration: Disable test no more supported</div>
+Move to the next race.</div>
                                     </div>
                                 </div>
                             </section>
@@ -352,12 +502,12 @@ To move in the next race</div>
                                 <div class="details">
                                     <div>on branch <span class="code">systemd</span></div>
                                     <div class="commit">
-                                        <div class="sha">#5b71427</div>
-                                        <div class="message">Revert "dev-python/contextlib2: Bump v.0.5.5+1"
+                                        <div class="sha">#f0cb194</div>
+                                        <div class="message">Revert "dev-python/rfc3986-validator: Bump v.0.1.1+1"
 
-This reverts commit 93ac95c48d0d66d6f183558771ebb1365a8a7d61.
+This reverts commit ba0b834dfbc042ad8756e587968dd9d37d8d346e.
 
-To move in the next race</div>
+Move this to the next race.</div>
                                     </div>
                                 </div>
                             </section>
@@ -376,28 +526,8 @@ To move in the next race</div>
                                 <div class="details">
                                     <div>on branch <span class="code">refactor-builder</span></div>
                                     <div class="commit">
-                                        <div class="sha">#05be304</div>
-                                        <div class="message">tests/integration/07_finalizer_envs.sh: Fix typo</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">geaaru/luet</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">refactor-builder</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#b454418</div>
-                                        <div class="message">tests/integration/07_finalizer_custom.sh: Include _commons.sh</div>
+                                        <div class="sha">#33b8aaa</div>
+                                        <div class="message">tests/integration/27_buildwithnotree_http.sh: Disabled</div>
                                     </div>
                                 </div>
                             </section>
@@ -833,7 +963,7 @@ To move in the next race</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 3.19m out of 406m repositories</span>
+                                    <span class="gh">ranked 3.15m out of 406m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 2 times</div>
                             </div>
@@ -946,7 +1076,7 @@ To move in the next race</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 4 Jun 2023, 22:10:50 (timezone Europe/Rome) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 4 Jun 2023, 23:09:34 (timezone Europe/Rome) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
