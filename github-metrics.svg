@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            19024 Commits
+                            19025 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    3.70m added, 1.40m removed
+                                    868k added, 395k removed
                                 </div>
                             </section>
                             <section>
@@ -225,14 +225,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="249.316724663814" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="249.316724663814" y="0" width="184.5696277004817" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="433.8863523642957" y="0" width="11.51928162517846" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="445.4056339894742" y="0" width="6.237086180481232" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="451.6427201699554" y="0" width="2.5042559129982553" height="8" fill="#0298c3"/>
-                    <rect mask="url(#languages-bar)" x="454.14697608295364" y="0" width="2.2843299271304165" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="456.4313060100841" y="0" width="1.8338557427215754" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="458.2651617528056" y="0" width="1.7348382471943504" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="248.9744686960595" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="248.9744686960595" y="0" width="184.94773185192793" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="433.9222005479874" y="0" width="11.503468234056069" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="445.42566878204343" y="0" width="6.228524059470107" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="451.6541928415136" y="0" width="2.5008181310678057" height="8" fill="#0298c3"/>
+                    <rect mask="url(#languages-bar)" x="454.15501097258135" y="0" width="2.2811940542725693" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="456.43620502685394" y="0" width="1.8313382699255019" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="458.2675432967795" y="0" width="1.732456703220549" height="8" fill="#427819"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -687,7 +687,7 @@ This is my status also with LXD 5.14:
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 482k out of 117m users</span>
+                                    <span class="gh">ranked 483k out of 117m users</span>
                                 </div>
                                 <div class="text">Followed by 24 users</div>
                             </div>
@@ -838,7 +838,7 @@ This is my status also with LXD 5.14:
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 3.15m out of 407m repositories</span>
+                                    <span class="gh">ranked 3.19m out of 407m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 2 times</div>
                             </div>
@@ -951,7 +951,7 @@ This is my status also with LXD 5.14:
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 8 Jun 2023, 23:11:30 (timezone Europe/Rome) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 9 Jun 2023, 00:10:17 (timezone Europe/Rome) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
