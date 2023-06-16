@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2070" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1670" class="">
     <defs>
         <style/>
     </defs>
@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            19087 Commits
+                            19090 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -159,7 +159,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
                                     </svg>
-                                    112 Releases
+                                    113 Releases
                                 </div>
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    660k added, 60.1k removed
+                                    1.65m added, 603k removed
                                 </div>
                             </section>
                             <section>
@@ -301,6 +301,86 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">MottainaiCI/repo-stable</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#c0e6198</div>
+                                        <div class="message">system/luet-build-testing: Bump v.0.38.0</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">MottainaiCI/repo-stable</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#d0cd0c5</div>
+                                        <div class="message">system/luet-geaaru-testing: Bump v.0.38.0</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Created new
+                      tag
+                                        <span class="code">v0.38.0-geaaru</span>
+                                        in
+                                        <span class="repo">geaaru/luet</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">geaaru/luet</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">geaaru</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#eff7f8a</div>
+                                        <div class="message">tests/integration/14_upgrade_provides.sh: Set config_from_host to false</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6d67032</div>
+                                        <div class="message">tests/integration/_common.sh: Use DEBUG_ENABLE for luet param</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 4 commits in
                                         <span class="repo">geaaru/luet</span>
                                     </div>
@@ -322,227 +402,6 @@
                                     <div class="commit">
                                         <div class="sha">#66e31bc</div>
                                         <div class="message">Prepare release v0.38.0</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">macaroni-os/macaroni-funtoo</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#790fe39</div>
-                                        <div class="message">seed/macaroni-funtoo-race7: Bump v.0.20230616</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#52c5f17</div>
-                                        <div class="message">pkglist/macaroni-funtoo-race7: Bump v.0.20230616</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
-                                        <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Opened
-                                        <span class="issue">#13 RFC: Add root passwordless access on Desktop ISOs</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened  in <span class="repo">macaroni-os/macaroni-funtoo</span></div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 5 commits in
-                                        <span class="repo">macaroni-os/macaroni-funtoo</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#6274fc3</div>
-                                        <div class="message">portage-converter/xfce-extra.yaml: Add thunar and plugins</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#eaf942e</div>
-                                        <div class="message">xfce-extra/thunar-archive-plugin: Bump v.0.4.0 (new package)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1518a96</div>
-                                        <div class="message">xfce-extra/thunar-media-tags-plugin: Bump v.0.3.0 (new package)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#288f235</div>
-                                        <div class="message">xfce-extra/thunar-shares-plugin: Bump v.0.3.1 (new package)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#07ed3f6</div>
-                                        <div class="message">xfce-extra/thunar-vcs-plugin: Bump v.0.2.0 (new package)</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1000 commits in
-                                        <span class="repo">geaaru/gentoo</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#1f66328</div>
-                                        <div class="message">media-libs/vulkan-loader: add 1.3.250
-
-Signed-off-by: Nick Sarnie &lt;sarnex@gentoo.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5918401</div>
-                                        <div class="message">media-libs/vulkan-layers: enable py3.12
-
-Signed-off-by: Nick Sarnie &lt;sarnex@gentoo.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4078b18</div>
-                                        <div class="message">media-libs/vulkan-layers: add 1.3.250
-
-Signed-off-by: Nick Sarnie &lt;sarnex@gentoo.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9d3e52e</div>
-                                        <div class="message">dev-util/vulkan-headers: add 1.3.250
-
-Signed-off-by: Nick Sarnie &lt;sarnex@gentoo.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3cb1f4a</div>
-                                        <div class="message">dev-util/glslang: enable py3.12
-
-Signed-off-by: Nick Sarnie &lt;sarnex@gentoo.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b25ae03</div>
-                                        <div class="message">dev-util/glslang: add 1.3.250
-
-Signed-off-by: Nick Sarnie &lt;sarnex@gentoo.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b05fa49</div>
-                                        <div class="message">dev-util/spirv-tools: add 1.3.250
-
-Signed-off-by: Nick Sarnie &lt;sarnex@gentoo.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6d4a728</div>
-                                        <div class="message">dev-util/spirv-headers: add 1.3.250
-
-Signed-off-by: Nick Sarnie &lt;sarnex@gentoo.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#95bc234</div>
-                                        <div class="message">dev-python/numpy: fix build/link with libcxx
-
-New revision as this pretty much only worked by chance before and could
-affect the installed files as a result.
-
-Closes: https://bugs.gentoo.org/893962
-Signed-off-by: Sam James &lt;sam@gentoo.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#36e65bc</div>
-                                        <div class="message">media-libs/libopenraw: add 0.3.6
-
-Signed-off-by: Sam James &lt;sam@gentoo.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#21d945f</div>
-                                        <div class="message">net-analyzer/tcpreplay: add 4.4.4
-
-Bug: https://bugs.gentoo.org/905323
-Signed-off-by: Sam James &lt;sam@gentoo.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#374e927</div>
-                                        <div class="message">xfce-extra/xfce4-pulseaudio-plugin: Stabilize 0.4.7-r1 ppc, #908343
-
-Signed-off-by: Sam James &lt;sam@gentoo.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d73ff6c</div>
-                                        <div class="message">dev-libs/log4cxx: Keyword 1.0.0 ppc, #893248
-
-Signed-off-by: Sam James &lt;sam@gentoo.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#bcfd284</div>
-                                        <div class="message">sci-libs/armadillo: hdf5 support seems to be absent in CMake build system now
-
-Closes: https://bugs.gentoo.org/903721
-Signed-off-by: Andreas K. Hüttel &lt;dilfridge@gentoo.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#350ae58</div>
-                                        <div class="message">sci-libs/armadillo: add 12.4.0
-
-Signed-off-by: Andreas K. Hüttel &lt;dilfridge@gentoo.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6f2409e</div>
-                                        <div class="message">sys-devel/gcc: add 14.0.0_pre20230611
-
-Signed-off-by: Sam James &lt;sam@gentoo.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f3e4451</div>
-                                        <div class="message">media-gfx/inkscape: drop 1.2.1-r2
-
-Closes: https://bugs.gentoo.org/877589
-Signed-off-by: Andreas K. Hüttel &lt;dilfridge@gentoo.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1ef0815</div>
-                                        <div class="message">media-gfx/enblend: Needs threads support in dmalloc
-
-Closes: https://bugs.gentoo.org/889244
-Signed-off-by: Andreas K. Hüttel &lt;dilfridge@gentoo.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#babc711</div>
-                                        <div class="message">sys-kernel/git-sources: add 6.4_rc6
-
-Signed-off-by: Mike Pagano &lt;mpagano@gentoo.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6804806</div>
-                                        <div class="message">gnome-extra/gucharmap: Delete SLOT=0
-
-Signed-off-by: Matt Turner &lt;mattst88@gentoo.org&gt;</div>
                                     </div>
                                 </div>
                             </section>
@@ -978,7 +837,7 @@ Signed-off-by: Matt Turner &lt;mattst88@gentoo.org&gt;</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 3.14m out of 409m repositories</span>
+                                    <span class="gh">ranked 3.20m out of 409m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 2 times</div>
                             </div>
@@ -1091,7 +950,7 @@ Signed-off-by: Matt Turner &lt;mattst88@gentoo.org&gt;</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 16 Jun 2023, 23:09:37 (timezone Europe/Rome) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 17 Jun 2023, 00:10:20 (timezone Europe/Rome) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
