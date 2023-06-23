@@ -33,16 +33,16 @@
                                     <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="15" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="30" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="60" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                 </g>
                             </svg>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            19317 Commits
+                            19346 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    2.44m added, 751k removed
+                                    3.34m added, 1.18m removed
                                 </div>
                             </section>
                             <section>
@@ -294,6 +294,102 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 29 commits in
+                                        <span class="repo">macaroni-os/macaroni-funtoo</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#5d50c1a</div>
+                                        <div class="message">kernel-5.15/virtualbox-guest-additions: Bump v.7.0.8.156879+5</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a5a5036</div>
+                                        <div class="message">kernel-5.15/virtualbox-modules: Bump v.7.0.8.156879+5</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9e9f501</div>
+                                        <div class="message">kernel-5.15/zfs-kmod: Bump v.2.1.12+1</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9fb7dd1</div>
+                                        <div class="message">kernel-5.4/nvidia-kernel-modules: Bump v.525.85.05+6</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4509d3e</div>
+                                        <div class="message">kernel-5.4/rtw89: Bump v.0.20220824+15</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#63f69dd</div>
+                                        <div class="message">kernel-5.4/virtualbox-guest-additions: Bump v.7.0.8.156879+3</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#19cb63b</div>
+                                        <div class="message">kernel-5.4/virtualbox-modules: Bump v.7.0.8.156879+3</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cb42079</div>
+                                        <div class="message">kernel-5.4/zfs-kmod: Bump v.2.1.12+1</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b67ab13</div>
+                                        <div class="message">kernel-6.1/lkrg: Bump v.0.9.6+8</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ba51a0d</div>
+                                        <div class="message">kernel-6.1/nvidia-kernel-modules: Bump v.525.85.05+8</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a869a2e</div>
+                                        <div class="message">kernel-6.1/virtualbox-guest-additions: Bump v.7.0.8.156879+5</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6f681f1</div>
+                                        <div class="message">kernel-6.1/virtualbox-modules: Bump v.7.0.8.156879+5</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f94b1bf</div>
+                                        <div class="message">kernel-6.1/zfs-kmod: Bump v.2.1.12+1</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4e75ae6</div>
+                                        <div class="message">kernel/nvidia-drivers-common: Bump v.525.85.05+7</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#80b2f50</div>
+                                        <div class="message">kernel/virtualbox-common: Bump v.7.0.8.156879+4</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#25bbfc4</div>
+                                        <div class="message">kernel/zfs-common: Bump v.2.1.12+1</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2f58d96</div>
+                                        <div class="message">seed-5.10/kernel: Bump v.5.10.185</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4bcf4b9</div>
+                                        <div class="message">seed-5.15/kernel: Bump v.5.15.118</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#466476a</div>
+                                        <div class="message">seed-5.4/kernel: Bump v.5.4.248</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5c72c29</div>
+                                        <div class="message">seed-6.1/kernel: Bump v.6.1.35</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -502,102 +598,6 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                     <div class="commit">
                                         <div class="sha">#d1312c8</div>
                                         <div class="message">kernel-6.3/macaroni-initramfs: Bump v.6.3.9</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 29 commits in
-                                        <span class="repo">macaroni-os/macaroni-funtoo</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#49d116c</div>
-                                        <div class="message">kernel-5.15/virtualbox-guest-additions: Bump v.7.0.8.156879+4</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fe81698</div>
-                                        <div class="message">kernel-5.15/virtualbox-modules: Bump v.7.0.8.156879+4</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7650217</div>
-                                        <div class="message">kernel-5.15/zfs-kmod: Bump v.2.1.12</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#423690b</div>
-                                        <div class="message">kernel-5.4/nvidia-kernel-modules: Bump v.525.85.05+5</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c67e35a</div>
-                                        <div class="message">kernel-5.4/rtw89: Bump v.0.20220824+14</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3e9dcfc</div>
-                                        <div class="message">kernel-5.4/virtualbox-guest-additions: Bump v.7.0.8.156879+2</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#bcf93e2</div>
-                                        <div class="message">kernel-5.4/virtualbox-modules: Bump v.7.0.8.156879+2</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8a436ed</div>
-                                        <div class="message">kernel-5.4/zfs-kmod: Bump v.2.1.12</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3969c4c</div>
-                                        <div class="message">kernel-6.1/lkrg: Bump v.0.9.6+7</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8746f08</div>
-                                        <div class="message">kernel-6.1/nvidia-kernel-modules: Bump v.525.85.05+7</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4c73af1</div>
-                                        <div class="message">kernel-6.1/virtualbox-guest-additions: Bump v.7.0.8.156879+4</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b067cc4</div>
-                                        <div class="message">kernel-6.1/virtualbox-modules: Bump v.7.0.8.156879+4</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e68fb9d</div>
-                                        <div class="message">kernel-6.1/zfs-kmod: Bump v.2.1.12</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d0a03b6</div>
-                                        <div class="message">kernel/nvidia-drivers-common: Bump v.525.85.05+6</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fad67a2</div>
-                                        <div class="message">kernel/virtualbox-common: Bump v.7.0.8.156879+3</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#539080f</div>
-                                        <div class="message">kernel/zfs-common: Bump v.2.1.12</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#eef74cf</div>
-                                        <div class="message">seed-5.10/kernel: Bump v.5.10.184</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3f3ed18</div>
-                                        <div class="message">seed-5.15/kernel: Bump v.5.15.117</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e0e6644</div>
-                                        <div class="message">seed-5.4/kernel: Bump v.5.4.247</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#90b98df</div>
-                                        <div class="message">seed-6.1/kernel: Bump v.6.1.34</div>
                                     </div>
                                 </div>
                             </section>
@@ -1033,7 +1033,7 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 3.15m out of 410m repositories</span>
+                                    <span class="gh">ranked 3.20m out of 410m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 2 times</div>
                             </div>
@@ -1146,7 +1146,7 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 23 Jun 2023, 22:13:08 (timezone Europe/Rome) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 23 Jun 2023, 23:11:13 (timezone Europe/Rome) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
