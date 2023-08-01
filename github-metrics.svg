@@ -2,7 +2,7 @@
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details,footer{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details,.repository .name{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}.repository,footer{display:flex;flex-direction:column}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;justify-content:flex-end;padding:0 4px}.repository{width:100%;margin:6px 0}.repository .name{align-items:center;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            19512 Commits
+                            19516 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -301,6 +301,159 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 10000 commits in
+                                        <span class="repo">geaaru/gentoo</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#a780557</div>
+                                        <div class="message">media-libs/cogl: keyword 1.22.8-r2 for ~loong
+
+Signed-off-by: WANG Xuerui &lt;xen0n@gentoo.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ee09359</div>
+                                        <div class="message">dev-libs/libgnome-games-support: keyword 1.8.2 for ~loong
+
+Signed-off-by: WANG Xuerui &lt;xen0n@gentoo.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#08d3ae6</div>
+                                        <div class="message">media-video/gnome-video-effects: keyword 0.6.0 for ~loong
+
+Signed-off-by: WANG Xuerui &lt;xen0n@gentoo.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#56bd9c7</div>
+                                        <div class="message">app-arch/pax: keyword 20201030 for ~loong
+
+Signed-off-by: WANG Xuerui &lt;xen0n@gentoo.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f141042</div>
+                                        <div class="message">app-text/cmark: keyword 0.30.3 for ~loong
+
+Signed-off-by: WANG Xuerui &lt;xen0n@gentoo.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c4e4bfc</div>
+                                        <div class="message">gnome-extra/gnome-tweaks: keyword 42_beta for ~loong
+
+Signed-off-by: WANG Xuerui &lt;xen0n@gentoo.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a79453d</div>
+                                        <div class="message">dev-libs/qqwing: keyword 1.3.4-r1 for ~loong
+
+Signed-off-by: WANG Xuerui &lt;xen0n@gentoo.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cddf743</div>
+                                        <div class="message">www-client/chromium: add 115.0.5790.110
+
+Signed-off-by: Matt Jolly &lt;Matt.Jolly@footclan.ninja&gt;
+Closes: https://github.com/gentoo/gentoo/pull/32058
+Signed-off-by: Stephan Hartmann &lt;sultan@gentoo.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#60e85ba</div>
+                                        <div class="message">app-emacs/dashboard: add live
+
+Signed-off-by: Maciej Barć &lt;xgqt@gentoo.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0dc42cd</div>
+                                        <div class="message">app-emacs/dashboard: rename patch
+
+Signed-off-by: Maciej Barć &lt;xgqt@gentoo.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b73b168</div>
+                                        <div class="message">app-emacs/dashboard: bump to 1.8.0
+
+Signed-off-by: Maciej Barć &lt;xgqt@gentoo.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#47ddf17</div>
+                                        <div class="message">app-emacs/dashboard: drop old 1.8.0_pre20220406
+
+Signed-off-by: Maciej Barć &lt;xgqt@gentoo.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f193150</div>
+                                        <div class="message">app-emacs/dashboard: drop old 1.8.0_pre20220809
+
+Signed-off-by: Maciej Barć &lt;xgqt@gentoo.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#48e25a7</div>
+                                        <div class="message">media-video/ffmpeg: Rename AMF env.d file, and revbump
+
+Leading digits are required for env-update to consider the file.
+
+This commit leaves the file in the repository as is and uses "newenvd"
+to install it under a different name. This makes sure that the 6.0-r2
+ebuild continues to work. If that is not required, a simpler solution
+would be to instead rename the file in the repository to
+99amf-env-vulkan-override and keep using "doenvd".
+
+Closes: https://bugs.gentoo.org/911249
+
+Signed-off-by: Karl-Johan Karlsson &lt;creideiki@lysator.liu.se&gt;
+Closes: https://github.com/gentoo/gentoo/pull/32050
+Signed-off-by: Sam James &lt;sam@gentoo.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b1f812d</div>
+                                        <div class="message">sys-devel/gcc: drop old 13 snapshots
+
+Signed-off-by: Sam James &lt;sam@gentoo.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0e1d727</div>
+                                        <div class="message">sys-devel/gcc: add 13.2.0
+
+Signed-off-by: Sam James &lt;sam@gentoo.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c2351b1</div>
+                                        <div class="message">media-video/pipewire: backport version.h include fix for 0.3.75
+
+Signed-off-by: Sam James &lt;sam@gentoo.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#51f1f31</div>
+                                        <div class="message">net-misc/zerotier: fix metadata indentation
+
+Signed-off-by: Sam James &lt;sam@gentoo.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#72cb59d</div>
+                                        <div class="message">net-misc/zerotier: add 1.10.6
+
+Closes: https://bugs.gentoo.org/884897
+Signed-off-by: Alfred Wingate &lt;parona@protonmail.com&gt;
+Closes: https://github.com/gentoo/gentoo/pull/32004
+Signed-off-by: Sam James &lt;sam@gentoo.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fa14920</div>
+                                        <div class="message">net-im/zoom: drop 5.15.2.4260
+
+Signed-off-by: Ulrich Müller &lt;ulm@gentoo.org&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 4 commits in
                                         <span class="repo">macaroni-os/macaroni-security</span>
                                     </div>
@@ -398,102 +551,6 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 26 commits in
-                                        <span class="repo">macaroni-os/macaroni-security</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">phoenix</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#d41b05f</div>
-                                        <div class="message">kernel-5.10/zfs-kmod: Bump v.2.1.12+2</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5b4bad1</div>
-                                        <div class="message">kernel-5.15/lkrg: Bump v.0.9.6+8</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a202d39</div>
-                                        <div class="message">kernel-5.15/nvidia-kernel-modules: Bump v.525.85.05+9</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2163fc5</div>
-                                        <div class="message">kernel-5.15/rtw89: Bump v.0.20220824+18</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#15d93e2</div>
-                                        <div class="message">kernel-5.15/virtualbox-guest-additions: Bump v.7.0.8.156879+6</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8c5bf1b</div>
-                                        <div class="message">kernel-5.15/virtualbox-modules: Bump v.7.0.8.156879+6</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#53cd0c4</div>
-                                        <div class="message">kernel-5.15/zfs-kmod: Bump v.2.1.12+2</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7146959</div>
-                                        <div class="message">kernel-5.4/nvidia-kernel-modules: Bump v.525.85.05+7</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2017db6</div>
-                                        <div class="message">kernel-5.4/rtw89: Bump v.0.20220824+16</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9071a9f</div>
-                                        <div class="message">kernel-5.4/virtualbox-guest-additions: Bump v.7.0.8.156879+4</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#54472b4</div>
-                                        <div class="message">kernel-5.4/virtualbox-modules: Bump v.7.0.8.156879+4</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#160017c</div>
-                                        <div class="message">kernel-5.4/zfs-kmod: Bump v.2.1.12+2</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ae5f8f1</div>
-                                        <div class="message">kernel-6.1/lkrg: Bump v.0.9.6+9</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#af8e008</div>
-                                        <div class="message">kernel-6.1/nvidia-kernel-modules: Bump v.525.85.05+9</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f8a239e</div>
-                                        <div class="message">kernel-6.1/virtualbox-guest-additions: Bump v.7.0.8.156879+6</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ec4891f</div>
-                                        <div class="message">kernel-6.1/virtualbox-modules: Bump v.7.0.8.156879+6</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f04883f</div>
-                                        <div class="message">kernel-6.1/zfs-kmod: Bump v.2.1.12+2</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f839338</div>
-                                        <div class="message">kernel/nvidia-drivers-common: Bump v.525.85.05+8</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#be41503</div>
-                                        <div class="message">kernel/virtualbox-common: Bump v.7.0.8.156879+5</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6d26925</div>
-                                        <div class="message">kernel/zfs-common: Bump v.2.1.12+2</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -517,7 +574,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 1 Aug 2023, 16:10:32 (timezone Europe/Rome) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 1 Aug 2023, 17:11:17 (timezone Europe/Rome) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
