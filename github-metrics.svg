@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1056" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1289" class="">
     <defs>
         <style/>
     </defs>
@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    981k added, 254k removed
+                                    3.81m added, 1.20m removed
                                 </div>
                             </section>
                             <section>
@@ -301,6 +301,102 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 50 commits in
+                                        <span class="repo">macaroni-os/macaroni-funtoo</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">phoenix</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#3bfccb5</div>
+                                        <div class="message">net-libs/http-parser: Bump v.2.9.2</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d0597f7</div>
+                                        <div class="message">net-libs/libnftnl: Bump v.1.1.3</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#07e00ae</div>
+                                        <div class="message">net-libs/libpcapnav: Bump v.0.8</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bffb7ac</div>
+                                        <div class="message">net-libs/libtorrent: Bump v.0.13.7</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#826deb3</div>
+                                        <div class="message">net-misc/netkit-telnetd: Bump v.0.17</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#90daccd</div>
+                                        <div class="message">net-misc/ntp: Bump v.4.2.8</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8e1d146</div>
+                                        <div class="message">net-p2p/rtorrent: Bump v.0.9.7</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c170e2d</div>
+                                        <div class="message">net-vpn/openconnect: Bump v.8.10</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#03c2335</div>
+                                        <div class="message">net-vpn/openfortivpn: Bump v.1.20.5</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#62b357b</div>
+                                        <div class="message">net-vpn/openvpn: Bump v.2.5.9</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6a6e14a</div>
+                                        <div class="message">net-vpn/tor: Bump v.0.4.7.9</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#57c7f26</div>
+                                        <div class="message">net-vpn/vpnc: Bump v.0.5.3</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#09cb5ae</div>
+                                        <div class="message">net-vpn/wireguard-tools: Bump v.1.0.20210914</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#99839ca</div>
+                                        <div class="message">net-wireless/wavemon: Bump v.0.8.0</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1fd18da</div>
+                                        <div class="message">net-wireless/wepattack: Bump v.0.1.3</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b93d6ac</div>
+                                        <div class="message">net-wireless/wireless-tools: Bump v.30_pre9</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5e60454</div>
+                                        <div class="message">sys-process/cronbase: Bump v.0.3.7</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b50f2dd</div>
+                                        <div class="message">sys-process/cronie: Bump v.1.5.4</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3dad78f</div>
+                                        <div class="message">virtual/cron: Bump v.0</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#09d0cad</div>
+                                        <div class="message">www-servers/nginx: Bump v.1.22.0</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 1 commit in
                                         <span class="repo">macaroni-os/macaroni-funtoo</span>
                                     </div>
@@ -390,46 +486,6 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 6 commits in
-                                        <span class="repo">macaroni-os/macaroni-funtoo</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">phoenix</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#fd45a41</div>
-                                        <div class="message">dev-libs-3/libnl: Bump v.3.4.0</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3903613</div>
-                                        <div class="message">net-analyzer/tcpdump: Bump v.4.99.4</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#21a118c</div>
-                                        <div class="message">net-wireless/crda: Bump v.4.14</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2fe09ee</div>
-                                        <div class="message">net-wireless/wireless-regdb: Bump v.20190603</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#64ac663</div>
-                                        <div class="message">net-wireless/wpa_supplicant: Bump v.2.10+2</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f43f146</div>
-                                        <div class="message">sys-apps/pcsc-lite: Review build order</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -453,7 +509,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 23 Aug 2023, 22:10:37 (timezone Europe/Rome) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 23 Aug 2023, 23:09:54 (timezone Europe/Rome) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
