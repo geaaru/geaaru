@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1273" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="973" class="">
     <defs>
         <style/>
     </defs>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            17664 Commits
+                            17667 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -301,6 +301,50 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">macaroni-os/macaroni-funtoo</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">phoenix</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#80ac609</div>
+                                        <div class="message">dev-qt-5/qtdbus: Restore version</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">macaroni-os/macaroni-funtoo</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">phoenix</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#43c1b0a</div>
+                                        <div class="message">dev-qt-5/qtwidgets: Bump v.5.15.2+1</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c688a89</div>
+                                        <div class="message">atoms/base-qt: Review build order</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 2 commits in
                                         <span class="repo">macaroni-os/macaroni-funtoo</span>
                                     </div>
@@ -366,122 +410,6 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 32 commits in
-                                        <span class="repo">macaroni-os/macaroni-funtoo</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">phoenix</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#5003992</div>
-                                        <div class="message">dev-qt-5/qtnetwork: Bump v.5.15.2</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1153094</div>
-                                        <div class="message">dev-qt-5/qtopengl: Bump v.5.15.2</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5f9d124</div>
-                                        <div class="message">dev-qt-5/qtpaths: Bump v.5.15.2</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#af3c9e8</div>
-                                        <div class="message">dev-qt-5/qtprintsupport: Bump v.5.15.2</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#31c677c</div>
-                                        <div class="message">dev-qt-5/qtquickcontrols: Bump v.5.15.2</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#df7de79</div>
-                                        <div class="message">dev-qt-5/qtquickcontrols2: Bump v.5.15.2</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4c172af</div>
-                                        <div class="message">dev-qt-5/qtscript: Bump v.5.15.2</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5a06eef</div>
-                                        <div class="message">dev-qt-5/qtsensors: Bump v.5.15.2</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#777e450</div>
-                                        <div class="message">dev-qt-5/qtsql: Bump v.5.15.2</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#261f770</div>
-                                        <div class="message">dev-qt-5/qtsvg: Bump v.5.15.2</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#da408a5</div>
-                                        <div class="message">dev-qt-5/qttest: Bump v.5.15.2</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d71577b</div>
-                                        <div class="message">dev-qt-5/qttranslations: Bump v.5.15.2</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2ffd2ec</div>
-                                        <div class="message">dev-qt-5/qtwayland: Bump v.5.15.2</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ab6a909</div>
-                                        <div class="message">dev-qt-5/qtwebchannel: Bump v.5.15.2</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1e21977</div>
-                                        <div class="message">dev-qt-5/qtwidgets: Bump v.5.15.2</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1496e98</div>
-                                        <div class="message">dev-qt-5/qtx11extras: Bump v.5.15.2</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#60d836f</div>
-                                        <div class="message">dev-qt-5/qtxml: Bump v.5.15.2</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3ae83f6</div>
-                                        <div class="message">dev-qt-5/qtxmlpatterns: Bump v.5.15.2</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ddb9c73</div>
-                                        <div class="message">dev-qt/qtchooser: Bump v.66</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#485c79b</div>
-                                        <div class="message">net-misc/connman: Bump v.1.41</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">macaroni-os/macaroni-funtoo</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">phoenix</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#65c5830</div>
-                                        <div class="message">dev-libs-2/cyrus-sasl: Bump v.2.1.28+1</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -505,7 +433,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 26 Aug 2023, 14:17:29 (timezone Europe/Rome) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 26 Aug 2023, 15:11:34 (timezone Europe/Rome) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
