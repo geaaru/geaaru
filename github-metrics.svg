@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1822" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1523" class="">
     <defs>
         <style/>
     </defs>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            18048 Commits
+                            18050 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    3.57m added, 1.02m removed
+                                    3.80m added, 1.19m removed
                                 </div>
                             </section>
                             <section>
@@ -294,6 +294,30 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">macaroni-os/macaroni-funtoo</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">phoenix</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#361f14b</div>
+                                        <div class="message">dev-tex/culmus-latex: Bump v.0.7+1</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c74b648</div>
+                                        <div class="message">media-fonts/culmus: Bump v.0.133+1</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -518,102 +542,6 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 25 commits in
-                                        <span class="repo">macaroni-os/macaroni-funtoo</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">phoenix</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#010fba6</div>
-                                        <div class="message">dev-texlive/texlive-bibtexextra: Bump v.2020</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1e6219b</div>
-                                        <div class="message">dev-texlive/texlive-context: Bump v.2020</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4566ecf</div>
-                                        <div class="message">dev-texlive/texlive-fontsextra: Bump v.2020</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#affe3ee</div>
-                                        <div class="message">dev-texlive/texlive-fontsrecommended: Bump v.2020</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#68a3d31</div>
-                                        <div class="message">dev-texlive/texlive-fontutils: Bump v.2020</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a9410b7</div>
-                                        <div class="message">dev-texlive/texlive-formatsextra: Bump v.2020</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a3d967c</div>
-                                        <div class="message">dev-texlive/texlive-games: Bump v.2020</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4b7bb44</div>
-                                        <div class="message">dev-texlive/texlive-humanities: Bump v.2020</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9f62114</div>
-                                        <div class="message">dev-texlive/texlive-langarabic: Bump v.2020</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#486a3ea</div>
-                                        <div class="message">dev-texlive/texlive-latex: Bump v.2020</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#eb8d53b</div>
-                                        <div class="message">dev-texlive/texlive-latexextra: Bump v.2020</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6c32eff</div>
-                                        <div class="message">dev-texlive/texlive-latexrecommended: Bump v.2020</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#304a13a</div>
-                                        <div class="message">dev-texlive/texlive-luatex: Bump v.2020</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fe07625</div>
-                                        <div class="message">dev-texlive/texlive-mathscience: Bump v.2020</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4851838</div>
-                                        <div class="message">dev-texlive/texlive-metapost: Bump v.2020</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#afada6f</div>
-                                        <div class="message">dev-texlive/texlive-pictures: Bump v.2020</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1b4d814</div>
-                                        <div class="message">dev-texlive/texlive-plaingeneric: Bump v.2020</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5a0c335</div>
-                                        <div class="message">dev-texlive/texlive-pstricks: Bump v.2020</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f87028c</div>
-                                        <div class="message">dev-texlive/texlive-xetex: Bump v.2020</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1907e04</div>
-                                        <div class="message">virtual/latex-base: Bump v.1.0</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -637,7 +565,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 30 Aug 2023, 12:11:32 (timezone Europe/Rome) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 30 Aug 2023, 13:09:31 (timezone Europe/Rome) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
