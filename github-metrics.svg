@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1703" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1737" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}.gauge text,h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details,footer{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;flex-direction:column;justify-content:flex-end;padding:0 4px}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement .gh{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.gemoji{height:1em;width:1em;margin-bottom:-.125em}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}.gauge text,h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details,footer{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;flex-direction:column;justify-content:flex-end;padding:0 4px}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement .gh{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            21060 Commits
+                            21067 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    797k added, 210k removed
+                                    2.52m added, 488k removed
                                 </div>
                             </section>
                             <section>
@@ -301,6 +301,82 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 5 commits in
+                                        <span class="repo">macaroni-os/macaroni-funtoo</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">phoenix</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#7987af2</div>
+                                        <div class="message">dev-python/blinker: Bump v.1.6.3</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6734822</div>
+                                        <div class="message">dev-python/jsonpatch: Bump v.1.23</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a3c2f6e</div>
+                                        <div class="message">dev-python/oauthlib: Bump v.3.0.1</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#42bb14e</div>
+                                        <div class="message">dev-python/pyjwt-compat: Bump v.1.7.1</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#23e889d</div>
+                                        <div class="message">dev-python/pyjwt: Bump v.2.8.0</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">macaroni-os/macaroni-commons</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#5996a1d</div>
+                                        <div class="message">macaroni/whip-catalog: Bump v.0.20231107</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">macaroni-os/whip-catalog</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#7da339d</div>
+                                        <div class="message">macaroni: Review macaroni upgrade to fix conflicts</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 1 commit in
                                         <span class="repo">macaroni-os/macaroni-funtoo</span>
                                     </div>
@@ -338,74 +414,6 @@
                                     <div class="commit">
                                         <div class="sha">#fd60e3e</div>
                                         <div class="message">dev-util/ostree: Duplicate of libostree already autogen</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 3 commits in
-                                        <span class="repo">macaroni-os/macaroni-site</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#6a76788</div>
-                                        <div class="message">index: Prepare release 23.11</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#db4a7a6</div>
-                                        <div class="message">Add Funtoo Zone section <img class="gemoji" src="data:image/png;base64,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" height="16" width="16" alt="" /></div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#faee283</div>
-                                        <div class="message">story: Begin to align rename of the macaroni tools</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">macaroni-os/macaroni-commons</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#e5eebb7</div>
-                                        <div class="message">macaroni/whip-catalog: Bump v.0.20231106</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">macaroni-os/whip-catalog</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#a100306</div>
-                                        <div class="message">Add macaroni.funtoo2macaroni hook</div>
                                     </div>
                                 </div>
                             </section>
@@ -564,7 +572,7 @@
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     developer
-                                    <span class="gh">ranked 282k out of 124m users</span>
+                                    <span class="gh">ranked 282k out of 125m users</span>
                                 </div>
                                 <div class="text">Published 77 public repositories</div>
                             </div>
@@ -690,7 +698,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 529k out of 124m users</span>
+                                    <span class="gh">ranked 529k out of 125m users</span>
                                 </div>
                                 <div class="text">Followed by 24 users</div>
                             </div>
@@ -795,7 +803,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 846k out of 56.9m repositories</span>
+                                    <span class="gh">ranked 846k out of 63.2m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 29 stars</div>
                             </div>
@@ -841,7 +849,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 2.86m out of 56.9m repositories</span>
+                                    <span class="gh">ranked 2.99m out of 63.2m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 2 times</div>
                             </div>
@@ -954,7 +962,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 7 Nov 2023, 22:10:07 (timezone Europe/Rome) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 7 Nov 2023, 23:10:43 (timezone Europe/Rome) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
