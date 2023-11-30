@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1737" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1987" class="">
     <defs>
         <style/>
     </defs>
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    505k added, 24.1k removed
+                                    556k added, 33.4k removed
                                 </div>
                             </section>
                             <section>
@@ -301,6 +301,86 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 16 commits in
+                                        <span class="repo">macaroni-os/macaroni-funtoo</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">phoenix</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#db33e81</div>
+                                        <div class="message">sys-fs/zfs: Bump v.2.2.1</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8ad5087</div>
+                                        <div class="message">dev-libs/xxhash: Bump v.0.8.2</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#adaff55</div>
+                                        <div class="message">dev-ruby/irb: Bump v.1.9.1</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#70d2e8e</div>
+                                        <div class="message">dev-ruby/net-imap: Bump v.0.4.7</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#823daaf</div>
+                                        <div class="message">dev-ruby/racc: Bump v.1.7.3</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d4c4766</div>
+                                        <div class="message">dev-ruby/rake: Bump v.13.1.0</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#264b9f3</div>
+                                        <div class="message">dev-ruby/rbs: Bump v.3.3.2</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3feb588</div>
+                                        <div class="message">dev-ruby/rdoc: Bump v.6.6.0</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e4cbdea</div>
+                                        <div class="message">dev-ruby/rubygems: Bump v.3.4.22</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b5e8bf4</div>
+                                        <div class="message">dev-ruby/stringio: Bump v.3.1.0</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0a14afa</div>
+                                        <div class="message">dev-libs/ell: Bump v.0.61</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1903711</div>
+                                        <div class="message">dev-python/m2crypto: Bump v.0.40.1</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2767f8b</div>
+                                        <div class="message">net-firewall/nftables: Bump v.1.0.9</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#53b3a60</div>
+                                        <div class="message">net-misc/socat: Bump v.1.8.0.0</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#67a41ad</div>
+                                        <div class="message">net-vpn/openfortivpn: Bump v.1.21.0</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#801e1d2</div>
+                                        <div class="message">net-wireless/iwd: Bump v.2.10</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 2 commits in
                                         <span class="repo">macaroni-os/macaroni-funtoo</span>
                                     </div>
@@ -398,26 +478,6 @@
 This reverts commit 0da53d1d71e677e355e8446f8a231c0fa0a6a628.
 
 Ebuild doesn't compile. Needs investigation.</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">macaroni-os/macaroni-funtoo</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">phoenix</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#1ee6c34</div>
-                                        <div class="message">kde-apps-5/kmail: Bump v.22.08.1+1</div>
                                     </div>
                                 </div>
                             </section>
@@ -807,7 +867,7 @@ Ebuild doesn't compile. Needs investigation.</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 853k out of 58.5m repositories</span>
+                                    <span class="gh">ranked 853k out of 52.7m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 29 stars</div>
                             </div>
@@ -853,7 +913,7 @@ Ebuild doesn't compile. Needs investigation.</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 3.39m out of 58.5m repositories</span>
+                                    <span class="gh">ranked 3.39m out of 52.7m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 2 times</div>
                             </div>
@@ -966,7 +1026,7 @@ Ebuild doesn't compile. Needs investigation.</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 30 Nov 2023, 15:11:08 (timezone Europe/Rome) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 30 Nov 2023, 16:10:55 (timezone Europe/Rome) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
