@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1654" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1970" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}.gauge text,h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details,footer{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;flex-direction:column;justify-content:flex-end;padding:0 4px}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement .gh{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}.gauge text,h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details,footer{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;flex-direction:column;justify-content:flex-end;padding:0 4px}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement .gh{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.space{margin-left:7px}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            21923 Commits
+                            21926 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    537k added, 32k removed
+                                    491k added, 21.6k removed
                                 </div>
                             </section>
                             <section>
@@ -225,14 +225,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="281.1634039961488" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="281.1634039961488" y="0" width="152.7334366002164" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="433.8968405963653" y="0" width="11.292727755543705" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="445.189568351909" y="0" width="6.702363228958192" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="451.89193158086715" y="0" width="2.455003808040132" height="8" fill="#0298c3"/>
-                    <rect mask="url(#languages-bar)" x="454.3469353889073" y="0" width="2.2394031859191688" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="456.58633857482647" y="0" width="1.7977886398948355" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="458.3841272147213" y="0" width="1.6158727852787016" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="281.4021536390429" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="281.4021536390429" y="0" width="152.5295350819528" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="433.93168872099574" y="0" width="11.277651787989067" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="445.2093405089848" y="0" width="6.69341546958893" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="451.9027559785737" y="0" width="2.4517263396943325" height="8" fill="#0298c3"/>
+                    <rect mask="url(#languages-bar)" x="454.35448231826797" y="0" width="2.2364135477641094" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="456.5908958660321" y="0" width="1.7953885640414309" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="458.3862844300735" y="0" width="1.6137155699264296" height="8" fill="#427819"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -302,6 +302,251 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
+                                        <span class="repo">geaaru/geaaru_overlay</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">funtoo</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#a1b8909</div>
+                                        <div class="message">app-emulation/incus: Bump v0.3</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1750 commits in
+                                        <span class="repo">geaaru/incus</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#8805b18</div>
+                                        <div class="message">[lxd-import] lxd/network/driver_ovn: Remove redundant InstanceDevicePortDynamicIPs function
+
+Signed-off-by: Din Music &lt;din.music@canonical.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#77dd4af</div>
+                                        <div class="message">[lxd-import] lxd/device/nic_ovn: Use all allocated IPs as dynamic when static IP is not set for a device
+
+Signed-off-by: Din Music &lt;din.music@canonical.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#53d567f</div>
+                                        <div class="message">[lxd-import] lxd/network/driver_ovn: Fix OVN leases not showing static ips
+
+Signed-off-by: Din Music &lt;din.music@canonical.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c818a6e</div>
+                                        <div class="message">[lxd-import] lxd/network/openvswitch/ovn: Add function to retrieve all logical switch port IPs
+
+Signed-off-by: Din Music &lt;din.music@canonical.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#40c8091</div>
+                                        <div class="message">[lxd-import] github: instruct curl to fail on error when downloading gotip
+
+This avoid saving the 404 XML error if the commit hash is wrong/not available:
+&gt; $ cat gotip.tar.gz
+&gt; &lt;?xml version='1.0' encoding='UTF-8'?&gt;&lt;Error&gt;&lt;Code&gt;NoSuchKey&lt;/Code&gt;&lt;Message&gt;
+&gt; The specified key does not exist.&lt;/Message&gt;&lt;Details&gt;No such object:
+&gt; go-build-snap/go/linux-amd64/&lt;commit-hash&gt;.tar.gz&lt;/Details&gt;&lt;/Error&gt;
+
+As that would later on be feed to `tar`/`gzip`:
+
+gzip: stdin: not in gzip format
+tar: Child returned status 1
+tar: Error is not recoverable: exiting now
+
+Signed-off-by: Simon Deziel &lt;simon.deziel@canonical.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c314f81</div>
+                                        <div class="message">[lxd-import] github: use the whole ephemeral disk as ceph OSD
+
+Signed-off-by: Simon Deziel &lt;simon.deziel@canonical.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4ec7f62</div>
+                                        <div class="message">[lxd-import] github: remove core20 to reclaim some space in the rootfs
+
+`mdl` depends on `core18` and the `microceph` on `core22`
+
+Signed-off-by: Simon Deziel &lt;simon.deziel@canonical.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1aab994</div>
+                                        <div class="message">[lxd-import] github: action runners already have snapd installed
+
+Signed-off-by: Simon Deziel &lt;simon.deziel@canonical.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bb86588</div>
+                                        <div class="message">[lxd-import] test/backends/ceph: lower OSD pg_num to 8
+
+This is an attempt to improve the reliability of the test
+suite that often times out during the ceph pool setup:
+
+&gt; 2023-09-12T17:14:09.3105279Z + timeout --foreground 120 /home/runner/go/bin/incus storage create incustest-gOl ceph volume.size=25MiB ceph.osd.pg_num=16 --verbose
+&gt; 2023-09-12T17:16:09.3132429Z + cleanup
+g_num=16
+
+Signed-off-by: Simon Deziel &lt;simon.deziel@canonical.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#05749c0</div>
+                                        <div class="message">[lxd-import] test/main: report disk usage (df -h) prior to actually cleaning up
+
+Signed-off-by: Simon Deziel &lt;simon.deziel@canonical.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#340d2f6</div>
+                                        <div class="message">[lxd-import] Makefile: Allow setting custom version
+
+Signed-off-by: Din Music &lt;din.music@canonical.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#76760f8</div>
+                                        <div class="message">[lxd-import] github: Adds CODEOWNERS file
+
+Signed-off-by: Thomas Parrott &lt;thomas.parrott@canonical.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#194fc43</div>
+                                        <div class="message">[lxd-import] Revert "test/storage_volume_import: use smaller ISO files"
+
+This reverts commit 16f7e1a4997cac0a721648ecbb098e228eb1a1da due to
+too frequent failed CI runs ending like:
+
+&gt; + incus storage volume import incustest-haC ./foo.img --type=iso foobar
+&gt; + set +x
+&gt; + timeout --foreground 120 /home/runner/go/bin/incus storage volume import incustest-haC ./foo.img --type=iso foobar --verbose
+&gt;
+&gt; Importing custom volume: 2% (2.52GB/s)
+&gt; ...
+&gt;
+&gt; ==&gt; TEST DONE: storage volume import
+&gt; ==&gt; Test result: failure
+
+Signed-off-by: Simon Deziel &lt;simon.deziel@canonical.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6a49666</div>
+                                        <div class="message">[lxd-import] Revert "test/storage_local_volume_handling: use a smaller ISO file"
+
+This reverts commit cb27843a2b059f0fef68fa168032b4b15a8d19bf due to
+too frequent failed CI runs ending like:
+
+&gt; + truncate -s 5MiB foo.iso
+&gt; + basename /home/runner/work/lxd/lxd/test/tmp.8tG/z2ZzFIbzM
+&gt; + incus storage volume import incustest-z2ZzFIbzM-dir ./foo.iso iso1
+&gt; + set +x
+&gt; + timeout --foreground 120 /home/runner/go/bin/incus storage volume import incustest-z2ZzFIbzM-dir ./foo.iso iso1 --verbose
+&gt;
+&gt; Importing custom volume: 2% (1.26GB/s)
+&gt; ...
+&gt;
+&gt; ==&gt; TEST DONE: storage local volume handling
+&gt; ==&gt; Test result: failure
+
+Signed-off-by: Simon Deziel &lt;simon.deziel@canonical.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7f52d28</div>
+                                        <div class="message">[lxd-import] Makefile: check `shellcheck`'s version only if present
+
+If `shellcheck` is missing, this avoids the following error:
+
+&gt; $ make deps
+&gt; /bin/sh: 1: shellcheck: not found
+&gt; ...
+
+This affected every targets because each `ifeq` directives are
+evaluated, irrespective of the target called:
+
+&gt; $ make foo
+&gt; /bin/sh: 1: shellcheck: not found
+&gt; make: *** No rule to make target 'foo'.  Stop.
+
+Signed-off-by: Simon Deziel &lt;simon.deziel@canonical.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e8dc9a1</div>
+                                        <div class="message">[lxd-import] storage/drivers/ceph: Differentiate between a true non-existent OSD pool and a Ceph internal issue
+
+Signed-off-by: Gabriel Mougard &lt;gabriel.mougard@canonical.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6ee9b0f</div>
+                                        <div class="message">[lxd-import] lxd: serve documentation on the `/documentation/` endpoint
+
+Signed-off-by: Gabriel Mougard &lt;gabriel.mougard@canonical.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bed6a97</div>
+                                        <div class="message">[lxd-import] lxd/device/disk: Removes unused sourceIsDir function
+
+Signed-off-by: Thomas Parrott &lt;thomas.parrott@canonical.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6af3ebb</div>
+                                        <div class="message">[lxd-import] lxd/device/disk: Check that filesytem disks being attached to VMs have a mount path inside guest
+
+Signed-off-by: Thomas Parrott &lt;thomas.parrott@canonical.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9e405ac</div>
+                                        <div class="message">[lxd-import] lxd/device/disk: Refactor CanHotPlug
+
+ - Improve readability with separate logic blocks and comments.
+ - Fix bug where custom filesystem volumes were still hotplugged.
+
+Signed-off-by: Thomas Parrott &lt;thomas.parrott@canonical.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">macaroni-os/macaroni-commons</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#cc713b6</div>
+                                        <div class="message">macaroni/entities-catalog: Bump v.0.20231214</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ea58271</div>
+                                        <div class="message">macaroni/entities-catalog: Review incus groups</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
                                         <span class="repo">macaroni-os/macaroni-funtoo</span>
                                     </div>
                                 </div>
@@ -330,70 +575,6 @@
                                     <div class="commit">
                                         <div class="sha">#4c7ed0b</div>
                                         <div class="message">app-emulation/lxd: Bump v5.20</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">macaroni-os/macaroni-funtoo</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">eagle</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#eafa190</div>
-                                        <div class="message">sys-process/procs: Bump v.0.14.3+2</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">macaroni-os/macaroni-funtoo</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">eagle</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#d79ff82</div>
-                                        <div class="message">Dockerfile*: Update specs</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">macaroni-os/macaroni-tasks</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#d53a08a</div>
-                                        <div class="message">docker: Update eagle tasks</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f069e86</div>
-                                        <div class="message">docker: Update branch for eagle images</div>
                                     </div>
                                 </div>
                             </section>
@@ -783,7 +964,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 858k out of 54.7m repositories</span>
+                                    <span class="gh">ranked 858k out of 57.5m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 29 stars</div>
                             </div>
@@ -829,7 +1010,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 3.33m out of 54.7m repositories</span>
+                                    <span class="gh">ranked 3.33m out of 57.5m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 2 times</div>
                             </div>
@@ -942,7 +1123,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 14 Dec 2023, 22:10:16 (timezone Europe/Rome) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 14 Dec 2023, 23:10:51 (timezone Europe/Rome) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
