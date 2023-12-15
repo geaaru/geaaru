@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    2.25m added, 638k removed
+                                    502k added, 22.9k removed
                                 </div>
                             </section>
                             <section>
@@ -301,6 +301,122 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 42 commits in
+                                        <span class="repo">macaroni-os/macaroni-funtoo</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">eagle</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#f6bb9fe</div>
+                                        <div class="message">x11-libs/libXau: Bump v.1.0.9</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#77ab483</div>
+                                        <div class="message">x11-libs/libXcomposite: Bump v.0.4.5</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a9e0d89</div>
+                                        <div class="message">x11-libs/libXdamage: Bump v.1.1.5</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#17033ac</div>
+                                        <div class="message">x11-libs/libXdmcp: Bump v.1.1.3</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0df41b3</div>
+                                        <div class="message">x11-libs/libXext: Bump v.1.3.4</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0281a64</div>
+                                        <div class="message">x11-libs/libXfixes: Bump v.5.0.3</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7f680cb</div>
+                                        <div class="message">x11-libs/libXrandr: Bump v.1.5.2</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0ed529f</div>
+                                        <div class="message">x11-libs/libXrender: Bump v.0.9.10</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4bd41aa</div>
+                                        <div class="message">x11-libs/libdrm: Bump v.2.4.110</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#02600d8</div>
+                                        <div class="message">x11-libs/libfontenc: Bump v.1.1.4</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#05edb12</div>
+                                        <div class="message">x11-libs/libpciaccess: Bump v.0.16</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1985a6a</div>
+                                        <div class="message">x11-libs/libxcb: Bump v.1.16</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a946187</div>
+                                        <div class="message">x11-libs/pixman: Bump v.0.38.4</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5e41ab6</div>
+                                        <div class="message">x11-libs/xtrans: Bump v.1.4.0</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#373c3f2</div>
+                                        <div class="message">x11-misc/compose-tables: Bump v.1.8.1</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5205ca0</div>
+                                        <div class="message">x11-misc/imake: Bump v.1.0.9</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#792295b</div>
+                                        <div class="message">x11-misc/xorg-cf-files: Bump v.1.0.6</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3abada9</div>
+                                        <div class="message">x11-proto/dri2proto: Bump v.2.8</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d9c18c2</div>
+                                        <div class="message">x11-proto/glproto: Bump v.1.4.17</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#831cdb9</div>
+                                        <div class="message">x11-proto/xproto: Bump v.7.0.32</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">macaroni-os/macaroni-funtoo</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">eagle</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#82f7dc9</div>
+                                        <div class="message">atoms/latex: Temporary postpone this because it's better to have a xorg-base before this</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 5 commits in
                                         <span class="repo">macaroni-os/macaroni-funtoo</span>
                                     </div>
@@ -366,122 +482,6 @@
                                     <div class="commit">
                                         <div class="sha">#a45d866</div>
                                         <div class="message">dev-libs/zziplib: Bump v.0.13.72</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">geaaru/geaaru_overlay</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">funtoo</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#e916503</div>
-                                        <div class="message">app-emulation/incus: Review ebuild</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 43 commits in
-                                        <span class="repo">macaroni-os/macaroni-funtoo</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">eagle</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#1058505</div>
-                                        <div class="message">dev-texlive/texlive-luatex: Bump v.2020</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#febd6a5</div>
-                                        <div class="message">dev-texlive/texlive-mathscience: Bump v.2020</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f2959df</div>
-                                        <div class="message">dev-texlive/texlive-pictures: Bump v.2020</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#36a1f59</div>
-                                        <div class="message">dev-texlive/texlive-plaingeneric: Bump v.2020</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e744372</div>
-                                        <div class="message">dev-texlive/texlive-pstricks: Bump v.2020</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9a8556e</div>
-                                        <div class="message">dev-texlive/texlive-xetex: Bump v.2020</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#993702b</div>
-                                        <div class="message">media-gfx/graphite2: Bump v.1.3.13</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#271092b</div>
-                                        <div class="message">media-libs-1.0/fontconfig: Bump v.2.13.0</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3324cc2</div>
-                                        <div class="message">media-libs-2/freetype: Bump v.2.10.4</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d409ff7</div>
-                                        <div class="message">media-libs-2/gd: Bump v.2.3.3</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f4def60</div>
-                                        <div class="message">media-libs/harfbuzz: Bump v.8.2.2</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#826ab4f</div>
-                                        <div class="message">media-libs/libpng: Bump v.1.6.37</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b1b9054</div>
-                                        <div class="message">virtual/latex-base: Bump v.1.0</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b21e3f2</div>
-                                        <div class="message">virtual/perl-File-Path: Bump v.2.160.0</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#62a21f9</div>
-                                        <div class="message">virtual/texi2dvi: Bump v.0</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e1a7d90</div>
-                                        <div class="message">x11-base/xorg-proto: Bump v.2019.2</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2777482</div>
-                                        <div class="message">x11-libs/cairo: Bump v.1.16.0</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ed5052e</div>
-                                        <div class="message">x11-libs/pixman: Bump v.0.38.4</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a70fddd</div>
-                                        <div class="message">x11-misc/imake: Bump v.1.0.9</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#aee40b4</div>
-                                        <div class="message">x11-misc/xorg-cf-files: Bump v.1.0.6</div>
                                     </div>
                                 </div>
                             </section>
@@ -871,7 +871,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 858k out of 57.4m repositories</span>
+                                    <span class="gh">ranked 858k out of 48.5m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 29 stars</div>
                             </div>
@@ -917,7 +917,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 3.39m out of 57.4m repositories</span>
+                                    <span class="gh">ranked 3.39m out of 48.5m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 2 times</div>
                             </div>
@@ -1030,7 +1030,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 15 Dec 2023, 18:10:40 (timezone Europe/Rome) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 15 Dec 2023, 19:14:10 (timezone Europe/Rome) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
