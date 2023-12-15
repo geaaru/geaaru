@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            21928 Commits
+                            21929 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    1.15m added, 75.8k removed
+                                    1.88m added, 437k removed
                                 </div>
                             </section>
                             <section>
@@ -225,14 +225,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="281.4021536390429" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="281.4021536390429" y="0" width="152.5295350819528" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="433.93168872099574" y="0" width="11.277651787989067" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="445.2093405089848" y="0" width="6.69341546958893" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="451.9027559785737" y="0" width="2.4517263396943325" height="8" fill="#0298c3"/>
-                    <rect mask="url(#languages-bar)" x="454.35448231826797" y="0" width="2.2364135477641094" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="456.5908958660321" y="0" width="1.7953885640414309" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="458.3862844300735" y="0" width="1.6137155699264296" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="281.41107109256654" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="281.41107109256654" y="0" width="152.52191922841484" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="433.9329903209814" y="0" width="11.277088690853663" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="445.21007901183503" y="0" width="6.693081264991392" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="451.9031602768264" y="0" width="2.4516039241325975" height="8" fill="#0298c3"/>
+                    <rect mask="url(#languages-bar)" x="454.35476420095904" y="0" width="2.236301882846093" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="456.5910660838051" y="0" width="1.7952989196565579" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="458.38636500346166" y="0" width="1.6136349965382932" height="8" fill="#427819"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -308,6 +308,122 @@
                                 <div class="details">
                                     <div>on branch <span class="code">funtoo</span></div>
                                     <div class="commit">
+                                        <div class="sha">#e916503</div>
+                                        <div class="message">app-emulation/incus: Review ebuild</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 43 commits in
+                                        <span class="repo">macaroni-os/macaroni-funtoo</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">eagle</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#1058505</div>
+                                        <div class="message">dev-texlive/texlive-luatex: Bump v.2020</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#febd6a5</div>
+                                        <div class="message">dev-texlive/texlive-mathscience: Bump v.2020</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f2959df</div>
+                                        <div class="message">dev-texlive/texlive-pictures: Bump v.2020</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#36a1f59</div>
+                                        <div class="message">dev-texlive/texlive-plaingeneric: Bump v.2020</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e744372</div>
+                                        <div class="message">dev-texlive/texlive-pstricks: Bump v.2020</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9a8556e</div>
+                                        <div class="message">dev-texlive/texlive-xetex: Bump v.2020</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#993702b</div>
+                                        <div class="message">media-gfx/graphite2: Bump v.1.3.13</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#271092b</div>
+                                        <div class="message">media-libs-1.0/fontconfig: Bump v.2.13.0</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3324cc2</div>
+                                        <div class="message">media-libs-2/freetype: Bump v.2.10.4</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d409ff7</div>
+                                        <div class="message">media-libs-2/gd: Bump v.2.3.3</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f4def60</div>
+                                        <div class="message">media-libs/harfbuzz: Bump v.8.2.2</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#826ab4f</div>
+                                        <div class="message">media-libs/libpng: Bump v.1.6.37</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b1b9054</div>
+                                        <div class="message">virtual/latex-base: Bump v.1.0</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b21e3f2</div>
+                                        <div class="message">virtual/perl-File-Path: Bump v.2.160.0</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#62a21f9</div>
+                                        <div class="message">virtual/texi2dvi: Bump v.0</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e1a7d90</div>
+                                        <div class="message">x11-base/xorg-proto: Bump v.2019.2</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2777482</div>
+                                        <div class="message">x11-libs/cairo: Bump v.1.16.0</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ed5052e</div>
+                                        <div class="message">x11-libs/pixman: Bump v.0.38.4</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a70fddd</div>
+                                        <div class="message">x11-misc/imake: Bump v.1.0.9</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#aee40b4</div>
+                                        <div class="message">x11-misc/xorg-cf-files: Bump v.1.0.6</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">geaaru/geaaru_overlay</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">funtoo</span></div>
+                                    <div class="commit">
                                         <div class="sha">#886f828</div>
                                         <div class="message">app-emulation/incus: Fix typo</div>
                                     </div>
@@ -354,122 +470,6 @@
                                     <div class="commit">
                                         <div class="sha">#136267c</div>
                                         <div class="message">toolchain/text: Bump v.1</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">geaaru/geaaru_overlay</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">funtoo</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#595ef99</div>
-                                        <div class="message">app-emulation/lxd: Add AGPL-3 license</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 52 commits in
-                                        <span class="repo">macaroni-os/macaroni-funtoo</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">eagle</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#3e5b00f</div>
-                                        <div class="message">dev-perl/Ref-Util-XS: Bump v.0.116.0</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8d4ecb1</div>
-                                        <div class="message">dev-perl/Role-Tiny: Bump v.2.0.6</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#691d59c</div>
-                                        <div class="message">dev-perl/Specio: Bump v.0.420.0</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f5dc3ba</div>
-                                        <div class="message">dev-perl/Sub-Exporter-Progressive: Bump v.0.1.13</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9a3b8f9</div>
-                                        <div class="message">dev-perl/Sub-Exporter: Bump v.0.987.0</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c6efcc0</div>
-                                        <div class="message">dev-perl/Sub-Identify: Bump v.0.140.0</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e171033</div>
-                                        <div class="message">dev-perl/Sub-Install: Bump v.0.928.0</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b5eb32c</div>
-                                        <div class="message">dev-perl/Sub-Quote: Bump v.2.4.0</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8aa69fb</div>
-                                        <div class="message">dev-perl/Test-Fatal: Bump v.0.14.0</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c3417f9</div>
-                                        <div class="message">dev-perl/Try-Tiny: Bump v.0.300.0</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#aeb28e9</div>
-                                        <div class="message">dev-perl/Unicode-Map: Bump v.0.112.0</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4535d89</div>
-                                        <div class="message">dev-perl/Variable-Magic: Bump v.0.620.0</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1b2341b</div>
-                                        <div class="message">dev-perl/namespace-autoclean: Bump v.0.280.0</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#eee1fbf</div>
-                                        <div class="message">dev-perl/namespace-clean: Bump v.0.270.0</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#db67db3</div>
-                                        <div class="message">sys-apps/ed: Bump v.1.15</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#68ba611</div>
-                                        <div class="message">virtual/perl-Storable: Bump v.3.210.0</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0ba9210</div>
-                                        <div class="message">virtual/perl-Sys-Syslog: Bump v.0.360.0</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#efe272c</div>
-                                        <div class="message">virtual/perl-Test-Simple: Bump v.1.302.175</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3f21f41</div>
-                                        <div class="message">virtual/perl-XSLoader: Bump v.0.300.0</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c8a0a4c</div>
-                                        <div class="message">virtual/perl-parent: Bump v.0.238.0</div>
                                     </div>
                                 </div>
                             </section>
@@ -859,7 +859,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 858k out of 55.5m repositories</span>
+                                    <span class="gh">ranked 858k out of 66.3m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 29 stars</div>
                             </div>
@@ -905,7 +905,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 3.23m out of 55.5m repositories</span>
+                                    <span class="gh">ranked 3.39m out of 66.3m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 2 times</div>
                             </div>
@@ -1018,7 +1018,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 15 Dec 2023, 13:20:55 (timezone Europe/Rome) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 15 Dec 2023, 14:14:13 (timezone Europe/Rome) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
