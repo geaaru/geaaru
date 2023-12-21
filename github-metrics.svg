@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1637" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1654" class="">
     <defs>
         <style/>
     </defs>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            21974 Commits
+                            21975 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    1.94m added, 449k removed
+                                    1.13m added, 73k removed
                                 </div>
                             </section>
                             <section>
@@ -225,14 +225,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="282.2013825474617" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="282.2013825474617" y="0" width="151.84696238407827" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="434.04834493154" y="0" width="11.22718407232678" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="445.2755290038667" y="0" width="6.663462302468757" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="451.9389913063355" y="0" width="2.440754815646639" height="8" fill="#0298c3"/>
-                    <rect mask="url(#languages-bar)" x="454.3797461219821" y="0" width="2.2264055527352107" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="456.6061516747173" y="0" width="1.7873541645709785" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="458.39350583928825" y="0" width="1.6064941607116505" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="282.22274491263937" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="282.22274491263937" y="0" width="151.82871809001097" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="434.05146300265034" y="0" width="11.225835134919356" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="445.2772981375697" y="0" width="6.662661692671602" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="451.9399598302413" y="0" width="2.4404615608596893" height="8" fill="#0298c3"/>
+                    <rect mask="url(#languages-bar)" x="454.38042139110104" y="0" width="2.2261380518449756" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="456.606559442946" y="0" width="1.7871394153625062" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="458.3936988583085" y="0" width="1.6063011416915445" height="8" fill="#427819"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -301,6 +301,50 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">macaroni-os/macaroni-funtoo</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">eagle</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#b2386d9</div>
+                                        <div class="message">toolchain/meta-geaaru-kit: Bump v.0.20231221</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7eeafa5</div>
+                                        <div class="message">seed/funtoo-kit-geaaru: Bump v.0.20231221</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">geaaru/geaaru_overlay</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">funtoo</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#97bd5bf</div>
+                                        <div class="message">dev-python/python-sqlparse: Bump v0.4.4</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 1 commit in
                                         <span class="repo">geaaru/geaaru_overlay</span>
                                     </div>
@@ -350,46 +394,6 @@
                                     <div class="commit">
                                         <div class="sha">#e3fdff1</div>
                                         <div class="message">luet/upgrade-kits.yaml: Temporary move eagle to lxd queue</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">macaroni-os/macaroni-funtoo</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">eagle</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#7ba5a9a</div>
-                                        <div class="message">dev-python/simplejson: Bump v.3.19.2+2</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">macaroni-os/macaroni-funtoo</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">eagle</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#5b86ed2</div>
-                                        <div class="message">seed/macaroni-funtoo-race12: Bump v.0.20231219+5</div>
                                     </div>
                                 </div>
                             </section>
@@ -779,7 +783,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 860k out of 55.7m repositories</span>
+                                    <span class="gh">ranked 860k out of 62.6m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 29 stars</div>
                             </div>
@@ -825,7 +829,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 3.40m out of 55.7m repositories</span>
+                                    <span class="gh">ranked 3.40m out of 62.6m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 2 times</div>
                             </div>
@@ -938,7 +942,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 21 Dec 2023, 11:12:09 (timezone Europe/Rome) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 21 Dec 2023, 12:09:46 (timezone Europe/Rome) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
