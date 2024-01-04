@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2369" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2053" class="">
     <defs>
         <style/>
     </defs>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            22105 Commits
+                            22107 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    2.53m added, 487k removed
+                                    2.49m added, 478k removed
                                 </div>
                             </section>
                             <section>
@@ -225,14 +225,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="281.19314885232694" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="281.19314885232694" y="0" width="152.600633065996" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="433.7937819183229" y="0" width="11.282908594852318" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="445.0766905131752" y="0" width="6.822291129326957" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="451.8989816425022" y="0" width="2.4528691531178715" height="8" fill="#0298c3"/>
-                    <rect mask="url(#languages-bar)" x="454.35185079562007" y="0" width="2.2374559982944118" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="456.58930679391443" y="0" width="1.7962254413544638" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="458.3855322352689" y="0" width="1.614467764731057" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="281.1954698646561" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="281.1954698646561" y="0" width="152.59865222494594" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="433.79412208960207" y="0" width="11.28276213642643" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="445.0768842260285" y="0" width="6.822202572195492" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="451.89908679822395" y="0" width="2.45283731351268" height="8" fill="#0298c3"/>
+                    <rect mask="url(#languages-bar)" x="454.35192411173665" y="0" width="2.237426954871721" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="456.58935106660834" y="0" width="1.7962021253496883" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="458.385553191958" y="0" width="1.6144468080419658" height="8" fill="#427819"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -301,6 +301,187 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">macaroni-os/macaroni-funtoo</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">terragon</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#aff7088</div>
+                                        <div class="message">dev-python/frozenlist: Bump v.1.4.1+1</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">geaaru/geaaru_overlay</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">funtoo</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#c08d2b7</div>
+                                        <div class="message">dev-python: Update frozenlist specs</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a0f4877</div>
+                                        <div class="message">dev-python/frozenlist: Avoid using pep517 setuptools</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2785 commits in
+                                        <span class="repo">geaaru/gentoo</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#4bfb977</div>
+                                        <div class="message">dev-python/python-swiftclient: Stabilize 4.4.0 arm64, #918361
+
+Signed-off-by: Arthur Zamarin &lt;arthurzam@gentoo.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3c8e1ab</div>
+                                        <div class="message">dev-python/pywinrm: Stabilize 0.4.3 arm64, #918350
+
+Signed-off-by: Arthur Zamarin &lt;arthurzam@gentoo.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#819eb93</div>
+                                        <div class="message">sys-apps/pkgcore: Sync metadata.xsd from xml-schema
+
+Acked-by: Arthur Zamarin &lt;arthurzam@gentoo.org&gt;
+Signed-off-by: Ulrich Müller &lt;ulm@gentoo.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#04852ac</div>
+                                        <div class="message">dev-python/guessit: Stabilize 3.7.1 arm64, #918238
+
+Signed-off-by: Arthur Zamarin &lt;arthurzam@gentoo.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ab1809b</div>
+                                        <div class="message">dev-python/pytest-bdd: Stabilize 7.0.0 arm64, #918317
+
+Signed-off-by: Arthur Zamarin &lt;arthurzam@gentoo.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cf22700</div>
+                                        <div class="message">dev-python/partd: Stabilize 1.4.1 arm64, #918190
+
+Signed-off-by: Arthur Zamarin &lt;arthurzam@gentoo.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#54b6a52</div>
+                                        <div class="message">dev-python/bpython: Stabilize 0.24 arm64, #918152
+
+Signed-off-by: Arthur Zamarin &lt;arthurzam@gentoo.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4c64c03</div>
+                                        <div class="message">dev-python/pydiffx: Stabilize 1.1 arm64, #918311
+
+Signed-off-by: Arthur Zamarin &lt;arthurzam@gentoo.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bc93d43</div>
+                                        <div class="message">dev-python/markups: Stabilize 4.0.0 arm64, #918263
+
+Signed-off-by: Arthur Zamarin &lt;arthurzam@gentoo.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9bbc1e0</div>
+                                        <div class="message">dev-python/irc: Stabilize 20.3.0 arm64, #918248
+
+Signed-off-by: Arthur Zamarin &lt;arthurzam@gentoo.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#607e1e2</div>
+                                        <div class="message">dev-python/mss: Stabilize 9.0.1 arm64, #918228
+
+Signed-off-by: Arthur Zamarin &lt;arthurzam@gentoo.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c170124</div>
+                                        <div class="message">dev-python/pyscreenshot: Stabilize 3.1 arm64, #918228
+
+Signed-off-by: Arthur Zamarin &lt;arthurzam@gentoo.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fae1807</div>
+                                        <div class="message">dev-python/pyvirtualdisplay: Stabilize 3.0 arm64, #918228
+
+Signed-off-by: Arthur Zamarin &lt;arthurzam@gentoo.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7b925e6</div>
+                                        <div class="message">dev-python/easyprocess: Stabilize 1.1-r1 arm64, #918228
+
+Signed-off-by: Arthur Zamarin &lt;arthurzam@gentoo.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cbc07bc</div>
+                                        <div class="message">dev-python/entrypoint2: Stabilize 1.1 arm64, #918228
+
+Signed-off-by: Arthur Zamarin &lt;arthurzam@gentoo.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#98e4caa</div>
+                                        <div class="message">dev-python/eyeD3: Stabilize 0.9.7-r1 arm64, #918220
+
+Signed-off-by: Arthur Zamarin &lt;arthurzam@gentoo.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0908d40</div>
+                                        <div class="message">dev-python/doit-py: Stabilize 0.5.0-r1 arm64, #918212
+
+Signed-off-by: Arthur Zamarin &lt;arthurzam@gentoo.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#973357e</div>
+                                        <div class="message">dev-python/jschema-to-python: Stabilize 1.2.3-r1 arm64, #918167
+
+Signed-off-by: Arthur Zamarin &lt;arthurzam@gentoo.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#00e2b08</div>
+                                        <div class="message">dev-python/joblib: Stabilize 1.3.2 arm64, #918245
+
+Signed-off-by: Arthur Zamarin &lt;arthurzam@gentoo.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#801244a</div>
+                                        <div class="message">dev-python/python-slugify: Stabilize 8.0.1 arm64, #918364
+
+Signed-off-by: Arthur Zamarin &lt;arthurzam@gentoo.org&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 2 commits in
                                         <span class="repo">macaroni-os/macaroni-commons</span>
                                     </div>
@@ -350,222 +531,6 @@
                                     <div class="commit">
                                         <div class="sha">#409bc10</div>
                                         <div class="message">toolchain/extra-server: Update rdeps</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 59 commits in
-                                        <span class="repo">macaroni-os/macaroni-funtoo</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">terragon</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#3234174</div>
-                                        <div class="message">dev-python/py: Update specs</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a6f0159</div>
-                                        <div class="message">dev-python/pyasn1-modules: Update specs</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a4cc43e</div>
-                                        <div class="message">dev-python/pyasn1: Update specs</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#03fbec9</div>
-                                        <div class="message">dev-python/pycurl: Update specs</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#bfc60ba</div>
-                                        <div class="message">dev-python/pyserial: Update specs</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#94f72eb</div>
-                                        <div class="message">dev-python/pyyaml: Update specs</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7be80b3</div>
-                                        <div class="message">dev-python/rfc3986: Update specs</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#28959de</div>
-                                        <div class="message">dev-python/service_identity: Update specs</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#44114fb</div>
-                                        <div class="message">dev-python/sniffio: Update specs</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1336b3e</div>
-                                        <div class="message">dev-python/sortedcontainers: Update specs</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6fb4d99</div>
-                                        <div class="message">dev-python/soupsieve: Update specs</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#80b5b14</div>
-                                        <div class="message">dev-python/subpop: Update specs</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e1b3a80</div>
-                                        <div class="message">dev-python/trio: Update uri</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c0af393</div>
-                                        <div class="message">dev-python/twisted: Update specs</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a48aff7</div>
-                                        <div class="message">dev-python/webencodings: Dropped for now</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1585626</div>
-                                        <div class="message">dev-python/wstools: Update specs</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2570f66</div>
-                                        <div class="message">dev-python/xmltodict: Update specs</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#bcdf6fd</div>
-                                        <div class="message">dev-python/zope-interface: Update specs</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7532fe3</div>
-                                        <div class="message">sys-devel/gdb: Update specs</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7388c50</div>
-                                        <div class="message">virtual/python-cffi: Update specs</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 24 commits in
-                                        <span class="repo">macaroni-os/macaroni-funtoo</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">terragon</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#b735e80</div>
-                                        <div class="message">dev-python/appdirs: Bump v.1.4.4</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2739cbc</div>
-                                        <div class="message">dev-python/constantly: Bump v.23.10.4</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b6e8480</div>
-                                        <div class="message">dev-python/exceptiongroup: Bump v.1.2.0</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9e98a3f</div>
-                                        <div class="message">dev-python/frozenlist: Bump v.1.4.1</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#af7572b</div>
-                                        <div class="message">dev-python/httpcore: Bump v.1.0.2</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9e48c58</div>
-                                        <div class="message">dev-python/httpx: Bump v.0.26.0</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#24ee965</div>
-                                        <div class="message">dev-python/hyperlink: Bump v.21.0.0</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#77a65ef</div>
-                                        <div class="message">dev-python/mistune: Bump v.0.8.4</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e770b42</div>
-                                        <div class="message">dev-python/outcome: Bump v.1.3.0</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e56068d</div>
-                                        <div class="message">dev-python/psutil: Bump v.5.9.7</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#05fbacc</div>
-                                        <div class="message">dev-python/pycurl: Bump v.7.45.2</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5233b18</div>
-                                        <div class="message">dev-python/pyhamcrest: Bump v.2.1.0</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5b896fe</div>
-                                        <div class="message">dev-python/pymongo: Bump v.4.6.1</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ba9e7d2</div>
-                                        <div class="message">dev-python/pyserial: Bump v.3.5</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#68fc7f6</div>
-                                        <div class="message">dev-python/pyzmq: Bump v.25.1.2</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#db2dc1a</div>
-                                        <div class="message">dev-python/trio: Bump v.0.23.2</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#76d6f60</div>
-                                        <div class="message">dev-python/twisted: Bump v.23.10.0</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#31fa6be</div>
-                                        <div class="message">dev-python/yarl: Bump v.1.9.4</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f2a0c5a</div>
-                                        <div class="message">net-libs/zeromq: Bump v.4.3.5</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4ed983f</div>
-                                        <div class="message">sys-apps/metatools: Bump v.1.3.5</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">macaroni-os/macaroni-funtoo</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">terragon</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#c721e2e</div>
-                                        <div class="message">seed/macaroni-funtoo-race6: Bump v.0.20231230</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#da02ea7</div>
-                                        <div class="message">pkglist/macaroni-funtoo-race6: Bump v.0.20231230</div>
                                     </div>
                                 </div>
                             </section>
@@ -955,7 +920,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 865k out of 59.3m repositories</span>
+                                    <span class="gh">ranked 865k out of 57.6m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 29 stars</div>
                             </div>
@@ -1001,7 +966,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 3.40m out of 59.3m repositories</span>
+                                    <span class="gh">ranked 3.37m out of 57.6m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 2 times</div>
                             </div>
@@ -1114,7 +1079,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 4 Jan 2024, 22:10:42 (timezone Europe/Rome) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 4 Jan 2024, 23:11:26 (timezone Europe/Rome) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
