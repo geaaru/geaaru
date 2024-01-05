@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1737" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1587" class="">
     <defs>
         <style/>
     </defs>
@@ -298,6 +298,34 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">macaroni-os/macaroni-funtoo</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">terragon</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#de8b97b</div>
+                                        <div class="message">sys-process/criu: Bump v.3.19+1</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f582d47</div>
+                                        <div class="message">Revert "dev-libs/libbson: Bump v.1.25.3"
+
+This reverts commit 11d5f7b96d00c450dd5c9472a44cf34a36bcfe53.
+
+Pinned to 1.24 until the ebuild will be fixed.</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M8.878.392a1.75 1.75 0 00-1.756 0l-5.25 3.045A1.75 1.75 0 001 4.951v6.098c0 .624.332 1.2.872 1.514l5.25 3.045a1.75 1.75 0 001.756 0l5.25-3.045c.54-.313.872-.89.872-1.514V4.951c0-.624-.332-1.2-.872-1.514L8.878.392zM7.875 1.69a.25.25 0 01.25 0l4.63 2.685L8 7.133 3.245 4.375l4.63-2.685zM2.5 5.677v5.372c0 .09.047.171.125.216l4.625 2.683V8.432L2.5 5.677zm6.25 8.271l4.625-2.683a.25.25 0 00.125-.216V5.677L8.75 8.432v5.516z"/>
                                     </svg>
                                     <div class="content">
@@ -361,66 +389,6 @@
                                     <div class="commit">
                                         <div class="sha">#56090f9</div>
                                         <div class="message">Prepare release v0.3.1</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 11 commits in
-                                        <span class="repo">macaroni-os/macaroni-funtoo</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">terragon</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#9ab9e5d</div>
-                                        <div class="message">app-admin/cloud-init: Bump v.24.1</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4cb7066</div>
-                                        <div class="message">app-emulation/lxd: Bump v.5.20</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#11d5f7b</div>
-                                        <div class="message">dev-libs/libbson: Bump v.1.25.3</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8d46224</div>
-                                        <div class="message">dev-python/distlib: Bump v.0.3.8</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d9ed9d4</div>
-                                        <div class="message">dev-python/jsonpatch: Bump v.1.33</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#38fd192</div>
-                                        <div class="message">dev-python/platformdirs: Bump v.4.1.0</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#810cba4</div>
-                                        <div class="message">dev-python/virtualenv: Bump v.20.25.0</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#65e6f3c</div>
-                                        <div class="message">net-dns/bind-tools: Bump v.9.18.21</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c3dcb44</div>
-                                        <div class="message">net-dns/bind: Bump v.9.18.21</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c00cfbb</div>
-                                        <div class="message">sys-process/criu: Bump v.3.19</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#da40c89</div>
-                                        <div class="message">www-servers/caddy: Bump v.2.7.6</div>
                                     </div>
                                 </div>
                             </section>
@@ -579,7 +547,7 @@
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     developer
-                                    <span class="gh">ranked 289k out of 126m users</span>
+                                    <span class="gh">ranked 289k out of 127m users</span>
                                 </div>
                                 <div class="text">Published 77 public repositories</div>
                             </div>
@@ -705,7 +673,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 519k out of 126m users</span>
+                                    <span class="gh">ranked 519k out of 127m users</span>
                                 </div>
                                 <div class="text">Followed by 25 users</div>
                             </div>
@@ -810,7 +778,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 865k out of 64.7m repositories</span>
+                                    <span class="gh">ranked 865k out of 63.3m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 29 stars</div>
                             </div>
@@ -856,7 +824,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 3.40m out of 64.7m repositories</span>
+                                    <span class="gh">ranked 3.40m out of 63.3m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 2 times</div>
                             </div>
@@ -969,7 +937,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 5 Jan 2024, 23:10:49 (timezone Europe/Rome) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 6 Jan 2024, 00:11:19 (timezone Europe/Rome) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
