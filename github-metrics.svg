@@ -785,7 +785,7 @@ Bugs: macaroni-os/macaroni-funtoo#29</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 872k out of 140m repositories</span>
+                                    <span class="gh">ranked 872k out of 133m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 29 stars</div>
                             </div>
@@ -831,7 +831,7 @@ Bugs: macaroni-os/macaroni-funtoo#29</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 3.42m out of 140m repositories</span>
+                                    <span class="gh">ranked 3.42m out of 133m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 2 times</div>
                             </div>
@@ -944,7 +944,7 @@ Bugs: macaroni-os/macaroni-funtoo#29</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 28 Jan 2024, 09:13:17 (timezone Europe/Rome) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 28 Jan 2024, 10:11:06 (timezone Europe/Rome) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
