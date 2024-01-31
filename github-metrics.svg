@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2103" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2036" class="">
     <defs>
         <style/>
     </defs>
@@ -30,20 +30,20 @@
                         <div class="field calendar">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
-                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                     <rect class="day" x="60" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            19069 Commits
+                            19103 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    1.89m added, 439k removed
+                                    2.52m added, 487k removed
                                 </div>
                             </section>
                             <section>
@@ -225,14 +225,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="283.765194300468" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="283.765194300468" y="0" width="150.1845148004351" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="433.94970910090314" y="0" width="11.103233373461796" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="445.0529424743649" y="0" width="6.9713049234139906" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="452.02424739777894" y="0" width="2.4138083201399723" height="8" fill="#0298c3"/>
-                    <rect mask="url(#languages-bar)" x="454.43805571791887" y="0" width="2.2018255224764554" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="456.6398812403953" y="0" width="1.7676213627935604" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="458.40750260318885" y="0" width="1.592497396811142" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="283.74319094015885" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="283.74319094015885" y="0" width="150.2032657161744" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="433.9464566563333" y="0" width="11.10461964017309" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="445.0510762965063" y="0" width="6.9721753084292875" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="452.02325160493564" y="0" width="2.4141096902012062" height="8" fill="#0298c3"/>
+                    <rect mask="url(#languages-bar)" x="454.43736129513684" y="0" width="2.202100425950355" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="456.6394617210872" y="0" width="1.7678420547821903" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="458.40730377586937" y="0" width="1.5926962241306055" height="8" fill="#427819"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -301,259 +301,19 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
+                                        Pushed 2 commits in
                                         <span class="repo">macaroni-os/macaroni-funtoo</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">terragon</span></div>
+                                    <div>on branch <span class="code">phoenix</span></div>
                                     <div class="commit">
-                                        <div class="sha">#e7dfafe</div>
-                                        <div class="message">net-misc/ovn: Bump v.23.09.1+1</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">geaaru/geaaru_overlay</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">funtoo</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#1453ced</div>
-                                        <div class="message">net-misc/ovn: Add fix for alabaster 0.7.16</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1644 commits in
-                                        <span class="repo">geaaru/gentoo</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#2a48d34</div>
-                                        <div class="message">net-dns/libidn2: drop obsolete LLD 17 workaround
-
-Upstream commit ecdf25135d20a71ccf274b255f374611cd074bb5.
-
-Signed-off-by: Sam James &lt;sam@gentoo.org&gt;</div>
+                                        <div class="sha">#1ca69c1</div>
+                                        <div class="message">seed/funtoo-kits: Bump v.0.20240131</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#12dbee9</div>
-                                        <div class="message">sys-libs/llvm-libunwind: keyword ~arm64-macos
-
-Bug: https://bugs.gentoo.org/758167
-Signed-off-by: Alexey Sokolov &lt;alexey+gentoo@asokolov.org&gt;
-Closes: https://github.com/gentoo/gentoo/pull/35031
-Signed-off-by: Sam James &lt;sam@gentoo.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8493d85</div>
-                                        <div class="message">sys-libs/binutils-libs: keyword 2.41-r5 for ~arm64-macos
-
-Bug: https://bugs.gentoo.org/758167
-Signed-off-by: Alexey Sokolov &lt;alexey+gentoo@asokolov.org&gt;
-Signed-off-by: Sam James &lt;sam@gentoo.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ef579f9</div>
-                                        <div class="message">sys-libs/compiler-rt: keyword ~arm64-macos
-
-Bug: https://bugs.gentoo.org/758167
-Signed-off-by: Alexey Sokolov &lt;alexey+gentoo@asokolov.org&gt;
-Signed-off-by: Sam James &lt;sam@gentoo.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6ecad4b</div>
-                                        <div class="message">sys-libs/libcxxabi: keyword ~arm64-macos
-
-Bug: https://bugs.gentoo.org/758167
-Signed-off-by: Alexey Sokolov &lt;alexey+gentoo@asokolov.org&gt;
-Signed-off-by: Sam James &lt;sam@gentoo.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e4f745b</div>
-                                        <div class="message">sys-devel/llvm-toolchain-symlinks: keyword ~arm64-macos
-
-Bug: https://bugs.gentoo.org/758167
-Signed-off-by: Alexey Sokolov &lt;alexey+gentoo@asokolov.org&gt;
-Signed-off-by: Sam James &lt;sam@gentoo.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d2a7921</div>
-                                        <div class="message">sys-devel/lld-toolchain-symlinks: keyword ~arm64-macos
-
-Bug: https://bugs.gentoo.org/758167
-Signed-off-by: Alexey Sokolov &lt;alexey+gentoo@asokolov.org&gt;
-Signed-off-by: Sam James &lt;sam@gentoo.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b64e649</div>
-                                        <div class="message">sys-devel/clang-toolchain-symlinks: keyword ~arm64-macos
-
-Bug: https://bugs.gentoo.org/758167
-Signed-off-by: Alexey Sokolov &lt;alexey+gentoo@asokolov.org&gt;
-Signed-off-by: Sam James &lt;sam@gentoo.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#007965a</div>
-                                        <div class="message">sys-devel/lld: keyword ~arm64-macos
-
-Bug: https://bugs.gentoo.org/758167
-Signed-off-by: Alexey Sokolov &lt;alexey+gentoo@asokolov.org&gt;
-Signed-off-by: Sam James &lt;sam@gentoo.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#527df02</div>
-                                        <div class="message">sys-devel/clang: keyword ~arm64-macos
-
-Bug: https://bugs.gentoo.org/758167
-Signed-off-by: Alexey Sokolov &lt;alexey+gentoo@asokolov.org&gt;
-Signed-off-by: Sam James &lt;sam@gentoo.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a93a35f</div>
-                                        <div class="message">sys-devel/llvm-common: keyword ~arm64-macos
-
-Bug: https://bugs.gentoo.org/758167
-Signed-off-by: Alexey Sokolov &lt;alexey+gentoo@asokolov.org&gt;
-Signed-off-by: Sam James &lt;sam@gentoo.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6a3903d</div>
-                                        <div class="message">sys-devel/llvm: support llvm prefix on mac
-
-Stop depending on sys-devel/binutils-apple which is required only when
-building with gcc, but conflicts when using clang
-
-Bug: https://bugs.gentoo.org/758167
-Signed-off-by: Alexey Sokolov &lt;alexey+gentoo@asokolov.org&gt;
-Signed-off-by: Sam James &lt;sam@gentoo.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#334aa41</div>
-                                        <div class="message">sys-devel/clang-runtime: keyword ~arm64-macos
-
-Bug: https://bugs.gentoo.org/758167
-Signed-off-by: Alexey Sokolov &lt;alexey+gentoo@asokolov.org&gt;
-Signed-off-by: Sam James &lt;sam@gentoo.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6d506cc</div>
-                                        <div class="message">sys-devel/clang-common: support llvm prefix on mac
-
-Bug: https://bugs.gentoo.org/758167
-Signed-off-by: Alexey Sokolov &lt;alexey+gentoo@asokolov.org&gt;
-Signed-off-by: Sam James &lt;sam@gentoo.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c465aff</div>
-                                        <div class="message">sys-auth/pambase: add 20240128, drop 20240119
-
-Sam James (1):
-      system-auth.tpl: fix sssd's pam_deny
-
-Closes: https://bugs.gentoo.org/922918
-Signed-off-by: Sam James &lt;sam@gentoo.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#53725d9</div>
-                                        <div class="message">net-misc/turbovnc: add 3.1.1
-
-Signed-off-by: Viorel Munteanu &lt;ceamac@gentoo.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0de8fde</div>
-                                        <div class="message">dev-libs/raft: add 0.20.0
-
-Signed-off-by: Joonas Niilola &lt;juippis@gentoo.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#45ed01d</div>
-                                        <div class="message">net-misc/gallery-dl: Stabilize 1.26.5 ALLARCHES, #923060
-
-Signed-off-by: Sam James &lt;sam@gentoo.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#64a1e19</div>
-                                        <div class="message">media-fonts/spleen: Stabilize 2.0.2 amd64, #923059
-
-Signed-off-by: Sam James &lt;sam@gentoo.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5813684</div>
-                                        <div class="message">dev-util/shards: Stabilize 0.17.4 amd64, #923058
-
-Signed-off-by: Sam James &lt;sam@gentoo.org&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 9 commits in
-                                        <span class="repo">macaroni-os/macaroni-funtoo</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">terragon</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#202d461</div>
-                                        <div class="message">app-arch/upx-bin: Bump v.4.2.2</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fee564f</div>
-                                        <div class="message">dev-libs/libmaxminddb: Bump v.1.9.1</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3acff03</div>
-                                        <div class="message">dev-python/netaddr: Bump v.0.10.1</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#af4b4be</div>
-                                        <div class="message">dev-util/patchelf: Bump v.0.18.0+1</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a0e1871</div>
-                                        <div class="message">mail-mta/postfix: Bump v.3.8.5</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fb3db12</div>
-                                        <div class="message">net-misc/ovn: Bump v.23.09.1</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1db6724</div>
-                                        <div class="message">net-misc/rclone: Bump v.1.65.1</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#759972d</div>
-                                        <div class="message">sys-power/cpupower: Bump v.6.7.1</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1353553</div>
-                                        <div class="message">sys-process/htop: Bump v.3.3.0</div>
+                                        <div class="sha">#b983553</div>
+                                        <div class="message">toolchain/meta-repo: Bump v.0.20240131</div>
                                     </div>
                                 </div>
                             </section>
@@ -570,14 +330,162 @@ Signed-off-by: Sam James &lt;sam@gentoo.org&gt;</div>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">terragon</span></div>
+                                    <div>on branch <span class="code">phoenix</span></div>
                                     <div class="commit">
-                                        <div class="sha">#fbb2915</div>
-                                        <div class="message">seed/macaroni-funtoo-race10: Bump v.0.20240131</div>
+                                        <div class="sha">#28ad1ba</div>
+                                        <div class="message">seed/funtoo-kit-geaaru: Bump v.0.20240131</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#9d0bc27</div>
-                                        <div class="message">pkglist/macaroni-funtoo-race10: Bump v.0.20240131</div>
+                                        <div class="sha">#5f612cc</div>
+                                        <div class="message">toolchain/meta-geaaru-kit: Bump v.0.20240131</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 4 commits in
+                                        <span class="repo">geaaru/geaaru_overlay</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">funtoo</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#d4e23ee</div>
+                                        <div class="message">dev-python/aiohttp: Bump v3.9.3</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ee7e1fc</div>
+                                        <div class="message">dev-python/aiobotocore: Bump v2.11.1</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#302587c</div>
+                                        <div class="message">dev-python/platformdirs: Bump v4.2.0</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a0eda73</div>
+                                        <div class="message">dev-python/dnspython: Bump v2.5.0</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 26 commits in
+                                        <span class="repo">macaroni-os/macaroni-security</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">phoenix</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#3c40501</div>
+                                        <div class="message">dev-util/clion: Bump v.2023.3.3</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4448004</div>
+                                        <div class="message">dev-util/datagrip: Bump v.2023.3.3</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f596658</div>
+                                        <div class="message">dev-util/github-cli: Bump v.2.42.1</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8a1b7ef</div>
+                                        <div class="message">dev-util/gitlab-runner-bin: Bump v.16.8.0</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ad2273e</div>
+                                        <div class="message">dev-util/goland: Bump v.2023.3.3</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ebbc9bc</div>
+                                        <div class="message">dev-util/idea-community: Bump v.2023.3.3</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2a66c51</div>
+                                        <div class="message">dev-util/idea-ultimate: Bump v.2023.3.3</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#88261d3</div>
+                                        <div class="message">dev-util/jenkins-bin: Bump v.2.442</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0206ccf</div>
+                                        <div class="message">dev-util/jenkins-lts-bin: Bump v.2.426.3</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b230d5a</div>
+                                        <div class="message">dev-util/just: Bump v.1.23.0</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3b32b71</div>
+                                        <div class="message">dev-util/phpstorm: Bump v.2023.3.3</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#79c7b86</div>
+                                        <div class="message">dev-util/pycharm-community: Bump v.2023.3.3</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8158a41</div>
+                                        <div class="message">dev-util/pycharm-professional: Bump v.2023.3.3</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a02f02d</div>
+                                        <div class="message">dev-util/vpuml: Bump v.17.1.20231203</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f61869c</div>
+                                        <div class="message">dev-util/vpumlce: Bump v.17.1.20231203</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ef0e8ef</div>
+                                        <div class="message">dev-util/webstorm: Bump v.2023.3.3</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d1b45c6</div>
+                                        <div class="message">mail-client/thunderbird-bin: Bump v.115.7.0</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#508eb42</div>
+                                        <div class="message">net-im/discord-bin: Bump v.0.0.42</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f46157b</div>
+                                        <div class="message">seed/macaroni-security-base: Bump v.20240131</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c234b56</div>
+                                        <div class="message">pkglist/macaroni-security-base: Bump v.0.20240131</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">macaroni-os/macaroni-funtoo</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">terragon</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#e7dfafe</div>
+                                        <div class="message">net-misc/ovn: Bump v.23.09.1+1</div>
                                     </div>
                                 </div>
                             </section>
@@ -967,7 +875,7 @@ Signed-off-by: Sam James &lt;sam@gentoo.org&gt;</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 873k out of 181m repositories</span>
+                                    <span class="gh">ranked 873k out of 180m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 29 stars</div>
                             </div>
@@ -1013,7 +921,7 @@ Signed-off-by: Sam James &lt;sam@gentoo.org&gt;</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 3.42m out of 181m repositories</span>
+                                    <span class="gh">ranked 3.42m out of 180m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 2 times</div>
                             </div>
@@ -1126,7 +1034,7 @@ Signed-off-by: Sam James &lt;sam@gentoo.org&gt;</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 31 Jan 2024, 23:11:03 (timezone Europe/Rome) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 1 Feb 2024, 00:11:27 (timezone Europe/Rome) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
