@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1637" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1953" class="">
     <defs>
         <style/>
     </defs>
@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            19805 Commits
+                            19874 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    1.77m added, 622k removed
+                                    881k added, 230k removed
                                 </div>
                             </section>
                             <section>
@@ -308,8 +308,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">phoenix</span></div>
                                     <div class="commit">
-                                        <div class="sha">#226d977</div>
-                                        <div class="message">kde-apps-5/print-manager: Bump v.23.08.2+1</div>
+                                        <div class="sha">#7bd1eb2</div>
+                                        <div class="message">iso/funtoo-kde-testing.yaml: Set dev repos</div>
                                     </div>
                                 </div>
                             </section>
@@ -321,15 +321,19 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
+                                        Pushed 2 commits in
                                         <span class="repo">macaroni-os/macaroni-funtoo</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">phoenix</span></div>
                                     <div class="commit">
-                                        <div class="sha">#da1f7ee</div>
-                                        <div class="message">app-admin/system-config-printer: Bump v.1.5.12+1</div>
+                                        <div class="sha">#56606e2</div>
+                                        <div class="message">seed/macaroni-funtoo-race20: Bump v.0.20240214+2</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0808d13</div>
+                                        <div class="message">pkglist/macaroni-funtoo-race20: Bump v.0.20240214+1</div>
                                     </div>
                                 </div>
                             </section>
@@ -341,15 +345,107 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
+                                        Pushed 65 commits in
                                         <span class="repo">macaroni-os/macaroni-funtoo</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">phoenix</span></div>
                                     <div class="commit">
-                                        <div class="sha">#0e297da</div>
-                                        <div class="message">kde-apps-5/okular: Bump v.23.08.2+3</div>
+                                        <div class="sha">#97e26d9</div>
+                                        <div class="message">kde-plasma-5/kmenuedit: Bump v.5.27.9</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#23e78c7</div>
+                                        <div class="message">kde-plasma-5/kscreen: Bump v.5.27.9</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7c08c09</div>
+                                        <div class="message">kde-plasma-5/ksshaskpass: Bump v.5.27.9</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2a1efe2</div>
+                                        <div class="message">kde-plasma-5/kwayland-integration: Bump v.5.27.9</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ac190f9</div>
+                                        <div class="message">kde-plasma-5/kwrited: Bump v.5.27.9</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1347bdc</div>
+                                        <div class="message">kde-plasma-5/plasma-browser-integration: Bump v.5.27.9</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6b9c2c4</div>
+                                        <div class="message">kde-plasma-5/plasma-disks: Bump v.5.27.9</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#679e888</div>
+                                        <div class="message">kde-plasma-5/plasma-pa: Bump v.5.27.9</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#00f9aab</div>
+                                        <div class="message">kde-plasma-5/plasma-sdk: Bump v.5.27.9</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c656049</div>
+                                        <div class="message">kde-plasma-5/plasma-systemmonitor: Bump v.5.27.9</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f3d59f5</div>
+                                        <div class="message">kde-plasma-5/plasma-vault: Bump v.5.27.9</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fc2bab0</div>
+                                        <div class="message">kde-plasma-5/plasma-workspace-wallpapers: Bump v.5.27.9</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#469a8e2</div>
+                                        <div class="message">kde-plasma-5/plymouth-kcm: Bump v.5.27.9</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a4aa767</div>
+                                        <div class="message">kde-plasma-5/powerdevil: Bump v.5.27.9</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#12a266d</div>
+                                        <div class="message">kde-plasma-5/sddm-kcm: Bump v.5.27.9</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1cd1640</div>
+                                        <div class="message">kde-plasma-5/systemsettings: Bump v.5.27.9</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#dedada9</div>
+                                        <div class="message">media-libs/glfw: Bump v.3.3.9</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#957cbe7</div>
+                                        <div class="message">media-libs/openimageio: Bump v.2.5.8.0</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#367e1db</div>
+                                        <div class="message">sys-libs/minizip-ng: Bump v.4.0.4</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#350b328</div>
+                                        <div class="message">sys-libs/zlib-ng: Bump v.2.1.6</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Deleted
+                      branch
+                                        <span class="code">dependabot/go_modules/helm.sh/helm/v3-3.14.1</span>
+                                        in
+                                        <span class="repo">MottainaiCI/lxd-compose</span>
                                     </div>
                                 </div>
                             </section>
@@ -361,35 +457,33 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">macaroni-os/macaroni-funtoo</span>
+                                        Pushed 2 commits in
+                                        <span class="repo">MottainaiCI/lxd-compose</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">phoenix</span></div>
+                                    <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#a0332ea</div>
-                                        <div class="message">net-libs-5/libmediawiki: Bump v.5.38.0+1</div>
+                                        <div class="sha">#c85cd48</div>
+                                        <div class="message">Merge pull request #32 from MottainaiCI/dependabot/go_modules/helm.sh/helm/v3-3.14.1
+
+Bump helm.sh/helm/v3 from 3.13.0 to 3.14.1</div>
                                     </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">macaroni-os/macaroni-funtoo</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">phoenix</span></div>
                                     <div class="commit">
-                                        <div class="sha">#5b634a1</div>
-                                        <div class="message">dev-python/pycups: Bump v.2.0.1+1</div>
+                                        <div class="sha">#2d30d3e</div>
+                                        <div class="message">Bump helm.sh/helm/v3 from 3.13.0 to 3.14.1
+
+Bumps [helm.sh/helm/v3](https://github.com/helm/helm) from 3.13.0 to 3.14.1.
+- [Release notes](https://github.com/helm/helm/releases)
+- [Commits](https://github.com/helm/helm/compare/v3.13.0...v3.14.1)
+
+---
+updated-dependencies:
+- dependency-name: helm.sh/helm/v3
+  dependency-type: direct:production
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                     </div>
                                 </div>
                             </section>
@@ -779,7 +873,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 878k out of 146m repositories</span>
+                                    <span class="gh">ranked 878k out of 144m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 29 stars</div>
                             </div>
@@ -825,7 +919,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 3.43m out of 146m repositories</span>
+                                    <span class="gh">ranked 3.43m out of 144m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 2 times</div>
                             </div>
@@ -938,7 +1032,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 15 Feb 2024, 17:13:26 (timezone Europe/Rome) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 15 Feb 2024, 18:11:02 (timezone Europe/Rome) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
