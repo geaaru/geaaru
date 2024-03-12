@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1720" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1670" class="">
     <defs>
         <style/>
     </defs>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            20656 Commits
+                            20665 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    884k added, 229k removed
+                                    500k added, 23.8k removed
                                 </div>
                             </section>
                             <section>
@@ -225,14 +225,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="297.5296236107708" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="297.5296236107708" y="0" width="137.087013521351" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="434.61663713212175" y="0" width="10.134524537403525" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="444.7511616695253" y="0" width="7.96893546500258" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="452.7200971345279" y="0" width="2.203214039211017" height="8" fill="#0298c3"/>
-                    <rect mask="url(#languages-bar)" x="454.9233111737389" y="0" width="2.009725818963103" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="456.933036992702" y="0" width="1.613404084335185" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="458.54644107703723" y="0" width="1.453558922962801" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="297.5343879956946" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="297.5343879956946" y="0" width="137.0829934943468" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="434.6173814900414" y="0" width="10.134227346143254" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="444.75160883618463" y="0" width="7.968701778857254" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="452.7203106150419" y="0" width="2.2031494307575525" height="8" fill="#0298c3"/>
+                    <rect mask="url(#languages-bar)" x="454.92346004579946" y="0" width="2.009666884481596" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="456.9331269302811" y="0" width="1.613356771844956" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="458.546483702126" y="0" width="1.4535162978740168" height="8" fill="#427819"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -301,19 +301,23 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">macaroni-os/macaroni-funtoo</span>
+                                        Pushed 3 commits in
+                                        <span class="repo">macaroni-os/macaroni-tasks</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">phoenix</span></div>
+                                    <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#c1385e5</div>
-                                        <div class="message">sys-libs/libgbinder: Bump v.1.1.38</div>
+                                        <div class="sha">#a75b794</div>
+                                        <div class="message">[simplestreams] terragon/minimal-devel: Cleanup</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#3f7e95e</div>
-                                        <div class="message">sys-libs/libglibutil: Bump v.1.0.76 (new package)</div>
+                                        <div class="sha">#3345a51</div>
+                                        <div class="message">[simplestreams] terragon/minimal: Set inittab and add openrc</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d6acec6</div>
+                                        <div class="message">[simplestreams] terragon/dumplings: Add openrc not injected automatically</div>
                                     </div>
                                 </div>
                             </section>
@@ -325,19 +329,15 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 2 commits in
+                                        Pushed 1 commit in
                                         <span class="repo">macaroni-os/macaroni-funtoo</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">phoenix</span></div>
                                     <div class="commit">
-                                        <div class="sha">#30bcabc</div>
-                                        <div class="message">toolchain/meta-geaaru-kit: Bump v.0.20240312</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d4ce3c3</div>
-                                        <div class="message">seed/funtoo-kit-geaaru: Bump v.0.20240312</div>
+                                        <div class="sha">#4deaab9</div>
+                                        <div class="message">app-emulation/waydroid: Bump v.1.4.2+3</div>
                                     </div>
                                 </div>
                             </section>
@@ -356,8 +356,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">funtoo</span></div>
                                     <div class="commit">
-                                        <div class="sha">#8e4cf45</div>
-                                        <div class="message">sys-libs/libgbinder: Bump v1.1.38</div>
+                                        <div class="sha">#2e5a760</div>
+                                        <div class="message">app-emulation/wayland: Add eapply_user and postinst,postrm</div>
                                     </div>
                                 </div>
                             </section>
@@ -376,8 +376,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">phoenix</span></div>
                                     <div class="commit">
-                                        <div class="sha">#cac6b5a</div>
-                                        <div class="message">seed/macaroni-funtoo-race18: Bump v.0.20240311+1</div>
+                                        <div class="sha">#51112a8</div>
+                                        <div class="message">app-emulation/waydroid: Bump v.1.4.2+2</div>
                                     </div>
                                 </div>
                             </section>
@@ -389,27 +389,15 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 4 commits in
-                                        <span class="repo">macaroni-os/macaroni-funtoo</span>
+                                        Pushed 1 commit in
+                                        <span class="repo">geaaru/geaaru_overlay</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">phoenix</span></div>
+                                    <div>on branch <span class="code">funtoo</span></div>
                                     <div class="commit">
-                                        <div class="sha">#4cccf7c</div>
-                                        <div class="message">app-emulation/waydroid: Bump v.1.4.2 (new package)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#241a362</div>
-                                        <div class="message">dev-python/gbinder-python: Bump v.1.1.2 (new package)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d5e022c</div>
-                                        <div class="message">dev-python/pyclip: Bump v.0.7.0 (new package)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#77f7821</div>
-                                        <div class="message">sys-libs/libgbinder: Bump v.1.1.37 (new package)</div>
+                                        <div class="sha">#d715813</div>
+                                        <div class="message">app-emulation/waywdroid: Fix PYTHON_USEDEP resolution</div>
                                     </div>
                                 </div>
                             </section>
@@ -799,7 +787,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 888k out of 116m repositories</span>
+                                    <span class="gh">ranked 888k out of 118m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 29 stars</div>
                             </div>
@@ -876,7 +864,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 3.45m out of 116m repositories</span>
+                                    <span class="gh">ranked 3.45m out of 118m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 2 times</div>
                             </div>
@@ -958,7 +946,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 12 Mar 2024, 21:11:55 (timezone Europe/Rome) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 12 Mar 2024, 22:11:11 (timezone Europe/Rome) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
