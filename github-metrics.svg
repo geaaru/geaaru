@@ -806,7 +806,7 @@ Avoid to use 2.9.0.post0 release for now.</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 895k out of 95.6m repositories</span>
+                                    <span class="gh">ranked 895k out of 88.1m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 29 stars</div>
                             </div>
@@ -883,7 +883,7 @@ Avoid to use 2.9.0.post0 release for now.</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 3.46m out of 95.6m repositories</span>
+                                    <span class="gh">ranked 3.46m out of 88.1m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 2 times</div>
                             </div>
@@ -965,7 +965,7 @@ Avoid to use 2.9.0.post0 release for now.</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 1 Apr 2024, 03:57:03 (timezone Europe/Rome) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 1 Apr 2024, 04:27:20 (timezone Europe/Rome) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
