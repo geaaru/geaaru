@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1703" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1654" class="">
     <defs>
         <style/>
     </defs>
@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            20877 Commits
+                            20883 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    846k added, 224k removed
+                                    1.07m added, 61.6k removed
                                 </div>
                             </section>
                             <section>
@@ -225,14 +225,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="297.97688571056597" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="297.97688571056597" y="0" width="136.7096288750859" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="434.6865145856519" y="0" width="10.106625366946965" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="444.79313995259884" y="0" width="7.94699791005613" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="452.74013786265493" y="0" width="2.197148846531738" height="8" fill="#0298c3"/>
-                    <rect mask="url(#languages-bar)" x="454.9372867091867" y="0" width="2.004193276909723" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="456.94147998609645" y="0" width="1.6089625700443022" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="458.55044255614075" y="0" width="1.4495574438592946" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="297.9650221837397" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="297.9650221837397" y="0" width="136.70418597522576" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="434.6692081589655" y="0" width="10.106222986000947" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="444.77543114496643" y="0" width="7.946681511612441" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="452.7221126565789" y="0" width="2.1970613701685293" height="8" fill="#0298c3"/>
+                    <rect mask="url(#languages-bar)" x="454.9191740267474" y="0" width="2.0041134827986835" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="456.9232875095461" y="0" width="1.608898511482959" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="458.5321860210291" y="0" width="1.4678139789710305" height="8" fill="#427819"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -301,19 +301,15 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">macaroni-os/macaroni-funtoo</span>
+                                        Pushed 1 commit in
+                                        <span class="repo">geaaru/repo-index</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">terragon</span></div>
+                                    <div>on branch <span class="code">gh-pages</span></div>
                                     <div class="commit">
-                                        <div class="sha">#8622866</div>
-                                        <div class="message">seed/funtoo-kits: Bump v.0.20240331</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6cae39c</div>
-                                        <div class="message">toolchain/meta-repo: Bump v.0.20240331</div>
+                                        <div class="sha">#ba845e3</div>
+                                        <div class="message">Bump v12</div>
                                     </div>
                                 </div>
                             </section>
@@ -325,34 +321,35 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 4 commits in
-                                        <span class="repo">macaroni-os/gpu-configurator</span>
+                                        Pushed 1 commit in
+                                        <span class="repo">geaaru/repo-index</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#197faa4</div>
+                                        <div class="sha">#5970852</div>
                                         <div class="message">README.md: Update</div>
                                     </div>
-                                    <div class="commit">
-                                        <div class="sha">#e38ad35</div>
-                                        <div class="message">Makefile: minor fix</div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">geaaru/repo-index</span>
                                     </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#be4403e</div>
-                                        <div class="message">Integrate `lspci` and `show` command (WIP)
-
-The `lspci` command permits to get the list
-of the devices and data in YAML or JSON format.
-
-The `show` command describe the setup of the
-rootfs about EGL, GBM and Vulkan setup and show
-the number of GPU availables.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2d2e1b8</div>
-                                        <div class="message">Update vendor/</div>
+                                        <div class="sha">#d7838d1</div>
+                                        <div class="message">README.md: Update</div>
                                     </div>
                                 </div>
                             </section>
@@ -365,14 +362,14 @@ the number of GPU availables.</div>
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">macaroni-os/macaroni-funtoo</span>
+                                        <span class="repo">macaroni-os/macaroni-tasks</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">eagle</span></div>
+                                    <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#273399b</div>
-                                        <div class="message">sys-fs/multipath-tools: Bump v.0.9.8+1</div>
+                                        <div class="sha">#748bce2</div>
+                                        <div class="message">luet: Move geaaru-repo-index to tree v2</div>
                                     </div>
                                 </div>
                             </section>
@@ -384,39 +381,19 @@ the number of GPU availables.</div>
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">macaroni-os/macaroni-funtoo</span>
+                                        Pushed 2 commits in
+                                        <span class="repo">geaaru/repo-index</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">eagle</span></div>
+                                    <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#e06cd9c</div>
-                                        <div class="message">dev-python/python-dateutil: Force using geaaru-kit</div>
+                                        <div class="sha">#f151289</div>
+                                        <div class="message">.github: Cleanup validate job</div>
                                     </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">macaroni-os/macaroni-funtoo</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">eagle</span></div>
                                     <div class="commit">
-                                        <div class="sha">#a03d609</div>
-                                        <div class="message">Revert "dev-python/python-dateutil: Bump v.2.9.0"
-
-This reverts commit a8905bed55a005124e8a9d8b01a0fc49bc02a068.
-
-Avoid to use 2.9.0.post0 release for now.</div>
+                                        <div class="sha">#c618dc0</div>
+                                        <div class="message">Makefile: Move to treev2</div>
                                     </div>
                                 </div>
                             </section>
@@ -748,7 +725,7 @@ Avoid to use 2.9.0.post0 release for now.</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="17.1356783919598 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="17.91457286432161 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -770,7 +747,7 @@ Avoid to use 2.9.0.post0 release for now.</div>
                                     <span class="prefix"></span>
                                     Deployer
                                 </div>
-                                <div class="text">Repositories have been deployed 23 times</div>
+                                <div class="text">Repositories have been deployed 24 times</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -806,7 +783,7 @@ Avoid to use 2.9.0.post0 release for now.</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 895k out of 79.2m repositories</span>
+                                    <span class="gh">ranked 895k out of 83.8m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 29 stars</div>
                             </div>
@@ -883,7 +860,7 @@ Avoid to use 2.9.0.post0 release for now.</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 3.46m out of 79.2m repositories</span>
+                                    <span class="gh">ranked 3.46m out of 83.8m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 2 times</div>
                             </div>
@@ -965,7 +942,7 @@ Avoid to use 2.9.0.post0 release for now.</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 1 Apr 2024, 09:10:59 (timezone Europe/Rome) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 1 Apr 2024, 10:16:08 (timezone Europe/Rome) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
