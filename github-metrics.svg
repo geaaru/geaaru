@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1807" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2123" class="">
     <defs>
         <style/>
     </defs>
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    2.25m added, 639k removed
+                                    540k added, 31.9k removed
                                 </div>
                             </section>
                             <section>
@@ -301,6 +301,162 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 8494 commits in
+                                        <span class="repo">geaaru/gentoo</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#86b1344</div>
+                                        <div class="message">x11-apps/xpr: Stabilize 1.2.0 ppc64, #928470
+
+Signed-off-by: Sam James &lt;sam@gentoo.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#13496dc</div>
+                                        <div class="message">x11-apps/xpr: Stabilize 1.2.0 ppc, #928470
+
+Signed-off-by: Sam James &lt;sam@gentoo.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ef3b7e9</div>
+                                        <div class="message">x11-apps/xpr: Stabilize 1.2.0 arm64, #928470
+
+Signed-off-by: Sam James &lt;sam@gentoo.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#41d5afa</div>
+                                        <div class="message">x11-apps/xpr: Stabilize 1.2.0 sparc, #928470
+
+Signed-off-by: Sam James &lt;sam@gentoo.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#db76608</div>
+                                        <div class="message">x11-apps/xfontsel: Stabilize 1.1.1 ppc64, #928469
+
+Signed-off-by: Sam James &lt;sam@gentoo.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b2a04a5</div>
+                                        <div class="message">x11-apps/xfontsel: Stabilize 1.1.1 ppc, #928469
+
+Signed-off-by: Sam James &lt;sam@gentoo.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a823a29</div>
+                                        <div class="message">x11-apps/xfontsel: Stabilize 1.1.1 sparc, #928469
+
+Signed-off-by: Sam James &lt;sam@gentoo.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f25db68</div>
+                                        <div class="message">x11-apps/listres: Stabilize 1.0.6 ppc64, #928468
+
+Signed-off-by: Sam James &lt;sam@gentoo.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#be6acf3</div>
+                                        <div class="message">x11-apps/listres: Stabilize 1.0.6 ppc, #928468
+
+Signed-off-by: Sam James &lt;sam@gentoo.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fbfe81a</div>
+                                        <div class="message">x11-apps/listres: Stabilize 1.0.6 sparc, #928468
+
+Signed-off-by: Sam James &lt;sam@gentoo.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#80fd63d</div>
+                                        <div class="message">x11-apps/bitmap: Stabilize 1.1.1 ppc64, #928467
+
+Signed-off-by: Sam James &lt;sam@gentoo.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#43cced0</div>
+                                        <div class="message">x11-apps/bitmap: Stabilize 1.1.1 ppc, #928467
+
+Signed-off-by: Sam James &lt;sam@gentoo.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#131b149</div>
+                                        <div class="message">x11-apps/bitmap: Stabilize 1.1.1 sparc, #928467
+
+Signed-off-by: Sam James &lt;sam@gentoo.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ca6f7e4</div>
+                                        <div class="message">x11-apps/bitmap: Stabilize 1.1.1 arm64, #928467
+
+Signed-off-by: Sam James &lt;sam@gentoo.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a56f533</div>
+                                        <div class="message">media-libs/lastfmlib: update EAPI 7 -&gt; 8, wire up &amp; fix tests
+
+That said, we should really last-rite this anyway, per bug #928115, it's
+just that I started working on this before I noticed that bug...
+
+Bug: https://bugs.gentoo.org/928115
+Closes: https://bugs.gentoo.org/889298
+Signed-off-by: Sam James &lt;sam@gentoo.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#884f6c2</div>
+                                        <div class="message">dev-vcs/vcsh: add 2.0.8
+
+* Wire up tests
+* Fix DESCRIPTION
+* Append revision to version
+
+Signed-off-by: Sam James &lt;sam@gentoo.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#304e00c</div>
+                                        <div class="message">dev-perl/Shell-Command: new package, add 0.60.0
+
+Signed-off-by: Sam James &lt;sam@gentoo.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d947850</div>
+                                        <div class="message">dev-libs/libindicate: wire up tests
+
+Includs some XFAILs but it's better than nothing.
+
+Signed-off-by: Sam James &lt;sam@gentoo.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#67a0af3</div>
+                                        <div class="message">dev-libs/libindicate: don't build disabled tests
+
+Tests are currently restricted so make sure we don't build them. It's also
+a good hint for someone to fix the arg properly if/when enabling tests again
+rather than leaving them always be built.
+
+Signed-off-by: Sam James &lt;sam@gentoo.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5699474</div>
+                                        <div class="message">sys-block/libzbc: fix deps
+
+* Put gtk+ in RDEPEND too, not just DEPEND
+* Move pkgconfig to BDEPEND
+* Drop unnecessary --disable-static (default w/ EAPI 8) from econf args
+* Change USE=gtk -&gt; USE=gui per QA policy
+
+Signed-off-by: Sam James &lt;sam@gentoo.org&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 2 commits in
                                         <span class="repo">macaroni-os/macaroni-funtoo</span>
                                     </div>
@@ -398,26 +554,6 @@
                                     <div class="commit">
                                         <div class="sha">#7659d3c</div>
                                         <div class="message">pkglist/macaroni-funtoo-race10: Bump v.0.20240404</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">macaroni-os/macaroni-funtoo</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">terragon</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#9f81722</div>
-                                        <div class="message">x11-libs/libXfixes: Bump v.6.0.1</div>
                                     </div>
                                 </div>
                             </section>
@@ -807,7 +943,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 897k out of 68.9m repositories</span>
+                                    <span class="gh">ranked 897k out of 89.4m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 29 stars</div>
                             </div>
@@ -884,7 +1020,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 3.47m out of 68.9m repositories</span>
+                                    <span class="gh">ranked 3.47m out of 89.4m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 2 times</div>
                             </div>
@@ -999,7 +1135,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 5 Apr 2024, 22:12:12 (timezone Europe/Rome) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 5 Apr 2024, 23:10:39 (timezone Europe/Rome) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
