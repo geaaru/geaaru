@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2373" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2090" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}.gauge text,h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details,footer{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;flex-direction:column;justify-content:flex-end;padding:0 4px}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement .gh{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}.rss{align-items:flex-start}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}.gauge text,h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details,footer{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;flex-direction:column;justify-content:flex-end;padding:0 4px}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement .gh{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            21078 Commits
+                            21141 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    1.43m added, 265k removed
+                                    488k added, 21.3k removed
                                 </div>
                             </section>
                             <section>
@@ -301,91 +301,91 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 22 commits in
-                                        <span class="repo">macaroni-os/macaroni-funtoo</span>
+                                        Pushed 34 commits in
+                                        <span class="repo">macaroni-os/macaroni-commons</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">phoenix</span></div>
+                                    <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#635b659</div>
-                                        <div class="message">dev-lang/go: Bump v.1.22.0</div>
+                                        <div class="sha">#ac85abf</div>
+                                        <div class="message">kernel-5.10/macaroni-initramfs: Bump v5.10.215</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#c543154</div>
-                                        <div class="message">dev-ruby-1/kpeg: Bump v.1.3.3</div>
+                                        <div class="sha">#c912353</div>
+                                        <div class="message">kernel-5.15/macaroni-initramfs: Bump v5.15.155</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#89885c6</div>
-                                        <div class="message">dev-ruby-2/bundler: Bump v.2.5.7</div>
+                                        <div class="sha">#44e9721</div>
+                                        <div class="message">kernel-5.15/macaroni-full: Bump v.5.15.155</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#deea3a8</div>
-                                        <div class="message">dev-ruby-2/json: Bump v.2.7.2</div>
+                                        <div class="sha">#f66c2ea</div>
+                                        <div class="message">kernel-5.15/macaroni-minimal: Bump v.5.15.155</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#563ca4e</div>
-                                        <div class="message">dev-ruby-5/minitest: Bump v.5.22.3</div>
+                                        <div class="sha">#22804fe</div>
+                                        <div class="message">kernel-5.15/macaroni-modules: Bump v.5.15.155</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#d5b295d</div>
-                                        <div class="message">dev-ruby/debug: Bump v.1.9.2</div>
+                                        <div class="sha">#f08359c</div>
+                                        <div class="message">kernel-5.15/macaroni-sources: Bump v.5.15.155</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#fcf93a7</div>
-                                        <div class="message">dev-ruby/irb: Bump v.1.12.0</div>
+                                        <div class="sha">#52beb13</div>
+                                        <div class="message">kernel-6.7/macaroni-full: Bump v.6.7.12</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#7941f13</div>
-                                        <div class="message">dev-ruby/net-smtp: Bump v.0.5.0</div>
+                                        <div class="sha">#592de3f</div>
+                                        <div class="message">kernel-6.7/macaroni-minimal: Bump v.6.7.12</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#5dea9cc</div>
-                                        <div class="message">dev-ruby/rake: Bump v.13.2.0</div>
+                                        <div class="sha">#2a4c651</div>
+                                        <div class="message">kernel-6.7/macaroni-modules: Bump v.6.7.12</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#68dd4b0</div>
-                                        <div class="message">dev-ruby/rdoc: Bump v.6.6.3.1</div>
+                                        <div class="sha">#4db5869</div>
+                                        <div class="message">kernel-6.7/macaroni-sources: Bump v.6.7.12</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#7e507fc</div>
-                                        <div class="message">dev-ruby/rss: Bump v.0.3.0</div>
+                                        <div class="sha">#93d14db</div>
+                                        <div class="message">kernel-6.8/macaroni-initramfs: Bump v6.8.6 (new package)</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#42e9547</div>
-                                        <div class="message">dev-ruby/rubygems: Bump v.3.5.7</div>
+                                        <div class="sha">#2344a83</div>
+                                        <div class="message">kernel-6.8/macaroni-full: Bump v.6.8.6</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#d35a1cd</div>
-                                        <div class="message">app-admin/apache-tools: Bump v.2.4.59</div>
+                                        <div class="sha">#fc03d7a</div>
+                                        <div class="message">kernel-6.8/macaroni-minimal: Bump v.6.8.6</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#db65ec5</div>
-                                        <div class="message">dev-libs/ell: Bump v.0.64</div>
+                                        <div class="sha">#66e767a</div>
+                                        <div class="message">kernel-6.8/macaroni-modules: Bump v.6.8.6</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#0dc0985</div>
-                                        <div class="message">dev-libs/libdnet: Bump v.1.18.0</div>
+                                        <div class="sha">#8fc27a3</div>
+                                        <div class="message">kernel-6.8/macaroni-sources: Bump v.6.8.6</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#a240afa</div>
-                                        <div class="message">net-vpn/openvpn: Bump v.2.6.10</div>
+                                        <div class="sha">#b632bfe</div>
+                                        <div class="message">kernel-6.1/macaroni-initramfs: Bump v6.1.86</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#5dc6184</div>
-                                        <div class="message">net-wireless/bluez: Bump v.5.73</div>
+                                        <div class="sha">#56ec164</div>
+                                        <div class="message">kernel-6.1/macaroni-full: Bump v.6.1.86</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#707479e</div>
-                                        <div class="message">net-wireless/iwd: Bump v.2.17</div>
+                                        <div class="sha">#ef47045</div>
+                                        <div class="message">kernel-6.1/macaroni-minimal: Bump v.6.1.86</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#5997f92</div>
-                                        <div class="message">www-servers-2/apache: Bump v.2.4.59</div>
+                                        <div class="sha">#32457ce</div>
+                                        <div class="message">kernel-6.1/macaroni-modules: Bump v.6.1.86</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#ba69b9d</div>
-                                        <div class="message">x11-drivers/xf86-video-vbox: Bump v.1.0.1</div>
+                                        <div class="sha">#37b1cbd</div>
+                                        <div class="message">kernel-6.1/macaroni-sources: Bump v.6.1.86</div>
                                     </div>
                                 </div>
                             </section>
@@ -404,125 +404,12 @@
                                 <div class="details">
                                     <div>on branch <span class="code">phoenix</span></div>
                                     <div class="commit">
-                                        <div class="sha">#364069a</div>
-                                        <div class="message">seed/macaroni-funtoo-race8: Bump v.0.20240414</div>
+                                        <div class="sha">#287c2a6</div>
+                                        <div class="message">portage-converter/base-multimedia2: Add wireplumber and update pipewire</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#bdefdbf</div>
-                                        <div class="message">pkglist/macaroni-funtoo-race8: Bump v.0.20240414</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path d="M11.28 6.78a.75.75 0 00-1.06-1.06L7.25 8.69 5.78 7.22a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l3.5-3.5z"/>
-                                        <path fill-rule="evenodd" d="M16 8A8 8 0 110 8a8 8 0 0116 0zm-1.5 0a6.5 6.5 0 11-13 0 6.5 6.5 0 0113 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Closed
-                                        <span class="issue">#34 Race xorg-base needs a review about build order after Xorg/Xwayland upgrade</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened  in <span class="repo">macaroni-os/macaroni-funtoo</span></div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 79 commits in
-                                        <span class="repo">macaroni-os/macaroni-funtoo</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">phoenix</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#91ec3b4</div>
-                                        <div class="message">x11-apps/xcmsdb: Update specs</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f521d33</div>
-                                        <div class="message">x11-apps/xclock: Update specs</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#dd811a8</div>
-                                        <div class="message">x11-apps/xbacklight: Update specs</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d3b9594</div>
-                                        <div class="message">x11-apps/x11perf: Update specs</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4af48a9</div>
-                                        <div class="message">x11-apps/smproxy: Update specs</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b4c996b</div>
-                                        <div class="message">x11-apps/setxkbmap: Update specs</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a25e991</div>
-                                        <div class="message">x11-apps/sessreg: Update specs</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6d3a06b</div>
-                                        <div class="message">x11-apps/rgb: Update specs</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8202226</div>
-                                        <div class="message">x11-apps/mesa-progs: Update specs</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#826bfb9</div>
-                                        <div class="message">x11-apps/luit: Update specs</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8820c95</div>
-                                        <div class="message">x11-apps/iceauth: Update specs</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2d2a03b</div>
-                                        <div class="message">x11-apps/bitmap: Update specs</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#93023ef</div>
-                                        <div class="message">x11-apps/appres: Update specs</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#67182f0</div>
-                                        <div class="message">media-libs/vulkan-loader: Update specs</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#34f9e31</div>
-                                        <div class="message">media-gfx/fontforge: Update specs</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#421fd25</div>
-                                        <div class="message">dev-libs/libwacom: Update specs</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0bb875c</div>
-                                        <div class="message">dev-libs/libinput: Update specs</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#420d717</div>
-                                        <div class="message">dev-libs/libevdev: Update specs</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#39010c7</div>
-                                        <div class="message">app-text/rarian: Update specs</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#372c301</div>
-                                        <div class="message">app-crypt/gcr: Update specs</div>
+                                        <div class="sha">#c742f7e</div>
+                                        <div class="message">portage-converter/base-gnome3: Update use flags on gdm</div>
                                     </div>
                                 </div>
                             </section>
@@ -541,20 +428,64 @@
                                 <div class="details">
                                     <div>on branch <span class="code">phoenix</span></div>
                                     <div class="commit">
-                                        <div class="sha">#19fbc5d</div>
-                                        <div class="message">app-editors/vim-core: Bump v.9.1.0252</div>
+                                        <div class="sha">#613298c</div>
+                                        <div class="message">portage-converter/base-xorg2: Update media-libs/mesa use flags</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#91dd394</div>
-                                        <div class="message">app-editors/vim: Bump v.9.1.0252</div>
+                                        <div class="sha">#58f9640</div>
+                                        <div class="message">portage-converter/base-xorg: Add x11-proto/xwaylandproto</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#662c49f</div>
-                                        <div class="message">app-text/poppler: Bump v.24.04.0</div>
+                                        <div class="sha">#2764a79</div>
+                                        <div class="message">portage-converter/emulation2.yaml:  Add waydroid stuff</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#9bb22ec</div>
-                                        <div class="message">media-fonts/noto-emoji: Bump v.20240215</div>
+                                        <div class="sha">#73f740f</div>
+                                        <div class="message">portage-converter/db.yaml: Update specs</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">macaroni-os/macaroni-funtoo</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">phoenix</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#a9af74e</div>
+                                        <div class="message">portage-converter/server.yaml: Update specs</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">macaroni-os/macaroni-funtoo</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">phoenix</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#81da301</div>
+                                        <div class="message">dev-libs/libbson: Bump v.1.26.2+1</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#93c397c</div>
+                                        <div class="message">portage-converter/artefacts/base.yml: Add sys-devel/autoconf:latest</div>
                                     </div>
                                 </div>
                             </section>
@@ -620,7 +551,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="32.782340862423005 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="32.86721423682407 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -1136,7 +1067,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 14 Apr 2024, 16:28:09 (timezone Europe/Rome) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 14 Apr 2024, 23:00:58 (timezone Europe/Rome) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
