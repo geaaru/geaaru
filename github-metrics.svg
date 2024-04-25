@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1990" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1707" class="">
     <defs>
         <style/>
     </defs>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            21467 Commits
+                            21468 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    516k added, 25.3k removed
+                                    487k added, 21.4k removed
                                 </div>
                             </section>
                             <section>
@@ -301,6 +301,94 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">macaroni-os/macaroni-funtoo</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">terragon</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#407b145</div>
+                                        <div class="message">seed/funtoo-kits: Bump v.0.20240425</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#94aba31</div>
+                                        <div class="message">toolchain/meta-repo: Bump v.0.20240425</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">macaroni-os/macaroni-funtoo</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">terragon</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#8234aa9</div>
+                                        <div class="message">app-admin/eselect: Bump v.1.4.14+2
+
+Closes: #39</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">macaroni-os/macaroni-funtoo</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">eagle</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#0546192</div>
+                                        <div class="message">app-admin/eselect: Bump v.1.4.14+1
+
+Closes: #39</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">macaroni-os/macaroni-funtoo</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">phoenix</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#3074acb</div>
+                                        <div class="message">app-i18n/ibus: Bump v.1.5.28+3</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 1 commit in
                                         <span class="repo">macaroni-os/macaroni-funtoo</span>
                                     </div>
@@ -310,175 +398,6 @@
                                     <div class="commit">
                                         <div class="sha">#1316ada</div>
                                         <div class="message">app-i18n/ibus: Bump v.1.5.28+2</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Deleted
-                      branch
-                                        <span class="code">dependabot/go_modules/golang.org/x/net-0.23.0</span>
-                                        in
-                                        <span class="repo">MottainaiCI/mottainai-server</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">MottainaiCI/mottainai-server</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">develop</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#97478d3</div>
-                                        <div class="message">Merge pull request #123 from MottainaiCI/dependabot/go_modules/golang.org/x/net-0.23.0
-
-build(deps): bump golang.org/x/net from 0.21.0 to 0.23.0</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5482b0f</div>
-                                        <div class="message">build(deps): bump golang.org/x/net from 0.21.0 to 0.23.0
-
-Bumps [golang.org/x/net](https://github.com/golang/net) from 0.21.0 to 0.23.0.
-- [Commits](https://github.com/golang/net/compare/v0.21.0...v0.23.0)
-
----
-updated-dependencies:
-- dependency-name: golang.org/x/net
-  dependency-type: indirect
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">MottainaiCI/lxd-compose-galaxy</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#8112aaa</div>
-                                        <div class="message">funtoo: Add i18n-kit</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 33 commits in
-                                        <span class="repo">macaroni-os/macaroni-funtoo</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">phoenix</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#79f5e1d</div>
-                                        <div class="message">dev-qt-5/qtlocation: Bump v.5.15.2+3</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5521efa</div>
-                                        <div class="message">dev-qt-5/qtnetwork: Bump v.5.15.2+7</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b94f5aa</div>
-                                        <div class="message">dev-qt-5/qtnetworkauth: Bump v.5.15.2+3</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8535896</div>
-                                        <div class="message">dev-qt-5/qtopengl: Bump v.5.15.2+5</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#84e5304</div>
-                                        <div class="message">dev-qt-5/qtpaths: Bump v.5.15.2+3</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7e0dc3d</div>
-                                        <div class="message">dev-qt-5/qtpositioning: Bump v.5.15.2+4</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fd5c003</div>
-                                        <div class="message">dev-qt-5/qtprintsupport: Bump v.5.15.2+5</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e54bc98</div>
-                                        <div class="message">dev-qt-5/qtquickcontrols: Bump v.5.15.2+3</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8f69400</div>
-                                        <div class="message">dev-qt-5/qtquickcontrols2: Bump v.5.15.2+3</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#96160e8</div>
-                                        <div class="message">dev-qt-5/qtsensors: Bump v.5.15.2+3</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c4457d6</div>
-                                        <div class="message">dev-qt-5/qtsql: Bump v.5.15.2+6</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5abf733</div>
-                                        <div class="message">dev-qt-5/qtsvg: Bump v.5.15.2+3</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9627bd9</div>
-                                        <div class="message">dev-qt-5/qttest: Bump v.5.15.2+5</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0bbced7</div>
-                                        <div class="message">dev-qt-5/qttranslations: Bump v.5.15.2+3</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8b9600b</div>
-                                        <div class="message">dev-qt-5/qtwayland: Bump v.5.15.2+3</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5464a08</div>
-                                        <div class="message">dev-qt-5/qtwebchannel: Bump v.5.15.2+3</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#950155a</div>
-                                        <div class="message">dev-qt-5/qtwidgets: Bump v.5.15.2+6</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#bf04469</div>
-                                        <div class="message">dev-qt-5/qtx11extras: Bump v.5.15.2+3</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#27085c7</div>
-                                        <div class="message">dev-qt-5/qtxml: Bump v.5.15.2+5</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5c274ba</div>
-                                        <div class="message">dev-qt-5/qtxmlpatterns: Bump v.5.15.2+3</div>
                                     </div>
                                 </div>
                             </section>
@@ -637,7 +556,7 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     developer
-                                    <span class="gh">ranked 305k out of 135m users</span>
+                                    <span class="gh">ranked 305k out of 125m users</span>
                                 </div>
                                 <div class="text">Published 77 public repositories</div>
                             </div>
@@ -763,7 +682,7 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 548k out of 135m users</span>
+                                    <span class="gh">ranked 548k out of 125m users</span>
                                 </div>
                                 <div class="text">Followed by 25 users</div>
                             </div>
@@ -868,7 +787,7 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 881k out of 194m repositories</span>
+                                    <span class="gh">ranked 881k out of 205m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 30 stars</div>
                             </div>
@@ -945,7 +864,7 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 3.48m out of 194m repositories</span>
+                                    <span class="gh">ranked 3.48m out of 205m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 2 times</div>
                             </div>
@@ -1060,7 +979,7 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 25 Apr 2024, 10:14:33 (timezone Europe/Rome) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 25 Apr 2024, 11:11:58 (timezone Europe/Rome) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
