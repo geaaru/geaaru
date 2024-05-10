@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2190" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1674" class="">
     <defs>
         <style/>
     </defs>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            21778 Commits
+                            21779 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -88,7 +88,7 @@
                                 <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                 <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                             </svg>
-                            48 Issues opened
+                            50 Issues opened
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    895k added, 245k removed
+                                    1.44m added, 275k removed
                                 </div>
                             </section>
                             <section>
@@ -301,168 +301,56 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1347 commits in
-                                        <span class="repo">geaaru/gentoo</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#054445e</div>
-                                        <div class="message">net-im/discord: add 0.0.53, drop 0.0.52
-
-Signed-off-by: Tomas Fabrizio Orsi &lt;torsi@fi.uba.ar&gt;
-Closes: https://github.com/gentoo/gentoo/pull/36590
-Signed-off-by: Joonas Niilola &lt;juippis@gentoo.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5a44bdf</div>
-                                        <div class="message">media-libs/nvidia-vaapi-driver: add 0.0.12
-
-Signed-off-by: Joonas Niilola &lt;juippis@gentoo.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7016ead</div>
-                                        <div class="message">sci-libs/caffe2: fix musl build
-
-Closes: https://bugs.gentoo.org/930641
-Signed-off-by: Alfredo Tupone &lt;tupone@gentoo.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#bb6bbb5</div>
-                                        <div class="message">app-crypt/tpm2-tools: Stabilize 5.6.1 amd64, #931272
-
-Signed-off-by: Joonas Niilola &lt;juippis@gentoo.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#be044df</div>
-                                        <div class="message">app-crypt/tpm2-tools: Stabilize 5.6.1 x86, #931272
-
-Signed-off-by: Joonas Niilola &lt;juippis@gentoo.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2da6383</div>
-                                        <div class="message">app-crypt/tpm2-tss: Stabilize 4.0.2 amd64, #931271
-
-Signed-off-by: Joonas Niilola &lt;juippis@gentoo.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#814ac9e</div>
-                                        <div class="message">app-crypt/tpm2-tss: Stabilize 4.0.2 x86, #931271
-
-Signed-off-by: Joonas Niilola &lt;juippis@gentoo.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ee593da</div>
-                                        <div class="message">sys-kernel/pf-sources: add 6.8_p8
-
-Signed-off-by: Frits Letteboer &lt;dagraver@gmail.com&gt;
-Closes: https://github.com/gentoo/gentoo/pull/36588
-Signed-off-by: Joonas Niilola &lt;juippis@gentoo.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9828014</div>
-                                        <div class="message">profiles/base: stable mask media-video/mpv[soc]
-
-Ended up skipping stabling 0.37.0-r1 because it wasn't stable
-yet, but becoming time to stable 0.38.0 and it still isn't.
-So just mask for now.
-
-Signed-off-by: Ionen Wolkens &lt;ionen@gentoo.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b03e682</div>
-                                        <div class="message">dev-ruby/i18n: add 1.14.5
-
-Signed-off-by: Hans de Graaff &lt;graaff@gentoo.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9217332</div>
-                                        <div class="message">dev-python/aws-sam-translator: Bump to 1.88.0
-
-Signed-off-by: Michał Górny &lt;mgorny@gentoo.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#90da18b</div>
-                                        <div class="message">dev-python/partd: Bump to 1.4.2
-
-Signed-off-by: Michał Górny &lt;mgorny@gentoo.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6474f1c</div>
-                                        <div class="message">dev-python/nbsphinx: Bump to 0.9.4
-
-Signed-off-by: Michał Górny &lt;mgorny@gentoo.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9aff082</div>
-                                        <div class="message">dev-python/furo: Bump to 2024.5.6
-
-Signed-off-by: Michał Górny &lt;mgorny@gentoo.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#488d42a</div>
-                                        <div class="message">dev-python/truststore: Bump to 0.9.1
-
-Signed-off-by: Michał Górny &lt;mgorny@gentoo.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#44662ee</div>
-                                        <div class="message">dev-python/truststore: Remove old
-
-Signed-off-by: Michał Górny &lt;mgorny@gentoo.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#59f5b7e</div>
-                                        <div class="message">dev-python/blinker: Bump to 1.8.2
-
-Signed-off-by: Michał Górny &lt;mgorny@gentoo.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#92a0c6a</div>
-                                        <div class="message">dev-python/jupyterlab: Bump to 4.2.0
-
-Signed-off-by: Michał Górny &lt;mgorny@gentoo.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c5c7e52</div>
-                                        <div class="message">dev-python/weasyprint: Bump to 62.1
-
-Signed-off-by: Michał Górny &lt;mgorny@gentoo.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#63d6ae6</div>
-                                        <div class="message">dev-python/setuptools-scm: Bump to 8.1.0
-
-Signed-off-by: Michał Górny &lt;mgorny@gentoo.org&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 3 commits in
+                                        Pushed 2 commits in
                                         <span class="repo">macaroni-os/macaroni-funtoo</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">eagle</span></div>
                                     <div class="commit">
-                                        <div class="sha">#9d8ba39</div>
-                                        <div class="message">seed/macaroni-funtoo-base: Bump v.0.20240510</div>
+                                        <div class="sha">#ab65176</div>
+                                        <div class="message">seed/macaroni-funtoo-race1: Bump v.0.20240510</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#66dacc8</div>
-                                        <div class="message">pkglist/macaroni-funtoo-base: Bump v.0.20240510</div>
+                                        <div class="sha">#dadb904</div>
+                                        <div class="message">pkglist/macaroni-funtoo-race1: Bump v.0.20240510</div>
                                     </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
+                                        <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Opened
+                                        <span class="issue">#47 Add Gnome theme Orchis</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened  in <span class="repo">macaroni-os/macaroni-funtoo</span></div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">macaroni-os/macaroni-funtoo</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">phoenix</span></div>
                                     <div class="commit">
-                                        <div class="sha">#ab35f7f</div>
-                                        <div class="message">seed/macaroni-funtoo-stage: Bump v.0.20240510</div>
+                                        <div class="sha">#64f94cb</div>
+                                        <div class="message">iso/funtoo-lxqt: Use firefox instead of firefox-bin</div>
                                     </div>
                                 </div>
                             </section>
@@ -474,31 +362,15 @@ Signed-off-by: Michał Górny &lt;mgorny@gentoo.org&gt;</div>
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 5 commits in
+                                        Pushed 1 commit in
                                         <span class="repo">macaroni-os/macaroni-funtoo</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">eagle</span></div>
                                     <div class="commit">
-                                        <div class="sha">#145fc99</div>
-                                        <div class="message">dev-libs/nss: Bump v.3.100</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#83fcbc5</div>
-                                        <div class="message">sys-apps/systemd: Bump v.253.18</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c7c4187</div>
-                                        <div class="message">sys-apps/util-linux: Bump v.2.40.1</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7cc7356</div>
-                                        <div class="message">sys-libs-2.2/glibc: Bump v.2.33+1</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#35677c2</div>
-                                        <div class="message">sys-libs/ncurses: Bump v.6.5</div>
+                                        <div class="sha">#4f65d6d</div>
+                                        <div class="message">app-arch/libarchive: Bump v.3.7.4</div>
                                     </div>
                                 </div>
                             </section>
@@ -507,59 +379,16 @@ Signed-off-by: Michał Górny &lt;mgorny@gentoo.org&gt;</div>
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                        <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
+                                        <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 3 commits in
-                                        <span class="repo">macaroni-os/macaroni-site</span>
+                                        Opened
+                                        <span class="issue">#46 Add new XFCE themes and ICONS</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#f26403c</div>
-                                        <div class="message">blog: Update 24.04</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b1c088c</div>
-                                        <div class="message">docs: Update versions</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2b5950c</div>
-                                        <div class="message">blog: Add 24.04</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 4 commits in
-                                        <span class="repo">macaroni-os/macaroni-funtoo</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">eagle</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#3c9dbee</div>
-                                        <div class="message">toolchain/meta-geaaru-kit: Bump v.0.20240503</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d1beee9</div>
-                                        <div class="message">seed/funtoo-base: Bump v.0.20240510</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#bb02d71</div>
-                                        <div class="message">seed/funtoo-kit-geaaru: Bump v.0.20240503</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#db070fe</div>
-                                        <div class="message">.goreleaser.yml: Align specs to 24.04</div>
-                                    </div>
+                                    <div>opened  in <span class="repo">macaroni-os/macaroni-funtoo</span></div>
                                 </div>
                             </section>
                         </div>
@@ -1140,7 +969,7 @@ Signed-off-by: Michał Górny &lt;mgorny@gentoo.org&gt;</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 10 May 2024, 23:12:41 (timezone Europe/Rome) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 11 May 2024, 00:12:18 (timezone Europe/Rome) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
