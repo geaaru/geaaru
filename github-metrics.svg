@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2023" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1707" class="">
     <defs>
         <style/>
     </defs>
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    2m added, 473k removed
+                                    2.35m added, 685k removed
                                 </div>
                             </section>
                             <section>
@@ -308,6 +308,26 @@
                                 <div class="details">
                                     <div>on branch <span class="code">eagle</span></div>
                                     <div class="commit">
+                                        <div class="sha">#86c13f2</div>
+                                        <div class="message">dev-libs/mongo-c-driver: Bump v.1.27.1+1</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">macaroni-os/macaroni-funtoo</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">eagle</span></div>
+                                    <div class="commit">
                                         <div class="sha">#df52755</div>
                                         <div class="message">net-analyzer/fail2ban: Bump v.1.1.0+1</div>
                                     </div>
@@ -374,145 +394,6 @@
                                     <div class="commit">
                                         <div class="sha">#1eb90e6</div>
                                         <div class="message">dev-db-16/postgresql: Bump v.16.3+1</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 401 commits in
-                                        <span class="repo">geaaru/gentoo</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#0279370</div>
-                                        <div class="message">net-analyzer/nmap: Stabilize 7.95 arm64, #931695
-
-Signed-off-by: Sam James &lt;sam@gentoo.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#045f6e5</div>
-                                        <div class="message">net-analyzer/nmap: Stabilize 7.95 sparc, #931695
-
-Signed-off-by: Sam James &lt;sam@gentoo.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6ec0e18</div>
-                                        <div class="message">net-analyzer/nmap: Stabilize 7.95 ppc, #931695
-
-Signed-off-by: Sam James &lt;sam@gentoo.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1de6012</div>
-                                        <div class="message">net-analyzer/nmap: Stabilize 7.95 arm, #931695
-
-Signed-off-by: Sam James &lt;sam@gentoo.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#24e1e1a</div>
-                                        <div class="message">dev-java/junit: Stabilize 4.13.2_p20240222 x86, #931693
-
-Signed-off-by: Sam James &lt;sam@gentoo.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c4546bf</div>
-                                        <div class="message">dev-java/junit: Stabilize 4.13.2_p20240222 amd64, #931693
-
-Signed-off-by: Sam James &lt;sam@gentoo.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b7bdf5a</div>
-                                        <div class="message">dev-java/junit: Stabilize 4.13.2_p20240222 arm64, #931693
-
-Signed-off-by: Sam James &lt;sam@gentoo.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1884548</div>
-                                        <div class="message">dev-java/junit: Stabilize 4.13.2_p20240222 ppc64, #931693
-
-Signed-off-by: Sam James &lt;sam@gentoo.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9f93330</div>
-                                        <div class="message">sys-devel/gcc: add 13.2.1_p20240510
-
-Signed-off-by: Sam James &lt;sam@gentoo.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#86ba62b</div>
-                                        <div class="message">www-client/microsoft-edge-beta: remove old
-
-Signed-off-by: Matt Jolly &lt;kangie@gentoo.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#be53535</div>
-                                        <div class="message">www-client/microsoft-edge-beta: automated bump (125.0.2535.37)
-
-Signed-off-by: Matt Jolly &lt;kangie@gentoo.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#22d1a28</div>
-                                        <div class="message">www-client/microsoft-edge: remove old
-
-Signed-off-by: Matt Jolly &lt;kangie@gentoo.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b02528e</div>
-                                        <div class="message">www-client/microsoft-edge: amd64 stable (124.0.2478.97)
-
-Signed-off-by: Matt Jolly &lt;kangie@gentoo.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#24dd2d1</div>
-                                        <div class="message">www-client/microsoft-edge: automated bump (124.0.2478.97)
-
-Signed-off-by: Matt Jolly &lt;kangie@gentoo.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#372e46d</div>
-                                        <div class="message">www-apps/chromedriver-bin: automated update (124.0.6367.201)
-
-Signed-off-by: Matt Jolly &lt;kangie@gentoo.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#48dfefe</div>
-                                        <div class="message">www-plugins/chrome-binary-plugins: automated update (124.0.6367.201)
-
-Signed-off-by: Matt Jolly &lt;kangie@gentoo.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f3b45a7</div>
-                                        <div class="message">www-client/google-chrome: automated update (124.0.6367.201)
-
-Bug: https://bugs.gentoo.org/931653
-Signed-off-by: Matt Jolly &lt;kangie@gentoo.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2120217</div>
-                                        <div class="message">www-client/chromium: add 124.0.6367.201
-
-Bug: https://bugs.gentoo.org/931653
-Signed-off-by: Matt Jolly &lt;kangie@gentoo.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ecd8865</div>
-                                        <div class="message">net-dns/unbound: drop 1.16.3, 1.17.0, 1.17.1, 1.18.0, 1.19.0
-
-Signed-off-by: Marc Schiffbauer &lt;mschiff@gentoo.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ae0a71f</div>
-                                        <div class="message">net-dns/unbound: add 1.20.0
-
-Bug: https://bugs.gentoo.org/931625
-Signed-off-by: Marc Schiffbauer &lt;mschiff@gentoo.org&gt;</div>
                                     </div>
                                 </div>
                             </section>
@@ -1094,7 +975,7 @@ Signed-off-by: Marc Schiffbauer &lt;mschiff@gentoo.org&gt;</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 12 May 2024, 11:11:28 (timezone Europe/Rome) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 12 May 2024, 12:11:14 (timezone Europe/Rome) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
