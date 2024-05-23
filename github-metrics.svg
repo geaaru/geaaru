@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1940" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1690" class="">
     <defs>
         <style/>
     </defs>
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    1.51m added, 312k removed
+                                    554k added, 53.3k removed
                                 </div>
                             </section>
                             <section>
@@ -301,19 +301,15 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">macaroni-os/macaroni-funtoo</span>
+                                        Pushed 1 commit in
+                                        <span class="repo">MottainaiCI/ssh-compose</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">phoenix</span></div>
+                                    <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#e18a5e9</div>
-                                        <div class="message">seed/macaroni-funtoo-race16: Bump v.0.20240523</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5f59fa3</div>
-                                        <div class="message">pkglist/macaroni-funtoo-race16: Bump v.0.20240523</div>
+                                        <div class="sha">#beb4970</div>
+                                        <div class="message">Review template tests</div>
                                     </div>
                                 </div>
                             </section>
@@ -325,35 +321,15 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 6 commits in
-                                        <span class="repo">macaroni-os/macaroni-funtoo</span>
+                                        Pushed 1 commit in
+                                        <span class="repo">MottainaiCI/ssh-compose</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">phoenix</span></div>
+                                    <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#e84774d</div>
-                                        <div class="message">sys-firmware/intel-microcode: Bump v.20240514</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#918cfb1</div>
-                                        <div class="message">sys-firmware/sgabios: Bump v.0.1_pre8-r1</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4809756</div>
-                                        <div class="message">app-arch/upx-bin: Bump v.4.2.4</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#324e60d</div>
-                                        <div class="message">dev-util/strace: Bump v.6.9</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ba41d1d</div>
-                                        <div class="message">sys-power/cpupower: Bump v.6.9</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9350357</div>
-                                        <div class="message">media-gfx/imagemagick: Bump v.7.1.1.32</div>
+                                        <div class="sha">#3caa0fc</div>
+                                        <div class="message">Makefile: Review deps</div>
                                     </div>
                                 </div>
                             </section>
@@ -365,19 +341,15 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">macaroni-os/macaroni-funtoo</span>
+                                        Pushed 1 commit in
+                                        <span class="repo">MottainaiCI/ssh-compose</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">phoenix</span></div>
+                                    <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#8b41026</div>
-                                        <div class="message">seed/macaroni-funtoo-race15: Bump v.0.20240523</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0209552</div>
-                                        <div class="message">pkglist/macaroni-funtoo-race15: Bump v.0.20240523</div>
+                                        <div class="sha">#92d9891</div>
+                                        <div class="message">Makefile: Trying resolve issue with go 1.22</div>
                                     </div>
                                 </div>
                             </section>
@@ -389,19 +361,15 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">macaroni-os/macaroni-funtoo</span>
+                                        Pushed 1 commit in
+                                        <span class="repo">MottainaiCI/ssh-compose</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">phoenix</span></div>
+                                    <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#e230b4e</div>
-                                        <div class="message">portage-converter/base-video.yaml: Review use flags of libaom</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#16bda27</div>
-                                        <div class="message">dev-python/zope-interface: Bump v.6.4+1</div>
+                                        <div class="sha">#bcf56fd</div>
+                                        <div class="message">Move to go 1.22 (required for helm)</div>
                                     </div>
                                 </div>
                             </section>
@@ -413,43 +381,15 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 8 commits in
-                                        <span class="repo">macaroni-os/macaroni-funtoo</span>
+                                        Pushed 1 commit in
+                                        <span class="repo">MottainaiCI/ssh-compose</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">phoenix</span></div>
+                                    <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#3c5f365</div>
-                                        <div class="message">media-plugins/live: Bump v.2024.05.15</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e081023</div>
-                                        <div class="message">net-misc/freerdp: Bump v.3.5.1</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#eb4dec8</div>
-                                        <div class="message">sys-kernel/linux-firmware: Bump v.20240513</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#96bef1c</div>
-                                        <div class="message">dev-python/ovs: Bump v.3.3.0</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d6ac386</div>
-                                        <div class="message">dev-python/zope-interface: Bump v.6.4</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#570d3aa</div>
-                                        <div class="message">net-dns/bind-tools: Bump v.9.18.27</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7d7ed17</div>
-                                        <div class="message">net-dns/bind: Bump v.9.18.27</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7d2afb4</div>
-                                        <div class="message">app-text-2/enchant: Bump v.2.7.3</div>
+                                        <div class="sha">#cf87de3</div>
+                                        <div class="message">.github/workflows/push.yml: Add GOVERSION</div>
                                     </div>
                                 </div>
                             </section>
@@ -1031,7 +971,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 23 May 2024, 20:15:23 (timezone Europe/Rome) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 23 May 2024, 21:10:47 (timezone Europe/Rome) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
