@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    557k added, 55.4k removed
+                                    558k added, 53.3k removed
                                 </div>
                             </section>
                             <section>
@@ -308,6 +308,122 @@
                                 <div class="details">
                                     <div>on branch <span class="code">phoenix</span></div>
                                     <div class="commit">
+                                        <div class="sha">#64a3216</div>
+                                        <div class="message">dev-libs/libqtxdg: Bump v.3.12.0+1</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 176 commits in
+                                        <span class="repo">geaaru/geaaru_overlay</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">funtoo</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#adca732</div>
+                                        <div class="message">dev-node/supports-preserve-symlinks-flag: Bump v1.0.0</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c822861</div>
+                                        <div class="message">dev-node/tdigest: Bump v0.1.2</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0824738</div>
+                                        <div class="message">dev-node/test-exclude: Bump v6.0.0</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#461166c</div>
+                                        <div class="message">dev-node/tmpl: Bump v1.0.5</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3b07710</div>
+                                        <div class="message">dev-node/to-fast-properties: Bump v2.0.0</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2708846</div>
+                                        <div class="message">dev-node/tslib: Bump 2.6.3</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c22a835</div>
+                                        <div class="message">dev-node/type-detect: Bump v4.0.8</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7e027fe</div>
+                                        <div class="message">dev-node/type-fest: Bump v0.21.3</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7ddcb6c</div>
+                                        <div class="message">dev-node/undici-types: Bump v5.26.5</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#79aa70d</div>
+                                        <div class="message">dev-node/update-browserslist-db: Bump v1.0.16</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6b45e83</div>
+                                        <div class="message">dev-node/uuid: Bump v9.0.1</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9d9e8dd</div>
+                                        <div class="message">dev-node/v8-to-instanbul: Bump v9.2.0</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2936c95</div>
+                                        <div class="message">dev-node/walker: Bump v1.0.8</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7350315</div>
+                                        <div class="message">dev-node/which: Bump v2.0.2</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7b1716a</div>
+                                        <div class="message">dev-node/wrap-ansi: Bump v7.0.0</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e21eb5a</div>
+                                        <div class="message">dev-node/write-file-atomic: Bump v4.0.2</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0bd5b03</div>
+                                        <div class="message">dev-node/y18n: Bump v5.0.8</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7ea01c1</div>
+                                        <div class="message">dev-node/yargs-parser: Bump v21.1.1</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#acb759c</div>
+                                        <div class="message">dev-node/yargs: Bump v17.7.2</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#92c3dca</div>
+                                        <div class="message">dev-node/yocto-queue: Bump v0.1.0</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">macaroni-os/macaroni-funtoo</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">phoenix</span></div>
+                                    <div class="commit">
                                         <div class="sha">#95a0514</div>
                                         <div class="message">dev-util/lxqt-build-tools: Manifest must be regenered</div>
                                     </div>
@@ -350,162 +466,6 @@
                                     <div class="commit">
                                         <div class="sha">#15641c2</div>
                                         <div class="message">x11-misc/screengrab: Bump v.2.7.0+1</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 9019 commits in
-                                        <span class="repo">geaaru/gentoo</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#0d2ac8c</div>
-                                        <div class="message">dev-python/botocore: Remove old
-
-Signed-off-by: Michał Górny &lt;mgorny@gentoo.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8e37a6a</div>
-                                        <div class="message">dev-python/boto3: Remove old
-
-Signed-off-by: Michał Górny &lt;mgorny@gentoo.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3665c45</div>
-                                        <div class="message">app-admin/awscli: Remove old
-
-Signed-off-by: Michał Górny &lt;mgorny@gentoo.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7aa9fb1</div>
-                                        <div class="message">dev-python/mkdocs-git-authors-plugin: Remove old
-
-Signed-off-by: Michał Górny &lt;mgorny@gentoo.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f6d2cbd</div>
-                                        <div class="message">dev-python/pgspecial: Remove old
-
-Signed-off-by: Michał Górny &lt;mgorny@gentoo.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f22e6ff</div>
-                                        <div class="message">dev-python/anyio: Remove old
-
-Signed-off-by: Michał Górny &lt;mgorny@gentoo.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d19374c</div>
-                                        <div class="message">dev-python/jinja: Remove old
-
-Signed-off-by: Michał Górny &lt;mgorny@gentoo.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1f0d8ab</div>
-                                        <div class="message">dev-python/twine: Remove old
-
-Signed-off-by: Michał Górny &lt;mgorny@gentoo.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b9d777e</div>
-                                        <div class="message">dev-python/platformdirs: Stabilize 4.2.2 ALLARCHES, #933307
-
-Signed-off-by: Arthur Zamarin &lt;arthurzam@gentoo.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6a21fdb</div>
-                                        <div class="message">dev-ruby/async-pool: new package, add 0.6.1
-
-Signed-off-by: Hans de Graaff &lt;graaff@gentoo.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#01db308</div>
-                                        <div class="message">dev-python/blinker: Stabilize 1.8.2 ALLARCHES, #933306
-
-Signed-off-by: Arthur Zamarin &lt;arthurzam@gentoo.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#328a7db</div>
-                                        <div class="message">dev-python/zope-interface: Stabilize 6.4_p2 arm64, #933320
-
-Signed-off-by: Arthur Zamarin &lt;arthurzam@gentoo.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ffd081d</div>
-                                        <div class="message">app-emulation/wine-staging: add 9.10
-
-Signed-off-by: Ionen Wolkens &lt;ionen@gentoo.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5056b2e</div>
-                                        <div class="message">dev-python/regex: Stabilize 2024.5.15 ppc, #933334
-
-Signed-off-by: Arthur Zamarin &lt;arthurzam@gentoo.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3a982e8</div>
-                                        <div class="message">dev-python/python-neutronclient: Stabilize 11.3.0 ALLARCHES, #933332
-
-Signed-off-by: Arthur Zamarin &lt;arthurzam@gentoo.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#930d8b8</div>
-                                        <div class="message">dev-python/cssutils: Stabilize 2.11.0 ALLARCHES, #933328
-
-Signed-off-by: Arthur Zamarin &lt;arthurzam@gentoo.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3bd13b0</div>
-                                        <div class="message">dev-python/mkdocs-material: Stabilize 9.5.23 ALLARCHES, #933322
-
-Signed-off-by: Arthur Zamarin &lt;arthurzam@gentoo.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fa065b3</div>
-                                        <div class="message">dev-python/fsspec: Stabilize 2024.5.0 ALLARCHES, #933321
-
-Signed-off-by: Arthur Zamarin &lt;arthurzam@gentoo.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5cd3d7a</div>
-                                        <div class="message">dev-python/cliff: Stabilize 4.7.0 ALLARCHES, #933316
-
-Signed-off-by: Arthur Zamarin &lt;arthurzam@gentoo.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#941b6fd</div>
-                                        <div class="message">dev-python/selenium: Stabilize 4.21.0 ppc, #933314
-
-Signed-off-by: Arthur Zamarin &lt;arthurzam@gentoo.org&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">macaroni-os/macaroni-games</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">phoenix</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#a168517</div>
-                                        <div class="message">games-strategy/wesnoth: Bump v.1.18.0+3</div>
                                     </div>
                                 </div>
                             </section>
@@ -664,7 +624,7 @@ Signed-off-by: Arthur Zamarin &lt;arthurzam@gentoo.org&gt;</div>
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     developer
-                                    <span class="gh">ranked 311k out of 138m users</span>
+                                    <span class="gh">ranked 311k out of 133m users</span>
                                 </div>
                                 <div class="text">Published 77 public repositories</div>
                             </div>
@@ -822,7 +782,7 @@ Signed-off-by: Arthur Zamarin &lt;arthurzam@gentoo.org&gt;</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 560k out of 138m users</span>
+                                    <span class="gh">ranked 560k out of 133m users</span>
                                 </div>
                                 <div class="text">Followed by 25 users</div>
                             </div>
@@ -1087,7 +1047,7 @@ Signed-off-by: Arthur Zamarin &lt;arthurzam@gentoo.org&gt;</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 6 Jun 2024, 00:11:40 (timezone Europe/Rome) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 6 Jun 2024, 01:13:10 (timezone Europe/Rome) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
