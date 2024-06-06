@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            22590 Commits
+                            22591 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    1.14m added, 93k removed
+                                    1.96m added, 481k removed
                                 </div>
                             </section>
                             <section>
@@ -225,14 +225,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="289.26159601388343" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="289.26159601388343" y="0" width="144.56578888347053" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="433.82738489735397" y="0" width="10.334503258562723" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="444.1618881559167" y="0" width="8.386384095165848" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="452.54827225108255" y="0" width="2.246688789740783" height="8" fill="#0298c3"/>
-                    <rect mask="url(#languages-bar)" x="454.7949610408233" y="0" width="2.0588294106340275" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="456.85379045145737" y="0" width="1.6452404555736762" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="458.499030907031" y="0" width="1.5009690929689734" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="289.26242646944905" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="289.26242646944905" y="0" width="144.56508572904727" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="433.8275121984964" y="0" width="10.334452992509224" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="444.1619651910056" y="0" width="8.386343304581043" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="452.54830849558664" y="0" width="2.246677862057461" height="8" fill="#0298c3"/>
+                    <rect mask="url(#languages-bar)" x="454.7949863576441" y="0" width="2.058819396681087" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="456.85380575432515" y="0" width="1.645232453278579" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="458.49903820760375" y="0" width="1.5009617923962375" height="8" fill="#427819"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -294,6 +294,26 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">geaaru/geaaru_overlay</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">funtoo</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#73688ee</div>
+                                        <div class="message">dev-node/gc-stats: Add RESTRICT</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -446,26 +466,6 @@
                                     <div class="commit">
                                         <div class="sha">#95a0514</div>
                                         <div class="message">dev-util/lxqt-build-tools: Manifest must be regenered</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">macaroni-os/macaroni-funtoo</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">phoenix</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#59f7c27</div>
-                                        <div class="message">dev-util/lxqt-build-tools: Force using v0.13.0</div>
                                     </div>
                                 </div>
                             </section>
@@ -624,7 +624,7 @@
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     developer
-                                    <span class="gh">ranked 312k out of 134m users</span>
+                                    <span class="gh">ranked 312k out of 138m users</span>
                                 </div>
                                 <div class="text">Published 77 public repositories</div>
                             </div>
@@ -782,7 +782,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 560k out of 134m users</span>
+                                    <span class="gh">ranked 560k out of 138m users</span>
                                 </div>
                                 <div class="text">Followed by 25 users</div>
                             </div>
@@ -855,7 +855,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 896k out of 210m repositories</span>
+                                    <span class="gh">ranked 896k out of 208m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 30 stars</div>
                             </div>
@@ -965,7 +965,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 3.51m out of 210m repositories</span>
+                                    <span class="gh">ranked 3.51m out of 208m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 2 times</div>
                             </div>
@@ -1047,7 +1047,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 6 Jun 2024, 11:14:01 (timezone Europe/Rome) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 6 Jun 2024, 12:13:07 (timezone Europe/Rome) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
