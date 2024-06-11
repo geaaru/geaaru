@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1923" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1857" class="">
     <defs>
         <style/>
     </defs>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            22633 Commits
+                            22635 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    2.01m added, 492k removed
+                                    1.97m added, 482k removed
                                 </div>
                             </section>
                             <section>
@@ -225,14 +225,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="289.2877361098878" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="289.2877361098878" y="0" width="144.54365582194401" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="433.83139193183183" y="0" width="10.332921043308104" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="444.1643129751399" y="0" width="8.385100137484043" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="452.549413112624" y="0" width="2.246344821077116" height="8" fill="#0298c3"/>
-                    <rect mask="url(#languages-bar)" x="454.7957579337011" y="0" width="2.0585142032923045" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="456.8542721369934" y="0" width="1.6449885688132586" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="458.4992607058067" y="0" width="1.500739294193339" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="289.2838002308805" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="289.2838002308805" y="0" width="144.54698836717316" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="433.8307885980537" y="0" width="10.333159275325485" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="444.1639478733792" y="0" width="8.385293461260865" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="452.54924133464004" y="0" width="2.246396611974987" height="8" fill="#0298c3"/>
+                    <rect mask="url(#languages-bar)" x="454.79563794661505" y="0" width="2.058561663636713" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="456.8541996102517" y="0" width="1.6450264950631228" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="458.49922610531485" y="0" width="1.5007738946851186" height="8" fill="#427819"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -294,6 +294,30 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">geaaru/geaaru_overlay</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">funtoo</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#cbc4438</div>
+                                        <div class="message">dev-node/jest*: Permit to use chalk-2.4.2</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b7c2971</div>
+                                        <div class="message">dev-node/jest-cli: Review DEPEND</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -406,46 +430,6 @@
                                     <div class="commit">
                                         <div class="sha">#5959228</div>
                                         <div class="message">pkglist/macaroni-funtoo-race2: Bump v.0.20240611</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 6 commits in
-                                        <span class="repo">macaroni-os/macaroni-funtoo</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">terragon</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#1b92cf8</div>
-                                        <div class="message">dev-python/cryptography: Bump v.42.0.8</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b8a50b1</div>
-                                        <div class="message">dev-python/gpep517: Bump v.16</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ccf9265</div>
-                                        <div class="message">dev-python/requests: Bump v.2.32.3</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#eb8c577</div>
-                                        <div class="message">dev-python/trove-classifiers: Bump v.2024.5.22</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#82750bc</div>
-                                        <div class="message">dev-python/typing-extensions: Bump v.4.12.2</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f2b41d1</div>
-                                        <div class="message">dev-python/zipp: Bump v.3.19.2</div>
                                     </div>
                                 </div>
                             </section>
@@ -604,7 +588,7 @@
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     developer
-                                    <span class="gh">ranked 312k out of 138m users</span>
+                                    <span class="gh">ranked 312k out of 136m users</span>
                                 </div>
                                 <div class="text">Published 77 public repositories</div>
                             </div>
@@ -762,7 +746,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 561k out of 138m users</span>
+                                    <span class="gh">ranked 562k out of 136m users</span>
                                 </div>
                                 <div class="text">Followed by 25 users</div>
                             </div>
@@ -835,7 +819,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 898k out of 201m repositories</span>
+                                    <span class="gh">ranked 898k out of 209m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 30 stars</div>
                             </div>
@@ -945,7 +929,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 3.52m out of 201m repositories</span>
+                                    <span class="gh">ranked 3.52m out of 209m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 2 times</div>
                             </div>
@@ -1027,7 +1011,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 11 Jun 2024, 10:16:13 (timezone Europe/Rome) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 11 Jun 2024, 11:14:42 (timezone Europe/Rome) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
