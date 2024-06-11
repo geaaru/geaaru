@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            22631 Commits
+                            22633 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    2.60m added, 532k removed
+                                    2.01m added, 492k removed
                                 </div>
                             </section>
                             <section>
@@ -225,14 +225,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="289.2882280820032" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="289.2882280820032" y="0" width="144.5432392645949" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="433.83146734659806" y="0" width="10.332891265078308" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="444.16435861167633" y="0" width="8.385075972638719" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="452.54943458431507" y="0" width="2.2463383473827943" height="8" fill="#0298c3"/>
-                    <rect mask="url(#languages-bar)" x="454.79577293169785" y="0" width="2.058508270903125" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="456.854281202601" y="0" width="1.6449838281549867" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="458.49926503075596" y="0" width="1.5007349692440453" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="289.2877361098878" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="289.2877361098878" y="0" width="144.54365582194401" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="433.83139193183183" y="0" width="10.332921043308104" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="444.1643129751399" y="0" width="8.385100137484043" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="452.549413112624" y="0" width="2.246344821077116" height="8" fill="#0298c3"/>
+                    <rect mask="url(#languages-bar)" x="454.7957579337011" y="0" width="2.0585142032923045" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="456.8542721369934" y="0" width="1.6449885688132586" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="458.4992607058067" y="0" width="1.500739294193339" height="8" fill="#427819"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -294,6 +294,30 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">geaaru/geaaru_overlay</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">funtoo</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#c3c40a9</div>
+                                        <div class="message">dev-node/pretty-format: Review DEPEND</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f0f7b90</div>
+                                        <div class="message">dev-node/wrap-ansi: review DEPEND</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -422,30 +446,6 @@
                                     <div class="commit">
                                         <div class="sha">#f2b41d1</div>
                                         <div class="message">dev-python/zipp: Bump v.3.19.2</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">macaroni-os/macaroni-funtoo</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">terragon</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#f3d8af0</div>
-                                        <div class="message">seed/macaroni-funtoo-race1: Bump v.0.20240610</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0e86f5c</div>
-                                        <div class="message">pkglist/macaroni-funtoo-race1: Bump v.0.20240610</div>
                                     </div>
                                 </div>
                             </section>
@@ -835,7 +835,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 898k out of 208m repositories</span>
+                                    <span class="gh">ranked 898k out of 201m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 30 stars</div>
                             </div>
@@ -945,7 +945,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 3.52m out of 208m repositories</span>
+                                    <span class="gh">ranked 3.52m out of 201m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 2 times</div>
                             </div>
@@ -1027,7 +1027,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 11 Jun 2024, 09:12:31 (timezone Europe/Rome) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 11 Jun 2024, 10:16:13 (timezone Europe/Rome) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
