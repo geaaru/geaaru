@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1763" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1793" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}.gauge text,h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details,footer{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;flex-direction:column;justify-content:flex-end;padding:0 4px}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement .gh{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.contribution .gauge-arc,.contribution .gauge-base{stroke:currentColor;stroke-width:4}.contribution .gauge text,.gauge text{fill:currentColor;font-size:13px}.contribution .gauge{margin:0 6px;color:inherit;transform:scale(1.4) translateY(1px)}.contribution .icon{fill:currentColor;width:10px;height:10px;margin-left:-9px;margin-top:8px;color:inherit;filter:brightness(.5)}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details,footer{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;flex-direction:column;justify-content:flex-end;padding:0 4px}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement .gh{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.gemoji{height:1em;width:1em;margin-bottom:-.125em}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            23214 Commits
+                            23215 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -94,7 +94,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                             </svg>
-                            545 issue comments
+                            547 issue comments
                         </div>
                     </section>
                     <section>
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    547k added, 69.1k removed
+                                    402k added, 254k removed
                                 </div>
                             </section>
                             <section>
@@ -302,12 +302,12 @@
                                     </svg>
                                     <div class="content">
                                         Commented on
-                                        <span class="issue">#9 dev-node/constantinople:update patch</span>
+                                        <span class="issue">#7 cleanup docs: getting-started  and the beginning of funtoo -_-</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened by dbrunero in <span class="repo">geaaru/geaaru_overlay</span></div>
-                                    <div class="comment">Thanks</div>
+                                    <div>opened by jiggie42 in <span class="repo">macaroni-os/macaroni-site</span></div>
+                                    <div class="comment">FYI: https://github.com/macaroni-os/mark-issues/wiki/Migration_from_Funtoo (WIP)</div>
                                 </div>
                             </section>
                         </div>
@@ -318,21 +318,29 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">geaaru/geaaru_overlay</span>
+                                        Pushed 4 commits in
+                                        <span class="repo">macaroni-os/macaroni-site</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">funtoo</span></div>
+                                    <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#fd9c2a2</div>
-                                        <div class="message">Merge pull request #9 from dbrunero/patch-costantinople
+                                        <div class="sha">#5e5a0fa</div>
+                                        <div class="message">Merge pull request #7 from jiggie42/jiggie42-patch-1
 
-dev-node/constantinople:update patch</div>
+cleanup docs: getting-started  and the beginning of funtoo -_-</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#75101f2</div>
-                                        <div class="message">dev-node/constantinople:update patch</div>
+                                        <div class="sha">#c2b71dc</div>
+                                        <div class="message">getting-started: cleanup sections 5 thru end</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#771b2eb</div>
+                                        <div class="message">getting-started: cleanup sections 1-4</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#efe9a03</div>
+                                        <div class="message">funtoo: cleanup sections 1 thru 4</div>
                                     </div>
                                 </div>
                             </section>
@@ -345,64 +353,50 @@ dev-node/constantinople:update patch</div>
                                     </svg>
                                     <div class="content">
                                         Merged
+                                        <span class="issue">#7 cleanup docs: getting-started  and the beginning of funtoo -_-</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by jiggie42 in <span class="repo">macaroni-os/macaroni-site</span></div>
+                                    <div>2 files changed <span class="code">++59 --62</span></div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#7 cleanup docs: getting-started  and the beginning of funtoo -_-</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by jiggie42 in <span class="repo">macaroni-os/macaroni-site</span></div>
+                                    <div class="comment">
+                                        I found the word "hereinafter" in an old old magician's book.
+                                        <img class="gemoji" src="data:image/png;base64,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" height="16" width="16" alt="" />
+                                        Thanks to this contribution. I will wait for you for the MARK stack documentation.
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
                                         <span class="issue">#9 dev-node/constantinople:update patch</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>opened by dbrunero in <span class="repo">geaaru/geaaru_overlay</span></div>
-                                    <div>2 files changed <span class="code">++10 --5</span></div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">geaaru/geaaru_overlay</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">funtoo</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#e8c66e1</div>
-                                        <div class="message">dev-node/constantinople: Add patch for nodejs20 (thanks Diego Brunero)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#18ee447</div>
-                                        <div class="message">dev-node/constantinople: Bump v4.0.1</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 3 commits in
-                                        <span class="repo">macaroni-os/macaroni-funtoo</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">terragon</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#699d9b5</div>
-                                        <div class="message">app-editors/vim-core: Bump v.9.1.0646</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#200d48d</div>
-                                        <div class="message">app-editors/vim: Bump v.9.1.0646</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3e1793d</div>
-                                        <div class="message">dev-python/attrs: Bump v.24.1.0</div>
-                                    </div>
+                                    <div class="comment">Thanks</div>
                                 </div>
                             </section>
                         </div>
@@ -791,7 +785,7 @@ dev-node/constantinople:update patch</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 894k out of 214m repositories</span>
+                                    <span class="gh">ranked 894k out of 209m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 31 stars</div>
                             </div>
@@ -868,7 +862,7 @@ dev-node/constantinople:update patch</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 2.72m out of 214m repositories</span>
+                                    <span class="gh">ranked 2.72m out of 209m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 3 times</div>
                             </div>
@@ -983,7 +977,7 @@ dev-node/constantinople:update patch</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 7 Aug 2024, 07:13:01 (timezone Europe/Rome) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 7 Aug 2024, 08:18:10 (timezone Europe/Rome) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
