@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1773" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1730" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}.gauge text,h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details,footer{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;flex-direction:column;justify-content:flex-end;padding:0 4px}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement .gh{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}.gauge text,h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details,footer{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;flex-direction:column;justify-content:flex-end;padding:0 4px}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement .gh{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.gemoji{height:1em;width:1em;margin-bottom:-.125em}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            23370 Commits
+                            23374 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -94,7 +94,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                             </svg>
-                            579 issue comments
+                            581 issue comments
                         </div>
                     </section>
                     <section>
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    1.99m added, 506k removed
+                                    601k added, 80.1k removed
                                 </div>
                             </section>
                             <section>
@@ -301,71 +301,15 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 2 commits in
+                                        Pushed 1 commit in
                                         <span class="repo">macaroni-os/macaroni-funtoo</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">phoenix</span></div>
                                     <div class="commit">
-                                        <div class="sha">#fd4ae34</div>
-                                        <div class="message">seed/macaroni-funtoo-race15: Bump v.0.20240815</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3e46ff7</div>
-                                        <div class="message">pkglist/macaroni-funtoo-race15: Bump v.0.20240815</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">macaroni-os/macaroni-funtoo</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">phoenix</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#5b7adeb</div>
-                                        <div class="message">seed/macaroni-funtoo-race6: Bump v.0.20240815</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5b7ece3</div>
-                                        <div class="message">pkglist/macaroni-funtoo-race6: Bump v.0.20240815</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 3 commits in
-                                        <span class="repo">macaroni-os/macaroni-funtoo</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">terragon</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#f5e8340</div>
-                                        <div class="message">portage-converter/python-extra.yaml: Update specs for numpy</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2e4ab37</div>
-                                        <div class="message">dev-python/numpy: Bump v.1.21.5+1</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d5ad0e3</div>
-                                        <div class="message">atoms-extra/python: Review build order</div>
+                                        <div class="sha">#89a48a8</div>
+                                        <div class="message">seed/macaroni-funtoo-race6: Fix typo2 <img class="gemoji" src="data:image/png;base64,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" height="16" width="16" alt="" /></div>
                                     </div>
                                 </div>
                             </section>
@@ -384,8 +328,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">phoenix</span></div>
                                     <div class="commit">
-                                        <div class="sha">#d5f8659</div>
-                                        <div class="message">sys-fs/lvm2: Bump v.2.03.25+1</div>
+                                        <div class="sha">#93af684</div>
+                                        <div class="message">seed/macaroni-funtoo-race6: Fix typo</div>
                                     </div>
                                 </div>
                             </section>
@@ -398,18 +342,138 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 2 commits in
-                                        <span class="repo">macaroni-os/macaroni-funtoo</span>
+                                        <span class="repo">macaroni-os/kit-fixups</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">phoenix</span></div>
+                                    <div>on branch <span class="code">mark-testing</span></div>
                                     <div class="commit">
-                                        <div class="sha">#a045fd0</div>
-                                        <div class="message">seed/macaroni-funtoo-race3: Bump v.0.20240815</div>
+                                        <div class="sha">#fcf7185</div>
+                                        <div class="message">Merge pull request #70 from cepelinas9000/setuptools_scm_8v2
+
+Take 3 on setuptools_scm package</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#9631cea</div>
-                                        <div class="message">pkglist/macaroni-funtoo-race3: Bump v.0.20240815</div>
+                                        <div class="sha">#4aa0a27</div>
+                                        <div class="message">Take 3 on setuptools_scm package,
+
+By logic is probably good idea to build stage 3 from regenerated kits.
+
+it is one step to fix https://github.com/macaroni-os/mark-issues/issues/14 , the updated setuptools_scm necessary for dev-python/sip package upgrade which resolves problem.
+
+The bug (duplicated entrypoints) in setuptools_scm using python 3.9 is very similar to https://github.com/pypa/setuptools/issues/3649 , only difference the bug is during install.
+
+On other hand using python 3.12 (on Gentoo) entry points are correct.
+
+```bash
+$ doit --release mark --pkg setuptools_scm
+WARNING  dict key du_pep517 overwritten.
+WARNING  dict key du_pep517 overwritten.
+WARNING  dict key du_pep517 overwritten.
+INFO     Autogen: dev-python/setuptools_scm (latest)
+INFO     Created: setuptools_scm/setuptools_scm-8.1.0.ebuild
+
+```
+
+install in chroot
+
+```bash
+fchroot # emerge -avq setuptools_scm
+[ebuild     U ] dev-python/setuptools_scm-8.1.0 [7.1.0] USE="-test%" PYTHON_TARGETS="python3_9 -python3_10 -python3_7 -python3_8 (-python2_7%)"
+
+Would you like to merge these packages? [Yes/No]
+&gt;&gt;&gt; Verifying ebuild manifests
+&gt;&gt;&gt; Emerging (1 of 1) dev-python/setuptools_scm-8.1.0::python-modules-kit
+&gt;&gt;&gt; Installing (1 of 1) dev-python/setuptools_scm-8.1.0::python-modules-kit
+&gt;&gt;&gt; Recording dev-python/setuptools_scm in "world" favorites file...
+&gt;&gt;&gt; Jobs: 1 of 1 complete                           Load avg: 0.57, 0.43, 0.25
+
+ * Messages for package dev-python/setuptools_scm-8.1.0:
+
+ * adding /src/setuptools_scm/{file_finder_git.py,file_hinder_hg.py} which point to _file_finders.{git,hg} modules due to build tools interaction
+fchroot # emerge -avq setuptools_scm
+[ebuild   R   ] dev-python/setuptools_scm-8.1.0  USE="-test" PYTHON_TARGETS="python3_9 -python3_10 -python3_7 -python3_8"
+
+Would you like to merge these packages? [Yes/No]
+&gt;&gt;&gt; Verifying ebuild manifests
+&gt;&gt;&gt; Emerging (1 of 1) dev-python/setuptools_scm-8.1.0::python-modules-kit
+&gt;&gt;&gt; Installing (1 of 1) dev-python/setuptools_scm-8.1.0::python-modules-kit
+&gt;&gt;&gt; Jobs: 1 of 1 complete                           Load avg: 0.75, 0.48, 0.27
+fchroot #
+
+aditionally for breakage tested with random 3 python packages which have setuptools_scm dependencies ( tqdm dev-python/py dev-python/python-dateutil )
+```bash
+fchroot # emerge -av setuptools_scm
+
+These are the packages that would be merged, in order:
+
+Calculating dependencies... done!
+[ebuild   R    ] dev-python/setuptools_scm-8.1.0::python-modules-kit  USE="-test" PYTHON_TARGETS="python3_9 -python3_10 -python3_7 -python3_8" 0 KiB
+
+Total: 1 package (1 reinstall), Size of downloads: 0 KiB
+
+Would you like to merge these packtqdm dev-python/py dev-python/python-dateutil
+[ebuild  N    ] dev-python/tqdm-4.66.5  PYTHON_TARGETS="python3_9 -python2_7 -python3_10 -python3_7 -python3_8"
+[ebuild  N    ] dev-python/py-1.11.0-r1  PYTHON_TARGETS="python3_9 -pypy3 -python2_7 -python3_10 -python3_7 -python3_8"
+[ebuild  N    ] dev-python/python-dateutil-2.9.0_p0  PYTHON_TARGETS="python3_9 -python3_10 -python3_7 -python3_8"
+
+Would you like to merge these packages? [Yes/No]
+&gt;&gt;&gt; Verifying ebuild manifests
+&gt;&gt;&gt; Emerging (1 of 3) dev-python/tqdm-4.66.5::python-modules-kit
+&gt;&gt;&gt; Installing (1 of 3) dev-python/tqdm-4.66.5::python-modules-kit
+&gt;&gt;&gt; Recording dev-python/tqdm in "world" favorites file...
+&gt;&gt;&gt; Emerging (2 of 3) dev-python/py-1.11.0-r1::python-modules-kit
+&gt;&gt;&gt; Installing (2 of 3) dev-python/py-1.11.0-r1::python-modules-kit
+&gt;&gt;&gt; Recording dev-python/py in "world" favorites file...
+&gt;&gt;&gt; Emerging (3 of 3) dev-python/python-dateutil-2.9.0_p0::python-modules-kit
+&gt;&gt;&gt; Installing (3 of 3) dev-python/python-dateutil-2.9.0_p0::python-modules-kit
+&gt;&gt;&gt; Recording dev-python/python-dateutil in "world" favorites file...
+&gt;&gt;&gt; Jobs: 3 of 3 complete                           Load avg: 0.49, 0.50, 0.57
+fchroot # python -c "ipython -c "import tqdm;print(tqdm.__version__)"
+4.66.5
+
+```
+for example tqdm uses setuptools_scm version: https://github.com/tqdm/tqdm/blob/master/pyproject.toml</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Merged
+                                        <span class="issue">#70 Take 3 on setuptools_scm package</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by cepelinas9000 in <span class="repo">macaroni-os/kit-fixups</span></div>
+                                    <div>1 file changed <span class="code">++34 --0</span></div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#70 Take 3 on setuptools_scm package</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by cepelinas9000 in <span class="repo">macaroni-os/kit-fixups</span></div>
+                                    <div class="comment">
+                                        <img class="gemoji" src="data:image/png;base64,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" height="16" width="16" alt="" />
+                                        Thank you very much for your help.
+This fix will push in the python-modules-kit when we fix an issue with metatools on correctly manage the new release
+                                        <code>mark</code>
+                                        .
                                     </div>
                                 </div>
                             </section>
@@ -807,7 +871,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 2.24m out of 217m repositories</span>
+                                    <span class="gh">ranked 2.24m out of 214m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 4 times</div>
                             </div>
@@ -876,7 +940,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 896k out of 217m repositories</span>
+                                    <span class="gh">ranked 896k out of 214m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 31 stars</div>
                             </div>
@@ -991,7 +1055,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 16 Aug 2024, 07:12:57 (timezone Europe/Rome) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 16 Aug 2024, 08:17:33 (timezone Europe/Rome) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
