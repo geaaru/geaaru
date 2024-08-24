@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1808" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1797" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}.gauge text,h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details,footer{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;flex-direction:column;justify-content:flex-end;padding:0 4px}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement .gh{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}code[class^=language-]{white-space:pre-wrap;width:97%;margin-top:4px}.token.comment{color:#690}.token.trimmed{font-style:italic;color:#77777760}.space{margin-left:7px}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}.gauge text,h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details,footer{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;flex-direction:column;justify-content:flex-end;padding:0 4px}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement .gh{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.gemoji{height:1em;width:1em;margin-bottom:-.125em}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            23679 Commits
+                            23680 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -94,7 +94,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                             </svg>
-                            619 issue comments
+                            620 issue comments
                         </div>
                     </section>
                     <section>
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    2.98m added, 780k removed
+                                    976k added, 309k removed
                                 </div>
                             </section>
                             <section>
@@ -301,6 +301,200 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 5 commits in
+                                        <span class="repo">macaroni-os/macaroni-funtoo</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">eagle</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#9241d87</div>
+                                        <div class="message">app-admin/cloud-init: Bump v.24.4</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#36b8166</div>
+                                        <div class="message">dev-util/lttng-tools: Bump v.2.13.14</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#73a6555</div>
+                                        <div class="message">net-dns/bind-tools: Bump v.9.20.1</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6808d30</div>
+                                        <div class="message">net-dns/bind: Bump v.9.20.1</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b8529ff</div>
+                                        <div class="message">net-misc/networkmanager: Bump v.1.48.8</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">macaroni-os/kit-fixups</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">mark-testing</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#313fa62</div>
+                                        <div class="message">Merge pull request #89 from cepelinas9000/dev_python_sip_autogen
+
+Updated sip autogen</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5ebd98c</div>
+                                        <div class="message">Updated sip autogen
+
+I modified curated directly, alhough setuptools_scm are in mark
+directory (maybe correct this time)
+
+as usual
+
+```bash
+ $ doit --release mark --pkg sip
+WARNING  dict key du_pep517 overwritten.
+WARNING  dict key du_pep517 overwritten.
+INFO     Autogen: dev-python/sip (latest)
+WARNING  dict key du_pep517 overwritten.
+INFO     Created: sip/sip-6.8.6.ebuild
+
+```
+using stage3-generic_64-v3-next-2024-07-15.tar.xz from funtoo as base
+
+```bash
+fchroot # USE="pcre16" emerge -avq setuptools_scm sip PyQt5
+
+ * IMPORTANT: config file '/etc/portage/package.use' needs updating.
+ * See the CONFIGURATION FILES and CONFIGURATION FILES UPDATE TOOLS
+ * sections of the emerge man page to learn how to update config files.
+[ebuild   R   ] dev-libs/libpcre2-10.35  USE="bzip2 jit pcre16* pcre32 readline recursion-limit unicode zlib -libedit -static-libs"
+[ebuild  N    ] www-client/lynx-2.9.2  USE="bzip2 ipv6 nls ssl unicode -cjk -gnutls -idn -libressl"
+[ebuild  N    ] dev-python/PyQt5-sip-12.15.0  PYTHON_TARGETS="python3_9 -python3_10 -python3_7 -python3_8"
+[ebuild  N    ] dev-python/PyQt-builder-1.16.4  PYTHON_TARGETS="python3_9 -python3_10 -python3_7 -python3_8"
+[ebuild   R   ] dev-python/setuptools_scm-8.1.0  USE="-test" PYTHON_TARGETS="python3_9 -python3_10 -python3_7 -python3_8"
+[ebuild  N    ] dev-libs/double-conversion-3.1.4-r1  USE="-static-libs -test"
+[ebuild  N    ] dev-python/sip-6.8.6  PYTHON_TARGETS="python3_9 -python3_10 -python3_7 -python3_8"
+[ebuild  N    ] app-text/xmlto-0.0.28-r4  USE="text -latex"
+[ebuild  N    ] dev-util/gdbus-codegen-2.70.0  PYTHON_SINGLE_TARGET="python3_9 -python2_7 -python3_10 -python3_7 -python3_8" PYTHON_TARGETS="python3_9 -python2_7 -python3_10 -python3_7 -python3_8"
+[ebuild  N    ] dev-libs/glib-2.70.0-r2  USE="mime static-libs xattr -dbus (-fam) -gtk-doc (-selinux) -systemtap -test"
+[ebuild  N    ] x11-misc/shared-mime-info-2.4
+[ebuild  N    ] dev-qt/qtcore-5.15.2_p20240716  USE="icu -debug -old-kernel -test"
+[ebuild  N    ] dev-qt/qtxml-5.15.2_p20240716  USE="-debug -test"
+[ebuild  N    ] dev-python/PyQt5-5.15.11  USE="ssl -bluetooth -dbus -debug -declarative -designer -examples -gles2-only -gui -help -location -multimedia -network -opengl -positioning -printsupport -sensors -serialport -speech -sql -svg -testlib -webchannel -websockets -widgets -x11extras -xmlpatterns" PYTHON_TARGETS="python3_9 -python3_10 -python3_7 -python3_8"
+
+Would you like to merge these packages? [Yes/No]
+&gt;&gt;&gt; Verifying ebuild manifests
+&gt;&gt;&gt; Running pre-merge checks for dev-qt/qtcore-5.15.2_p20240716
+&gt;&gt;&gt; Emerging (1 of 14) dev-libs/libpcre2-10.35::core-kit
+&gt;&gt;&gt; Installing (1 of 14) dev-libs/libpcre2-10.35::core-kit
+&gt;&gt;&gt; Emerging (2 of 14) www-client/lynx-2.9.2::browser-kit
+&gt;&gt;&gt; Installing (2 of 14) www-client/lynx-2.9.2::browser-kit
+&gt;&gt;&gt; Emerging (3 of 14) dev-python/PyQt5-sip-12.15.0::qt-kit
+&gt;&gt;&gt; Installing (3 of 14) dev-python/PyQt5-sip-12.15.0::qt-kit
+&gt;&gt;&gt; Emerging (4 of 14) dev-python/PyQt-builder-1.16.4::qt-kit
+&gt;&gt;&gt; Installing (4 of 14) dev-python/PyQt-builder-1.16.4::qt-kit
+&gt;&gt;&gt; Emerging (5 of 14) dev-python/setuptools_scm-8.1.0::python-modules-kit
+&gt;&gt;&gt; Installing (5 of 14) dev-python/setuptools_scm-8.1.0::python-modules-kit
+&gt;&gt;&gt; Emerging (6 of 14) dev-libs/double-conversion-3.1.4-r1::dev-kit
+&gt;&gt;&gt; Installing (6 of 14) dev-libs/double-conversion-3.1.4-r1::dev-kit
+&gt;&gt;&gt; Emerging (7 of 14) dev-python/sip-6.8.6::python-modules-kit
+&gt;&gt;&gt; Installing (7 of 14) dev-python/sip-6.8.6::python-modules-kit
+&gt;&gt;&gt; Recording dev-python/sip in "world" favorites file...
+&gt;&gt;&gt; Emerging (8 of 14) app-text/xmlto-0.0.28-r4::text-kit
+&gt;&gt;&gt; Installing (8 of 14) app-text/xmlto-0.0.28-r4::text-kit
+&gt;&gt;&gt; Emerging (9 of 14) dev-util/gdbus-codegen-2.70.0::gnome-kit
+&gt;&gt;&gt; Installing (9 of 14) dev-util/gdbus-codegen-2.70.0::gnome-kit
+&gt;&gt;&gt; Emerging (10 of 14) dev-libs/glib-2.70.0-r2::gnome-kit
+&gt;&gt;&gt; Installing (10 of 14) dev-libs/glib-2.70.0-r2::gnome-kit
+&gt;&gt;&gt; Emerging (11 of 14) x11-misc/shared-mime-info-2.4::desktop-kit
+&gt;&gt;&gt; Installing (11 of 14) x11-misc/shared-mime-info-2.4::desktop-kit
+&gt;&gt;&gt; Emerging (12 of 14) dev-qt/qtcore-5.15.2_p20240716::qt-kit
+&gt;&gt;&gt; Installing (12 of 14) dev-qt/qtcore-5.15.2_p20240716::qt-kit
+&gt;&gt;&gt; Emerging (13 of 14) dev-qt/qtxml-5.15.2_p20240716::qt-kit
+&gt;&gt;&gt; Installing (13 of 14) dev-qt/qtxml-5.15.2_p20240716::qt-kit
+&gt;&gt;&gt; Emerging (14 of 14) dev-python/PyQt5-5.15.11::qt-kit
+&gt;&gt;&gt; Installing (14 of 14) dev-python/PyQt5-5.15.11::qt-kit
+&gt;&gt;&gt; Recording dev-python/PyQt5 in "world" favorites file...
+&gt;&gt;&gt; Jobs: 14 of 14 complete                         Load avg: 11.2, 9.6, 5.3
+
+ * Messages for package dev-libs/libpcre2-10.35:
+
+ * gen_usr_ldscript: Please migrate to usr-ldscript.eclass
+
+ * Messages for package dev-util/gdbus-codegen-2.70.0:
+
+ * Peforming directory PKG-INFO fix-up for /var/tmp/portage/dev-util/gdbus-codegen-2.70.0/image/usr/lib/python3.9/site-packages/gdbus_codegen-2.70.0-py3.9.egg-info...
+
+ * Messages for package dev-qt/qtcore-5.15.2_p20240716:
+
+ * Generated gentoo-qconfig.h is empty
+
+ * Messages for package dev-qt/qtxml-5.15.2_p20240716:
+
+ * Generated gentoo-qconfig.h is empty
+
+ * IMPORTANT: config file '/etc/portage/package.use' needs updating.
+ * See the CONFIGURATION FILES and CONFIGURATION FILES UPDATE TOOLS
+ * sections of the emerge man page to learn how to update config files.
+```
+
+Closes: macaroni-os/mark-issues#25</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Merged
+                                        <span class="issue">#89 Updated sip autogen</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by cepelinas9000 in <span class="repo">macaroni-os/kit-fixups</span></div>
+                                    <div>1 file changed <span class="code">++6 --4</span></div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#89 Updated sip autogen</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by cepelinas9000 in <span class="repo">macaroni-os/kit-fixups</span></div>
+                                    <div class="comment">
+                                        Thank you!
+                                        <img class="gemoji" src="data:image/png;base64,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" height="16" width="16" alt="" />
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 2 commits in
                                         <span class="repo">macaroni-os/macaroni-funtoo</span>
                                     </div>
@@ -314,94 +508,6 @@
                                     <div class="commit">
                                         <div class="sha">#a8ae886</div>
                                         <div class="message">pkglist/macaroni-funtoo-race7: Bump v.0.20240824</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#87 [bugfix] [kernel] Fix `genkernel` cache and bump kernel to `debian-sources-6.10.4_p1`, following trixie</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by cuantar in <span class="repo">macaroni-os/kit-fixups</span></div>
-                                    <div class="comment">The merge branch is not usable, the two trees will be soon different and already have differences. So, to do a single cherry-pick is lovely more faster for me :).</div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#87 [bugfix] [kernel] Fix `genkernel` cache and bump kernel to `debian-sources-6.10.4_p1`, following trixie</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by cuantar in <span class="repo">macaroni-os/kit-fixups</span></div>
-                                    <div class="comment">
-                                        Yeah, at the moment is the best way because I'm trying to keep things aligned between
-                                        <code>master</code>
-                                        and
-                                        <code>mark-testing</code>
-                                        branches with cherry-pick. When we have stabilized the mark release probably
-                                        <code>next</code>
-                                        branch will probably be updated less.
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">macaroni-os/macaroni-funtoo</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">eagle</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#c698941</div>
-                                        <div class="message">dev-python/automat: Bump v.24.8.1+1</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#87 [bugfix] [kernel] Fix `genkernel` cache and bump kernel to `debian-sources-6.10.4_p1`, following trixie</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by cuantar in <span class="repo">macaroni-os/kit-fixups</span></div>
-                                    <div class="comment">
-                                        I think that you can rebase the branch that you generate this PR with:
-                                        <code class="language-multiline" xml:space="preserve">$&gt; git log -n3 
-$&gt; # read git hash of the third commit
-<span class="token trimmed">(1 more line was trimmed)</span></code>
-                                        on textual editor:
-                                        <code class="language-multiline" xml:space="preserve">r  [bugfix] [kernel] ...
-fixup  [bugfix] ...</code>
-                                        This will merge the two commits with a more simple commit. The first commit contains a command that is later removed. It doesn't make sense to have a history of the commit in this case. If you reference the PR the history will be here.
                                     </div>
                                 </div>
                             </section>
@@ -799,7 +905,7 @@ fixup  [bugfix] ...</code>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 2.24m out of 218m repositories</span>
+                                    <span class="gh">ranked 2.24m out of 217m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 4 times</div>
                             </div>
@@ -868,7 +974,7 @@ fixup  [bugfix] ...</code>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 899k out of 218m repositories</span>
+                                    <span class="gh">ranked 899k out of 217m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 31 stars</div>
                             </div>
@@ -983,7 +1089,7 @@ fixup  [bugfix] ...</code>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 24 Aug 2024, 22:13:45 (timezone Europe/Rome) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 24 Aug 2024, 23:11:22 (timezone Europe/Rome) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
