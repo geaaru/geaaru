@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1790" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1773" class="">
     <defs>
         <style/>
     </defs>
@@ -23,25 +23,25 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                             </svg>
-                            Followed by 28 users
+                            Followed by 29 users
                         </div>
                     </section>
                     <section>
                         <div class="field calendar">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
-                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="15" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            23681 Commits
+                            23682 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    2.06m added, 521k removed
+                                    1.50m added, 340k removed
                                 </div>
                             </section>
                             <section>
@@ -301,6 +301,26 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">macaroni-os/gpu-configurator</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#9b933ae</div>
+                                        <div class="message">After disable/active kernel module runs depmod</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 2 commits in
                                         <span class="repo">macaroni-os/macaroni-funtoo</span>
                                     </div>
@@ -397,127 +417,6 @@ Need &gt;=linux-headers-6.1</div>
                                     <div class="commit">
                                         <div class="sha">#b8529ff</div>
                                         <div class="message">net-misc/networkmanager: Bump v.1.48.8</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">macaroni-os/kit-fixups</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">mark-testing</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#313fa62</div>
-                                        <div class="message">Merge pull request #89 from cepelinas9000/dev_python_sip_autogen
-
-Updated sip autogen</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5ebd98c</div>
-                                        <div class="message">Updated sip autogen
-
-I modified curated directly, alhough setuptools_scm are in mark
-directory (maybe correct this time)
-
-as usual
-
-```bash
- $ doit --release mark --pkg sip
-WARNING  dict key du_pep517 overwritten.
-WARNING  dict key du_pep517 overwritten.
-INFO     Autogen: dev-python/sip (latest)
-WARNING  dict key du_pep517 overwritten.
-INFO     Created: sip/sip-6.8.6.ebuild
-
-```
-using stage3-generic_64-v3-next-2024-07-15.tar.xz from funtoo as base
-
-```bash
-fchroot # USE="pcre16" emerge -avq setuptools_scm sip PyQt5
-
- * IMPORTANT: config file '/etc/portage/package.use' needs updating.
- * See the CONFIGURATION FILES and CONFIGURATION FILES UPDATE TOOLS
- * sections of the emerge man page to learn how to update config files.
-[ebuild   R   ] dev-libs/libpcre2-10.35  USE="bzip2 jit pcre16* pcre32 readline recursion-limit unicode zlib -libedit -static-libs"
-[ebuild  N    ] www-client/lynx-2.9.2  USE="bzip2 ipv6 nls ssl unicode -cjk -gnutls -idn -libressl"
-[ebuild  N    ] dev-python/PyQt5-sip-12.15.0  PYTHON_TARGETS="python3_9 -python3_10 -python3_7 -python3_8"
-[ebuild  N    ] dev-python/PyQt-builder-1.16.4  PYTHON_TARGETS="python3_9 -python3_10 -python3_7 -python3_8"
-[ebuild   R   ] dev-python/setuptools_scm-8.1.0  USE="-test" PYTHON_TARGETS="python3_9 -python3_10 -python3_7 -python3_8"
-[ebuild  N    ] dev-libs/double-conversion-3.1.4-r1  USE="-static-libs -test"
-[ebuild  N    ] dev-python/sip-6.8.6  PYTHON_TARGETS="python3_9 -python3_10 -python3_7 -python3_8"
-[ebuild  N    ] app-text/xmlto-0.0.28-r4  USE="text -latex"
-[ebuild  N    ] dev-util/gdbus-codegen-2.70.0  PYTHON_SINGLE_TARGET="python3_9 -python2_7 -python3_10 -python3_7 -python3_8" PYTHON_TARGETS="python3_9 -python2_7 -python3_10 -python3_7 -python3_8"
-[ebuild  N    ] dev-libs/glib-2.70.0-r2  USE="mime static-libs xattr -dbus (-fam) -gtk-doc (-selinux) -systemtap -test"
-[ebuild  N    ] x11-misc/shared-mime-info-2.4
-[ebuild  N    ] dev-qt/qtcore-5.15.2_p20240716  USE="icu -debug -old-kernel -test"
-[ebuild  N    ] dev-qt/qtxml-5.15.2_p20240716  USE="-debug -test"
-[ebuild  N    ] dev-python/PyQt5-5.15.11  USE="ssl -bluetooth -dbus -debug -declarative -designer -examples -gles2-only -gui -help -location -multimedia -network -opengl -positioning -printsupport -sensors -serialport -speech -sql -svg -testlib -webchannel -websockets -widgets -x11extras -xmlpatterns" PYTHON_TARGETS="python3_9 -python3_10 -python3_7 -python3_8"
-
-Would you like to merge these packages? [Yes/No]
-&gt;&gt;&gt; Verifying ebuild manifests
-&gt;&gt;&gt; Running pre-merge checks for dev-qt/qtcore-5.15.2_p20240716
-&gt;&gt;&gt; Emerging (1 of 14) dev-libs/libpcre2-10.35::core-kit
-&gt;&gt;&gt; Installing (1 of 14) dev-libs/libpcre2-10.35::core-kit
-&gt;&gt;&gt; Emerging (2 of 14) www-client/lynx-2.9.2::browser-kit
-&gt;&gt;&gt; Installing (2 of 14) www-client/lynx-2.9.2::browser-kit
-&gt;&gt;&gt; Emerging (3 of 14) dev-python/PyQt5-sip-12.15.0::qt-kit
-&gt;&gt;&gt; Installing (3 of 14) dev-python/PyQt5-sip-12.15.0::qt-kit
-&gt;&gt;&gt; Emerging (4 of 14) dev-python/PyQt-builder-1.16.4::qt-kit
-&gt;&gt;&gt; Installing (4 of 14) dev-python/PyQt-builder-1.16.4::qt-kit
-&gt;&gt;&gt; Emerging (5 of 14) dev-python/setuptools_scm-8.1.0::python-modules-kit
-&gt;&gt;&gt; Installing (5 of 14) dev-python/setuptools_scm-8.1.0::python-modules-kit
-&gt;&gt;&gt; Emerging (6 of 14) dev-libs/double-conversion-3.1.4-r1::dev-kit
-&gt;&gt;&gt; Installing (6 of 14) dev-libs/double-conversion-3.1.4-r1::dev-kit
-&gt;&gt;&gt; Emerging (7 of 14) dev-python/sip-6.8.6::python-modules-kit
-&gt;&gt;&gt; Installing (7 of 14) dev-python/sip-6.8.6::python-modules-kit
-&gt;&gt;&gt; Recording dev-python/sip in "world" favorites file...
-&gt;&gt;&gt; Emerging (8 of 14) app-text/xmlto-0.0.28-r4::text-kit
-&gt;&gt;&gt; Installing (8 of 14) app-text/xmlto-0.0.28-r4::text-kit
-&gt;&gt;&gt; Emerging (9 of 14) dev-util/gdbus-codegen-2.70.0::gnome-kit
-&gt;&gt;&gt; Installing (9 of 14) dev-util/gdbus-codegen-2.70.0::gnome-kit
-&gt;&gt;&gt; Emerging (10 of 14) dev-libs/glib-2.70.0-r2::gnome-kit
-&gt;&gt;&gt; Installing (10 of 14) dev-libs/glib-2.70.0-r2::gnome-kit
-&gt;&gt;&gt; Emerging (11 of 14) x11-misc/shared-mime-info-2.4::desktop-kit
-&gt;&gt;&gt; Installing (11 of 14) x11-misc/shared-mime-info-2.4::desktop-kit
-&gt;&gt;&gt; Emerging (12 of 14) dev-qt/qtcore-5.15.2_p20240716::qt-kit
-&gt;&gt;&gt; Installing (12 of 14) dev-qt/qtcore-5.15.2_p20240716::qt-kit
-&gt;&gt;&gt; Emerging (13 of 14) dev-qt/qtxml-5.15.2_p20240716::qt-kit
-&gt;&gt;&gt; Installing (13 of 14) dev-qt/qtxml-5.15.2_p20240716::qt-kit
-&gt;&gt;&gt; Emerging (14 of 14) dev-python/PyQt5-5.15.11::qt-kit
-&gt;&gt;&gt; Installing (14 of 14) dev-python/PyQt5-5.15.11::qt-kit
-&gt;&gt;&gt; Recording dev-python/PyQt5 in "world" favorites file...
-&gt;&gt;&gt; Jobs: 14 of 14 complete                         Load avg: 11.2, 9.6, 5.3
-
- * Messages for package dev-libs/libpcre2-10.35:
-
- * gen_usr_ldscript: Please migrate to usr-ldscript.eclass
-
- * Messages for package dev-util/gdbus-codegen-2.70.0:
-
- * Peforming directory PKG-INFO fix-up for /var/tmp/portage/dev-util/gdbus-codegen-2.70.0/image/usr/lib/python3.9/site-packages/gdbus_codegen-2.70.0-py3.9.egg-info...
-
- * Messages for package dev-qt/qtcore-5.15.2_p20240716:
-
- * Generated gentoo-qconfig.h is empty
-
- * Messages for package dev-qt/qtxml-5.15.2_p20240716:
-
- * Generated gentoo-qconfig.h is empty
-
- * IMPORTANT: config file '/etc/portage/package.use' needs updating.
- * See the CONFIGURATION FILES and CONFIGURATION FILES UPDATE TOOLS
- * sections of the emerge man page to learn how to update config files.
-```
-
-Closes: macaroni-os/mark-issues#25</div>
                                     </div>
                                 </div>
                             </section>
@@ -797,7 +696,7 @@ Closes: macaroni-os/mark-issues#25</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="21.030150753768844 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="21.809045226130653 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" stroke-width="2" fill="none" fill-rule="evenodd">
@@ -834,9 +733,9 @@ Closes: macaroni-os/mark-issues#25</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 516k out of 142m users</span>
+                                    <span class="gh">ranked 496k out of 142m users</span>
                                 </div>
-                                <div class="text">Followed by 28 users</div>
+                                <div class="text">Followed by 29 users</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -1099,7 +998,7 @@ Closes: macaroni-os/mark-issues#25</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 25 Aug 2024, 01:12:43 (timezone Europe/Rome) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 25 Aug 2024, 03:03:24 (timezone Europe/Rome) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
