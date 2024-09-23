@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    534k added, 69.8k removed
+                                    28.6k added, 25.9k removed
                                 </div>
                             </section>
                             <section>
@@ -294,6 +294,26 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">macaroni-os/macaroni-funtoo</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">phoenix</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#34dcaf1</div>
+                                        <div class="message">kernel-5.4/virtualbox-guest-additions: Bump v.7.1.0.164728+1</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -479,99 +499,6 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">macaroni-os/kit-fixups</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">mark-testing</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#36dac86</div>
-                                        <div class="message">Summary
-========
-* fixed autogen
-* fixed template
-* Closes: macaroni-os/mark-issues#132
-
-Test Plan
-========
-* Doit
-```
-INFO     Autogen: dev-python/pefile (latest)
-INFO     Autogen: sys-apps/fwupd (latest)
-INFO     Autogen: sys-apps/fwupd-efi (latest)
-INFO     Created: ../../dev-python/pefile/pefile-2024.8.26.ebuild
-INFO     Created: fwupd-1.9.24.ebuild
-INFO     Download from https://github.com/fwupd/fwupd-efi/tarball/03545b505ac821c967e0868be22aa9a55e77981d verified as valid tar.gz archive.
-INFO     Created: ../fwupd-efi/fwupd-efi-1.7.ebuild
-```
-* Make it available in a own repo tree or by seeding into a local overlay
-* Emerge it
-```
-Updating profiles at /etc/portage/make.profile/parent...
-Sync successful and kits in alignment! :)
-workstation-funmore-repo ~ # emerge -av sys-apps/fwupd
-
-These are the packages that would be merged, in order:
-
-Calculating dependencies... done!
-[ebuild  N     ] sys-boot/gnu-efi-3.0.18::core-kit  USE="(-custom-cflags)" 164 KiB
-[ebuild  N     ] dev-python/pefile-2024.8.26::core-hw-kit  PYTHON_TARGETS="python3_9 -python3_10 -python3_7 -python3_8" 75 KiB
-[ebuild  N     ] dev-libs/libjcat-0.2.1::core-kit  USE="gpg introspection man pkcs7 -gtk-doc -test -vala" 75 KiB
-[ebuild  N     ] dev-libs/libxmlb-0.3.19:0/2::dev-kit  USE="introspection -doc -stemmer -test" 129 KiB
-[ebuild  N     ] sys-libs/libsmbios-2.4.2::core-kit  USE="nls python -doc -graphviz -static-libs -test" PYTHON_SINGLE_TARGET="python3_9 -python3_10 -python3_7 -python3_8" PYTHON_TARGETS="python3_9 -python3_10 -python3_7 -python3_8" 653 KiB
-[ebuild  N     ] sys-apps/fwupd-efi-1.7::core-hw-kit  44 KiB
-[ebuild  N     ] sys-apps/fwupd-1.9.24::core-hw-kit  USE="dell elogind gnutls introspection man policykit sqlite uefi -amt -archive -bash-completion -bluetooth -fastboot -flashrom -gtk-doc -gusb -logitech -lzma -minimal -modemmanager -nvme -spi -synaptics -test -thunderbolt -tpm" PYTHON_SINGLE_TARGET="python3_9 -python3_10 -python3_7 -python3_8" PYTHON_TARGETS="python3_9 -python3_10 -python3_7 -python3_8" 5,464 KiB
-
-Total: 7 packages (7 new), Size of downloads: 6,601 KiB
-
-Would you like to merge these packages? [Yes/No]
-&gt;&gt;&gt; Verifying ebuild manifests
-&gt;&gt;&gt; Emerging (1 of 7) sys-boot/gnu-efi-3.0.18::core-kit
-&gt;&gt;&gt; Installing (1 of 7) sys-boot/gnu-efi-3.0.18::core-kit
-&gt;&gt;&gt; Emerging (2 of 7) dev-python/pefile-2024.8.26::core-hw-kit
-&gt;&gt;&gt; Installing (2 of 7) dev-python/pefile-2024.8.26::core-hw-kit
-&gt;&gt;&gt; Emerging (3 of 7) dev-libs/libjcat-0.2.1::core-kit
-&gt;&gt;&gt; Installing (3 of 7) dev-libs/libjcat-0.2.1::core-kit
-&gt;&gt;&gt; Emerging (4 of 7) dev-libs/libxmlb-0.3.19::dev-kit
-&gt;&gt;&gt; Installing (4 of 7) dev-libs/libxmlb-0.3.19::dev-kit
-&gt;&gt;&gt; Emerging (5 of 7) sys-libs/libsmbios-2.4.2::core-kit
-&gt;&gt;&gt; Installing (5 of 7) sys-libs/libsmbios-2.4.2::core-kit
-&gt;&gt;&gt; Emerging (6 of 7) sys-apps/fwupd-efi-1.7::core-hw-kit
-&gt;&gt;&gt; Installing (6 of 7) sys-apps/fwupd-efi-1.7::core-hw-kit
-&gt;&gt;&gt; Emerging (7 of 7) sys-apps/fwupd-1.9.24::core-hw-kit
-&gt;&gt;&gt; Installing (7 of 7) sys-apps/fwupd-1.9.24::core-hw-kit
-&gt;&gt;&gt; Recording sys-apps/fwupd in "world" favorites file...
-&gt;&gt;&gt; Jobs: 7 of 7 complete                           Load avg: 2.95, 1.14, 0.43
-&gt;&gt;&gt; Auto-cleaning packages...
-
-&gt;&gt;&gt; No outdated packages were found on your system.
-
- * GNU info directory index is up-to-date.
-
-```
-* Running it
-```
-workstation-funmore-repo ~ # fwupdtool --version
-Loading…                 [************************************** ]
-compile   org.freedesktop.fwupd         1.9.24
-compile   com.hughsie.libxmlb           0.3.19
-compile   com.hughsie.libjcat           0.2.1
-runtime   com.hughsie.libxmlb           0.3.19
-runtime   com.hughsie.libjcat           0.2.1
-runtime   org.kernel                    6.10.7_p1-debian-sources
-runtime   org.freedesktop.fwupd         1.9.24</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -633,7 +560,7 @@ runtime   org.freedesktop.fwupd         1.9.24</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="64.54620123203287 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="62 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -996,7 +923,7 @@ runtime   org.freedesktop.fwupd         1.9.24</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 2.25m out of 221m repositories</span>
+                                    <span class="gh">ranked 2.25m out of 218m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 4 times</div>
                             </div>
@@ -1034,7 +961,7 @@ runtime   org.freedesktop.fwupd         1.9.24</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 908k out of 221m repositories</span>
+                                    <span class="gh">ranked 908k out of 218m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 31 stars</div>
                             </div>
@@ -1149,7 +1076,7 @@ runtime   org.freedesktop.fwupd         1.9.24</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 23 Sept 2024, 17:14:51 (timezone Europe/Rome) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 23 Sept 2024, 18:16:41 (timezone Europe/Rome) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
