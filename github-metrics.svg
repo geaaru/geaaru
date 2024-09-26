@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            24353 Commits
+                            24362 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    527k added, 68.2k removed
+                                    1.02m added, 299k removed
                                 </div>
                             </section>
                             <section>
@@ -301,6 +301,127 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 33 commits in
+                                        <span class="repo">MottainaiCI/mottainai-server</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">develop</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#466f64d</div>
+                                        <div class="message">tasks: Add logs on TaskManager</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#828f64d</div>
+                                        <div class="message">mottainai-scheduler: Remove task in queue completed if the agent fails on remove</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8d1eac7</div>
+                                        <div class="message">executor: Remove task from in_waiting queue when task is in progress</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#583ca3b</div>
+                                        <div class="message">client: Add method QueueDelTaskInWaiting</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5d991fb</div>
+                                        <div class="message">task-manager: Add workaround for races on remove tasks from nodequeue</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#caed830</div>
+                                        <div class="message">go.sum: Cleanup</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e85a95c</div>
+                                        <div class="message">go modules cleanup</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#73bc0b3</div>
+                                        <div class="message">.github/workflows: Move to go 1.19 and update jobs</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#68323f3</div>
+                                        <div class="message">Update vendor google.golang.org/grpc@v1.56.0</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#05d2a0a</div>
+                                        <div class="message">Update vendor github.com/MottainaiCI/lxd-compose@d928eed0eddfde18d58fe3a8ae780328c1b0d55c</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c6a43a7</div>
+                                        <div class="message">Update vendor github.com/spf13/viper@v1.16.0</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c231104</div>
+                                        <div class="message">Update vendor github.com/spf13/cobra@v1.7.0</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b03561d</div>
+                                        <div class="message">Update vendor github.com/docker/docker@v23.0.2+incompatible, k8s.io/api@v0.26.2</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5732472</div>
+                                        <div class="message">Update vendor github.com/MottainaiCI/lxd-compose@v0.34.0</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f48d9bc</div>
+                                        <div class="message">Run go mod tidy</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f4d07c1</div>
+                                        <div class="message">Move to canonical/lxd</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e396ea5</div>
+                                        <div class="message">canonical/lxd: Apply patch for Incus</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5525795</div>
+                                        <div class="message">Update vendor and move to go 1.22
+
+* vendor github.com/MottainaiCI/lxd-compose@v0.33.1
+* vendor github.com/containerd/containerd@v1.7.12
+* vendor github.com/docker/docker@v24.0.9+incompatible
+* vendor github.com/fsouza/go-dockerclient@v1.9.4
+* vendor github.com/spf13/cobra@v1.8.0
+* vendor github.com/spf13/viper@v1.18.2
+* vendor github.com/containerd/cgroups@v1.1.0
+* vendor github.com/sirupsen/logrus@v1.9.3
+* vendor golang.org/x/crypto@v0.23.0
+* vendor golang.org/x/oauth2@v0.20.0</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b8f5557</div>
+                                        <div class="message">Merge pull request #112 from MottainaiCI/dependabot/go_modules/github.com/docker/docker-20.10.24incompatible
+
+build(deps): bump github.com/docker/docker from 20.10.21+incompatible to 20.10.24+incompatible</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d717758</div>
+                                        <div class="message">build(deps): bump github.com/docker/docker
+
+Bumps [github.com/docker/docker](https://github.com/docker/docker) from 20.10.21+incompatible to 20.10.24+incompatible.
+- [Release notes](https://github.com/docker/docker/releases)
+- [Commits](https://github.com/docker/docker/compare/v20.10.21...v20.10.24)
+
+---
+updated-dependencies:
+- dependency-name: github.com/docker/docker
+  dependency-type: indirect
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 1 commit in
                                         <span class="repo">macaroni-os/macaroni-funtoo</span>
                                     </div>
@@ -374,102 +495,6 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 115 commits in
-                                        <span class="repo">macaroni-os/macaroni-funtoo</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">terragon</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#26a3989</div>
-                                        <div class="message">sys-libs/readline: Bump v.8.2.13+1</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9210b37</div>
-                                        <div class="message">sys-libs/zlib: Bump v.1.3.1+1</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#781a37d</div>
-                                        <div class="message">virtual/acl: Bump v.0+1</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9cf83f5</div>
-                                        <div class="message">virtual/awk: Bump v.1+1</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7748933</div>
-                                        <div class="message">virtual/libc: Bump v.1+1</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c3a6a84</div>
-                                        <div class="message">virtual/libiconv: Bump v.0+1</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4cb078b</div>
-                                        <div class="message">virtual/libintl: Bump v.0+1</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#969ef05</div>
-                                        <div class="message">virtual/pam: Bump v.0+1</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#63adcfe</div>
-                                        <div class="message">virtual/shadow: Bump v.0+1</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ea12e30</div>
-                                        <div class="message">virtual/tmpfiles: Bump v.2+1</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c086e47</div>
-                                        <div class="message">sys-devel-11.3.0/gcc: Dropped</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1c5367a</div>
-                                        <div class="message">dev-lang-3.7/python: Dropped</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d878541</div>
-                                        <div class="message">app-editors/nano: Bump v.8.2</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#deb00f7</div>
-                                        <div class="message">app-shells/bash: Bump v.5.2.37</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#65fcc4a</div>
-                                        <div class="message">dev-lang-3.9/python: Bump v.3.9.20</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3e35e83</div>
-                                        <div class="message">net-libs/gnutls: Bump v.3.7.11</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e5dea0e</div>
-                                        <div class="message">net-misc/curl: Bump v.8.10.1</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#355a955</div>
-                                        <div class="message">sys-kernel/linux-headers: Bump v.6.9</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0be5342</div>
-                                        <div class="message">virtual/base: Bump v.1+2</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1dc6e67</div>
-                                        <div class="message">portage-converter: Update seed/funtoo-base layer</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -531,7 +556,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="62.16974674880219 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="62.25462012320331 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -624,7 +649,7 @@
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     developer
-                                    <span class="gh">ranked 318k out of 145m users</span>
+                                    <span class="gh">ranked 318k out of 143m users</span>
                                 </div>
                                 <div class="text">Published 78 public repositories</div>
                             </div>
@@ -782,7 +807,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 506k out of 145m users</span>
+                                    <span class="gh">ranked 506k out of 143m users</span>
                                 </div>
                                 <div class="text">Followed by 29 users</div>
                             </div>
@@ -894,7 +919,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 2.25m out of 219m repositories</span>
+                                    <span class="gh">ranked 2.25m out of 215m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 4 times</div>
                             </div>
@@ -932,7 +957,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 909k out of 219m repositories</span>
+                                    <span class="gh">ranked 909k out of 215m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 31 stars</div>
                             </div>
@@ -1088,7 +1113,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 26 Sept 2024, 17:15:03 (timezone Europe/Rome) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 26 Sept 2024, 18:17:11 (timezone Europe/Rome) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
