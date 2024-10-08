@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1833" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1917" class="">
     <defs>
         <style/>
     </defs>
@@ -51,7 +51,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1 2.5A2.5 2.5 0 013.5 0h8.75a.75.75 0 01.75.75v3.5a.75.75 0 01-1.5 0V1.5h-8a1 1 0 00-1 1v6.708A2.492 2.492 0 013.5 9h3.25a.75.75 0 010 1.5H3.5a1 1 0 100 2h5.75a.75.75 0 010 1.5H3.5A2.5 2.5 0 011 11.5v-9zm13.23 7.79a.75.75 0 001.06-1.06l-2.505-2.505a.75.75 0 00-1.06 0L9.22 9.229a.75.75 0 001.06 1.061l1.225-1.224v6.184a.75.75 0 001.5 0V9.066l1.224 1.224z"/>
                             </svg>
-                            Contributed to 44 repositories
+                            Contributed to 45 repositories
                         </div>
                     </section>
                 </div>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            24443 Commits
+                            24444 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -88,7 +88,7 @@
                                 <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                 <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                             </svg>
-                            133 Issues opened
+                            134 Issues opened
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    25.7k added, 25.7k removed
+                                    542k added, 70k removed
                                 </div>
                             </section>
                             <section>
@@ -225,14 +225,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="292.4984923589369" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="292.4984923589369" y="0" width="141.844211362823" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="434.3427037217599" y="0" width="10.103928602628086" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="444.44663232438796" y="0" width="8.267086363879738" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="452.7137186882677" y="0" width="2.1965625783762" height="8" fill="#0298c3"/>
-                    <rect mask="url(#languages-bar)" x="454.9102812666439" y="0" width="2.0128945581202675" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="456.92317582476414" y="0" width="1.608533248416977" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="458.5317090731811" y="0" width="1.468290926818821" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="292.5020029542805" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="292.5020029542805" y="0" width="141.84123850822044" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="434.34324146250094" y="0" width="10.103716838535906" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="444.44695830103683" y="0" width="8.266913097410065" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="452.7138713984469" y="0" width="2.1965165415227528" height="8" fill="#0298c3"/>
+                    <rect mask="url(#languages-bar)" x="454.91038793996967" y="0" width="2.0128523706894654" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="456.92324031065914" y="0" width="1.608499535828885" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="458.53173984648805" y="0" width="1.4682601535119815" height="8" fill="#427819"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -294,6 +294,42 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 5 commits in
+                                        <span class="repo">macaroni-os/macaroni-funtoo</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">eagle</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#5c91cfa</div>
+                                        <div class="message">dev-python/idna: Bump v.3.10</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a801eb6</div>
+                                        <div class="message">dev-python/setuptools-rust: Bump v.1.10.2</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ae392a9</div>
+                                        <div class="message">dev-python/sphinx_rtd_theme: Bump v.3.0.0</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e8879f1</div>
+                                        <div class="message">dev-python/trove-classifiers: Bump v.2024.9.12</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9087a0a</div>
+                                        <div class="message">dev-python/zipp: Bump v.3.20.2</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -388,23 +424,6 @@
                                 <div class="details">
                                     <div>opened by geaaru in <span class="repo">macaroni-os/mark-issues</span></div>
                                     <div class="comment">With https://github.com/macaroni-os/mark-issues/issues/149 we have all needed services.</div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path d="M11.28 6.78a.75.75 0 00-1.06-1.06L7.25 8.69 5.78 7.22a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l3.5-3.5z"/>
-                                        <path fill-rule="evenodd" d="M16 8A8 8 0 110 8a8 8 0 0116 0zm-1.5 0a6.5 6.5 0 11-13 0 6.5 6.5 0 0113 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Closed
-                                        <span class="issue">#76 [infra] Setup CDN77 resources and services <img class="gemoji" src="data:image/png;base64,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" height="16" width="16" alt="" /></span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened  in <span class="repo">macaroni-os/mark-issues</span></div>
                                 </div>
                             </section>
                         </div>
@@ -562,7 +581,7 @@
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     developer
-                                    <span class="gh">ranked 320k out of 146m users</span>
+                                    <span class="gh">ranked 320k out of 144m users</span>
                                 </div>
                                 <div class="text">Published 78 public repositories</div>
                             </div>
@@ -720,7 +739,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 490k out of 146m users</span>
+                                    <span class="gh">ranked 490k out of 144m users</span>
                                 </div>
                                 <div class="text">Followed by 30 users</div>
                             </div>
@@ -832,7 +851,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 2.26m out of 215m repositories</span>
+                                    <span class="gh">ranked 2.26m out of 224m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 4 times</div>
                             </div>
@@ -870,7 +889,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 913k out of 215m repositories</span>
+                                    <span class="gh">ranked 913k out of 224m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 31 stars</div>
                             </div>
@@ -1026,7 +1045,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 8 Oct 2024, 14:26:43 (timezone Europe/Rome) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 8 Oct 2024, 15:21:39 (timezone Europe/Rome) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
