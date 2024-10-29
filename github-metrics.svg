@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1803" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1801" class="">
     <defs>
         <style/>
     </defs>
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    1.52m added, 477k removed
+                                    533k added, 71.5k removed
                                 </div>
                             </section>
                             <section>
@@ -302,6 +302,27 @@
                                     </svg>
                                     <div class="content">
                                         Commented on
+                                        <span class="issue">#185 [core-kit] `app-emulation/libvirt-10.8.0` does not compile</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by cuantar in <span class="repo">macaroni-os/mark-issues</span></div>
+                                    <div class="comment">@cuantar The problem is that this option:
+https://github.com/macaroni-os/core-kit/blob/mark-testing/app-emulation/libvirt/templates/libvirt.tmpl#L252
+is no more available between meson_options.
+See https://github.com/libvirt/libvirt/commit/d96e753d843921fde6575a691b166a54e3474e64. We need to replace yajl option with json-c.
+It isn't related to the installation of the package yajl in the system.</div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
                                         <span class="issue">#63 [media-sound/mpd] Missing RDEPEND</span>
                                     </div>
                                 </div>
@@ -415,29 +436,6 @@ lsusb (usbutils) 018
                                 <div class="details">
                                     <div>opened by cuantar in <span class="repo">macaroni-os/mark-issues</span></div>
                                     <div class="comment">In addition to the macaroni-funtoo patch we need this: https://github.com/MusicPlayerDaemon/MPD/commit/1402869715e3efca87942d79c3173a6b21a6925d</div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#10 Add purge of the `edb` Portage cache after the sync and update the world file</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by geaaru in <span class="repo">macaroni-os/anise-portage-converter</span></div>
-                                    <div class="comment">
-                                        The
-                                        <code>anise-portage-converter portage-cache --update|--purge</code>
-                                        command could automatically called by
-                                        <code>anise</code>
-                                        if we add a feature that permit to define hooks to run at the end of the installation process.
-                                    </div>
                                 </div>
                             </section>
                         </div>
@@ -595,7 +593,7 @@ lsusb (usbutils) 018
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     developer
-                                    <span class="gh">ranked 323k out of 145m users</span>
+                                    <span class="gh">ranked 323k out of 147m users</span>
                                 </div>
                                 <div class="text">Published 78 public repositories</div>
                             </div>
@@ -753,7 +751,7 @@ lsusb (usbutils) 018
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 499k out of 145m users</span>
+                                    <span class="gh">ranked 499k out of 147m users</span>
                                 </div>
                                 <div class="text">Followed by 30 users</div>
                             </div>
@@ -857,7 +855,7 @@ lsusb (usbutils) 018
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 898k out of 226m repositories</span>
+                                    <span class="gh">ranked 898k out of 221m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 32 stars</div>
                             </div>
@@ -903,7 +901,7 @@ lsusb (usbutils) 018
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 2.27m out of 226m repositories</span>
+                                    <span class="gh">ranked 2.27m out of 221m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 4 times</div>
                             </div>
@@ -1059,7 +1057,7 @@ lsusb (usbutils) 018
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 29 Oct 2024, 20:12:20 (timezone Europe/Rome) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 29 Oct 2024, 21:15:21 (timezone Europe/Rome) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
