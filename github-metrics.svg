@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1785" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2101" class="">
     <defs>
         <style/>
     </defs>
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    993k added, 315k removed
+                                    1.53m added, 481k removed
                                 </div>
                             </section>
                             <section>
@@ -301,6 +301,102 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 53 commits in
+                                        <span class="repo">macaroni-os/macaroni-funtoo</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">eagle</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#07bc07f</div>
+                                        <div class="message">virtual/perl-ExtUtils-CBuilder: Bump v.0.280.234+1</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2eca2a2</div>
+                                        <div class="message">virtual/perl-ExtUtils-Install: Bump v.2.140.0+1</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a3848a1</div>
+                                        <div class="message">virtual/perl-ExtUtils-MakeMaker: Bump v.7.440.0+1</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0345a22</div>
+                                        <div class="message">virtual/perl-ExtUtils-Manifest: Bump v.1.720.0+1</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#664b90f</div>
+                                        <div class="message">virtual/perl-ExtUtils-ParseXS: Bump v.3.400.0+1</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8c5d1b2</div>
+                                        <div class="message">virtual/perl-File-Spec: Bump v.3.780.0+1</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5c5d9cd</div>
+                                        <div class="message">virtual/perl-File-Temp: Bump v.0.230.900+1</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e5bc236</div>
+                                        <div class="message">virtual/perl-Getopt-Long: Bump v.2.510.0+1</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b793c0c</div>
+                                        <div class="message">virtual/perl-IO: Bump v.1.430.0+1</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3814252</div>
+                                        <div class="message">virtual/perl-JSON-PP: Bump v.4.40.0+1</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9e67aa5</div>
+                                        <div class="message">virtual/perl-MIME-Base64: Bump v.3.150.0+1</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c15d2a3</div>
+                                        <div class="message">virtual/perl-Module-Metadata: Bump v.1.0.37+1</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2c8d3ee</div>
+                                        <div class="message">virtual/perl-Parse-CPAN-Meta: Bump v.2.150.10+1</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bae4a30</div>
+                                        <div class="message">virtual/perl-Perl-OSType: Bump v.1.10.0+1</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f94c44c</div>
+                                        <div class="message">virtual/perl-Pod-Parser: Bump v.1.630.0+1</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#14180e0</div>
+                                        <div class="message">virtual/perl-Scalar-List-Utils: Bump v.1.550.0+1</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#acdbc28</div>
+                                        <div class="message">virtual/perl-Test-Harness: Bump v.3.420.0+1</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3b37c75</div>
+                                        <div class="message">virtual/perl-Text-ParseWords: Bump v.3.300.0+1</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ac0835e</div>
+                                        <div class="message">virtual/perl-podlators: Bump v.4.140.0+1</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9af1e0f</div>
+                                        <div class="message">virtual/perl-version: Bump v.0.992.400+1</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 2 commits in
                                         <span class="repo">macaroni-os/macaroni-funtoo</span>
                                     </div>
@@ -398,26 +494,6 @@ c) Drop the stupid injection of
                                     <div class="commit">
                                         <div class="sha">#6c5bef2</div>
                                         <div class="message">seed/macaroni-funtoo-base: Bump v.0.20241102+1</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">macaroni-os/macaroni-funtoo</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">eagle</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#dbde819</div>
-                                        <div class="message">app-admin/ego: Bump v.2.8.8_pre20240817+2</div>
                                     </div>
                                 </div>
                             </section>
@@ -576,7 +652,7 @@ c) Drop the stupid injection of
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     developer
-                                    <span class="gh">ranked 324k out of 147m users</span>
+                                    <span class="gh">ranked 324k out of 148m users</span>
                                 </div>
                                 <div class="text">Published 78 public repositories</div>
                             </div>
@@ -734,7 +810,7 @@ c) Drop the stupid injection of
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 483k out of 147m users</span>
+                                    <span class="gh">ranked 483k out of 148m users</span>
                                 </div>
                                 <div class="text">Followed by 31 users</div>
                             </div>
@@ -838,7 +914,7 @@ c) Drop the stupid injection of
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 879k out of 223m repositories</span>
+                                    <span class="gh">ranked 879k out of 227m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 33 stars</div>
                             </div>
@@ -884,7 +960,7 @@ c) Drop the stupid injection of
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 2.27m out of 223m repositories</span>
+                                    <span class="gh">ranked 2.27m out of 227m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 4 times</div>
                             </div>
@@ -1040,7 +1116,7 @@ c) Drop the stupid injection of
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 3 Nov 2024, 10:13:58 (timezone Europe/Rome) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 3 Nov 2024, 11:30:52 (timezone Europe/Rome) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
