@@ -524,7 +524,7 @@ Closes: macaroni-os/mark-issues#190</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="63.27310061601644 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="63.357973990417506 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -617,7 +617,7 @@ Closes: macaroni-os/mark-issues#190</div>
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     developer
-                                    <span class="gh">ranked 324k out of 138m users</span>
+                                    <span class="gh">ranked 324k out of 144m users</span>
                                 </div>
                                 <div class="text">Published 78 public repositories</div>
                             </div>
@@ -775,7 +775,7 @@ Closes: macaroni-os/mark-issues#190</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 484k out of 138m users</span>
+                                    <span class="gh">ranked 484k out of 144m users</span>
                                 </div>
                                 <div class="text">Followed by 31 users</div>
                             </div>
@@ -879,7 +879,7 @@ Closes: macaroni-os/mark-issues#190</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 880k out of 224m repositories</span>
+                                    <span class="gh">ranked 880k out of 227m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 33 stars</div>
                             </div>
@@ -925,7 +925,7 @@ Closes: macaroni-os/mark-issues#190</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 2.28m out of 224m repositories</span>
+                                    <span class="gh">ranked 2.28m out of 227m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 4 times</div>
                             </div>
@@ -1081,7 +1081,7 @@ Closes: macaroni-os/mark-issues#190</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 6 Nov 2024, 16:14:35 (timezone Europe/Rome) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 6 Nov 2024, 17:18:45 (timezone Europe/Rome) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
