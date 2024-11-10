@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2026" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2176" class="">
     <defs>
         <style/>
     </defs>
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    46.8k added, 30.7k removed
+                                    2.65m added, 570k removed
                                 </div>
                             </section>
                             <section>
@@ -294,6 +294,70 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 12 commits in
+                                        <span class="repo">macaroni-os/macaroni-funtoo</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">eagle</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#2549196</div>
+                                        <div class="message">app-editors/vim-core: Bump v.9.1.0814</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e136bb0</div>
+                                        <div class="message">app-editors/vim: Bump v.9.1.0814</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#713e5ad</div>
+                                        <div class="message">app-portage/eix: Bump v.0.36.9</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5723185</div>
+                                        <div class="message">dev-python/anyio: Bump v.4.6.2</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c6dd5dd</div>
+                                        <div class="message">dev-python/async_timeout: Bump v.5.0.0</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7c9ce55</div>
+                                        <div class="message">dev-python/psutil: Bump v.6.1.0</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#47621f1</div>
+                                        <div class="message">dev-python/rich: Bump v.13.9.3</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3d47f9a</div>
+                                        <div class="message">dev-python/service_identity: Bump v.24.2.0</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4318117</div>
+                                        <div class="message">dev-python/trio: Bump v.0.27.0</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b635a0a</div>
+                                        <div class="message">dev-python/xmltodict: Bump v.0.14.2</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0e69a4a</div>
+                                        <div class="message">dev-python/yarl: Bump v.1.17.1</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fd1018f</div>
+                                        <div class="message">dev-python/zope-interface: Bump v.7.1.1</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -430,34 +494,6 @@
                                     <div class="commit">
                                         <div class="sha">#5c78a8e</div>
                                         <div class="message">sys-apps/baselayout: Bump v.3.0</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 3 commits in
-                                        <span class="repo">macaroni-os/macaroni-funtoo</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">terragon</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#daee9bf</div>
-                                        <div class="message">seed/macaroni-funtoo-base: Bump v.0.20241110</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6fc16f4</div>
-                                        <div class="message">pkglist/macaroni-funtoo-base: Bump v.0.20241110</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#67f3d46</div>
-                                        <div class="message">seed/macaroni-funtoo-stage: Bump v.0.20241110</div>
                                     </div>
                                 </div>
                             </section>
@@ -616,7 +652,7 @@
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     developer
-                                    <span class="gh">ranked 325k out of 137m users</span>
+                                    <span class="gh">ranked 325k out of 148m users</span>
                                 </div>
                                 <div class="text">Published 78 public repositories</div>
                             </div>
@@ -774,7 +810,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 484k out of 137m users</span>
+                                    <span class="gh">ranked 484k out of 148m users</span>
                                 </div>
                                 <div class="text">Followed by 31 users</div>
                             </div>
@@ -878,7 +914,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 882k out of 218m repositories</span>
+                                    <span class="gh">ranked 882k out of 227m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 33 stars</div>
                             </div>
@@ -924,7 +960,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 2.28m out of 218m repositories</span>
+                                    <span class="gh">ranked 2.28m out of 227m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 4 times</div>
                             </div>
@@ -1080,7 +1116,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 10 Nov 2024, 15:11:28 (timezone Europe/Rome) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 10 Nov 2024, 16:13:16 (timezone Europe/Rome) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
