@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2026" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1810" class="">
     <defs>
         <style/>
     </defs>
@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            25451 Commits
+                            25457 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -171,13 +171,13 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" d="M2.5 3.5c0-.133.058-.318.282-.55.227-.237.592-.484 1.1-.708C4.899 1.795 6.354 1.5 8 1.5c1.647 0 3.102.295 4.117.742.51.224.874.47 1.101.707.224.233.282.418.282.551 0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 5.205 9.646 5.5 8 5.5c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707-.224-.233-.282-.418-.282-.551zM1 3.5c0-.626.292-1.165.7-1.59.406-.422.956-.767 1.579-1.041C4.525.32 6.195 0 8 0c1.805 0 3.475.32 4.722.869.622.274 1.172.62 1.578 1.04.408.426.7.965.7 1.591v9c0 .626-.292 1.165-.7 1.59-.406.422-.956.767-1.579 1.041C11.476 15.68 9.806 16 8 16c-1.805 0-3.475-.32-4.721-.869-.623-.274-1.173-.62-1.579-1.04-.408-.426-.7-.965-.7-1.591v-9zM2.5 8V5.724c.241.15.503.286.779.407C4.525 6.68 6.195 7 8 7c1.805 0 3.475-.32 4.722-.869.275-.121.537-.257.778-.407V8c0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 9.705 9.646 10 8 10c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707C2.558 8.318 2.5 8.133 2.5 8zm0 2.225V12.5c0 .133.058.318.282.55.227.237.592.484 1.1.708 1.016.447 2.471.742 4.118.742 1.647 0 3.102-.295 4.117-.742.51-.224.874-.47 1.101-.707.224-.233.282-.418.282-.551v-2.275c-.241.15-.503.285-.778.406-1.247.549-2.917.869-4.722.869-1.805 0-3.475-.32-4.721-.869a6.236 6.236 0 01-.779-.406z"/>
                                     </svg>
-                                    5.53 GB used
+                                    5.56 GB used
                                 </div>
                                 <div class="field ">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    671k added, 78.2k removed
+                                    442k added, 265k removed
                                 </div>
                             </section>
                             <section>
@@ -225,14 +225,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="298.89033534996963" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="298.89033534996963" y="0" width="136.49277936989856" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="435.3831147198682" y="0" width="9.691395857843021" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="445.0745105777113" y="0" width="7.936699289188078" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="453.0112098668993" y="0" width="2.1068792457649623" height="8" fill="#0298c3"/>
-                    <rect mask="url(#languages-bar)" x="455.11808911266434" y="0" width="1.9307101969987641" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="457.0487993096631" y="0" width="1.542858532952846" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="458.591657842616" y="0" width="1.4083421573841257" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="298.8879621925931" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="298.8879621925931" y="0" width="136.49534798271807" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="435.3833101753112" y="0" width="9.691318909193805" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="445.074629084505" y="0" width="7.9366362726424216" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="453.0112653571474" y="0" width="2.106862517368517" height="8" fill="#0298c3"/>
+                    <rect mask="url(#languages-bar)" x="455.11812787451595" y="0" width="1.9306948673657713" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="457.04882274188174" y="0" width="1.5428462828206893" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="458.59166902470247" y="0" width="1.4083309752976405" height="8" fill="#427819"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -301,147 +301,15 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 10000 commits in
-                                        <span class="repo">geaaru/gentoo</span>
+                                        Pushed 1 commit in
+                                        <span class="repo">macaroni-os/kit-fixups</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
+                                    <div>on branch <span class="code">mark-xl</span></div>
                                     <div class="commit">
-                                        <div class="sha">#436cac0</div>
-                                        <div class="message">dev-python/pyqt-builder: Stabilize 1.17.0 arm, #946705
-
-Signed-off-by: Sam James &lt;sam@gentoo.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#aee2b16</div>
-                                        <div class="message">dev-python/sip: Stabilize 6.9.1 arm, #946705
-
-Signed-off-by: Sam James &lt;sam@gentoo.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ef1f0e8</div>
-                                        <div class="message">dev-qt/qtwebview: Stabilize 6.8.1 arm64, #946705
-
-Signed-off-by: Sam James &lt;sam@gentoo.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#cebc695</div>
-                                        <div class="message">dev-qt/qtwayland: Stabilize 6.8.1 arm64, #946705
-
-Signed-off-by: Sam James &lt;sam@gentoo.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#edb6ade</div>
-                                        <div class="message">dev-qt/qtvirtualkeyboard: Stabilize 6.8.1 arm64, #946705
-
-Signed-off-by: Sam James &lt;sam@gentoo.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7d306ee</div>
-                                        <div class="message">dev-qt/qttranslations: Stabilize 6.8.1 arm64, #946705
-
-Signed-off-by: Sam James &lt;sam@gentoo.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#924e0e9</div>
-                                        <div class="message">dev-qt/qtscxml: Stabilize 6.8.1 arm64, #946705
-
-Signed-off-by: Sam James &lt;sam@gentoo.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0652f0d</div>
-                                        <div class="message">dev-qt/qtnetworkauth: Stabilize 6.8.1 arm64, #946705
-
-Signed-off-by: Sam James &lt;sam@gentoo.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#996bdc9</div>
-                                        <div class="message">dev-qt/qtlocation: Stabilize 6.8.1 arm64, #946705
-
-Signed-off-by: Sam James &lt;sam@gentoo.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#52412d9</div>
-                                        <div class="message">dev-qt/qtimageformats: Stabilize 6.8.1 arm64, #946705
-
-Signed-off-by: Sam James &lt;sam@gentoo.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ad2fc3c</div>
-                                        <div class="message">dev-qt/qtcharts: Stabilize 6.8.1 arm64, #946705
-
-Signed-off-by: Sam James &lt;sam@gentoo.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2d0dca1</div>
-                                        <div class="message">dev-qt/qt5compat: Stabilize 6.8.1 arm64, #946705
-
-Signed-off-by: Sam James &lt;sam@gentoo.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#533dd14</div>
-                                        <div class="message">dev-qt/qt3d: Stabilize 6.8.1 arm64, #946705
-
-Signed-off-by: Sam James &lt;sam@gentoo.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a74f3c1</div>
-                                        <div class="message">dev-qt/qt-docs: Stabilize 6.8.1_p202411221531 arm64, #946705
-
-Signed-off-by: Sam James &lt;sam@gentoo.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2abdafc</div>
-                                        <div class="message">dev-python/qtpy: Stabilize 2.4.2-r1 arm64, #946705
-
-Signed-off-by: Sam James &lt;sam@gentoo.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2a46fed</div>
-                                        <div class="message">dev-python/pyqt6-webengine: Stabilize 6.8.0 arm64, #946705
-
-Signed-off-by: Sam James &lt;sam@gentoo.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f04b838</div>
-                                        <div class="message">dev-python/pyqt6: Stabilize 6.8.0 arm64, #946705
-
-Signed-off-by: Sam James &lt;sam@gentoo.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#386ebb4</div>
-                                        <div class="message">dev-python/pyqt6-sip: Stabilize 13.9.1 arm64, #946705
-
-Signed-off-by: Sam James &lt;sam@gentoo.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#308bae4</div>
-                                        <div class="message">dev-qt/qtwebsockets: Stabilize 6.8.1 arm64, #946705
-
-Signed-off-by: Sam James &lt;sam@gentoo.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9ea33e8</div>
-                                        <div class="message">dev-qt/qtspeech: Stabilize 6.8.1 arm64, #946705
-
-Signed-off-by: Sam James &lt;sam@gentoo.org&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Created new
-                      tag
-                                        <span class="code">v0.6.0</span>
-                                        in
-                                        <span class="repo">geaaru/rest-guard</span>
+                                        <div class="sha">#202f95e</div>
+                                        <div class="message">core-kit: Update thirdpartymirrors</div>
                                     </div>
                                 </div>
                             </section>
@@ -454,25 +322,22 @@ Signed-off-by: Sam James &lt;sam@gentoo.org&gt;</div>
                                     </svg>
                                     <div class="content">
                                         Pushed 3 commits in
-                                        <span class="repo">geaaru/rest-guard</span>
+                                        <span class="repo">macaroni-os/kit-fixups</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
+                                    <div>on branch <span class="code">mark-xl</span></div>
                                     <div class="commit">
-                                        <div class="sha">#82c4975</div>
-                                        <div class="message">Prepare v0.6.0</div>
+                                        <div class="sha">#9ca812a</div>
+                                        <div class="message">Add initial spec file for distfiles-sync command</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#22c7b27</div>
-                                        <div class="message">Improve DoDownload to support different hashes
-
-* Add BLAKE2B/512 hash on RestArtefact
-* Add SHA512 hash on RestArtefact</div>
+                                        <div class="sha">#ea022c5</div>
+                                        <div class="message">core-server-kit: Add apache</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#d43ed9d</div>
-                                        <div class="message">Add vendor golang.org/x/crypto</div>
+                                        <div class="sha">#b444233</div>
+                                        <div class="message">net-kit: Add postfix, sendmail and virtual/mta</div>
                                     </div>
                                 </div>
                             </section>
@@ -484,15 +349,44 @@ Signed-off-by: Sam James &lt;sam@gentoo.org&gt;</div>
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">macaroni-os/core-kit</span>
+                                        Pushed 4 commits in
+                                        <span class="repo">macaroni-os/mark-devkit</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">mark-xl</span></div>
+                                    <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#9dae775</div>
-                                        <div class="message">sys-devel/automake: Fix Manifest</div>
+                                        <div class="sha">#ef17230</div>
+                                        <div class="message">Add `kit distfiles-sync` command!
+
+Added the command to generate a local copy of
+the distfiles directory from a list of kits.
+
+It uses the same specfile used for merge command
+with thirdpartymirrors in order to resolve the
+ebuild urls with mirror scheme.
+
+At the moment it's available only the local dir
+backend but will be integrate S3 support in the
+near future.
+
+The FTP SRC_URI aren't yet supported.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d5f4dd3</div>
+                                        <div class="message">manifest: Review Manifest file write
+
+SRC_URI variable could be defined with multiple URLs
+of the same resource to manage failover download addresses.
+In that case we need to create the DIST entry only one time.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#33dd31c</div>
+                                        <div class="message">merge: Propagate verbose option correctly</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#255d9ae</div>
+                                        <div class="message">Update vendor github.com/geaaru/rest-guard@v0.6.1</div>
                                     </div>
                                 </div>
                             </section>
@@ -506,9 +400,33 @@ Signed-off-by: Sam James &lt;sam@gentoo.org&gt;</div>
                                     <div class="content">
                                         Created new
                       tag
-                                        <span class="code">v0.5.0</span>
+                                        <span class="code">v0.6.1</span>
                                         in
                                         <span class="repo">geaaru/rest-guard</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">geaaru/rest-guard</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#4fed3a3</div>
+                                        <div class="message">Prepare v0.6.1</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0ed4771</div>
+                                        <div class="message">Respect DisableCompression option if set</div>
                                     </div>
                                 </div>
                             </section>
@@ -667,7 +585,7 @@ Signed-off-by: Sam James &lt;sam@gentoo.org&gt;</div>
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     developer
-                                    <span class="gh">ranked 331k out of 152m users</span>
+                                    <span class="gh">ranked 331k out of 150m users</span>
                                 </div>
                                 <div class="text">Published 78 public repositories</div>
                             </div>
@@ -825,7 +743,7 @@ Signed-off-by: Sam James &lt;sam@gentoo.org&gt;</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 502k out of 152m users</span>
+                                    <span class="gh">ranked 502k out of 150m users</span>
                                 </div>
                                 <div class="text">Followed by 31 users</div>
                             </div>
@@ -1131,7 +1049,7 @@ Signed-off-by: Sam James &lt;sam@gentoo.org&gt;</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 29 Dec 2024, 19:17:17 (timezone Europe/Rome) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 29 Dec 2024, 20:10:15 (timezone Europe/Rome) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
