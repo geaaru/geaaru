@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    33.1k added, 28.2k removed
+                                    550k added, 72.5k removed
                                 </div>
                             </section>
                             <section>
@@ -303,9 +303,9 @@
                                     <div class="content">
                                         Deleted
                       branch
-                                        <span class="code">merge/bump-dev-libs_oniguruma-6_9_10</span>
+                                        <span class="code">merge/bump-dev-python_pygments-2_19_1</span>
                                         in
-                                        <span class="repo">macaroni-os/dev-kit</span>
+                                        <span class="repo">macaroni-os/python-modules-kit</span>
                                     </div>
                                 </div>
                             </section>
@@ -318,20 +318,20 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 2 commits in
-                                        <span class="repo">macaroni-os/dev-kit</span>
+                                        <span class="repo">macaroni-os/python-modules-kit</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">mark-xl</span></div>
                                     <div class="commit">
-                                        <div class="sha">#6af3437</div>
-                                        <div class="message">Merge pull request #13 from macaroni-os/merge/bump-dev-libs_oniguruma-6_9_10
+                                        <div class="sha">#7905fd6</div>
+                                        <div class="message">Merge pull request #7 from macaroni-os/merge/bump-dev-python_pygments-2_19_1
 
-mark-devkit: Bump dev-libs/oniguruma-6.9.10</div>
+mark-devkit: Bump dev-python/pygments-2.19.1</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#34fc33e</div>
-                                        <div class="message">Bump dev-libs/oniguruma-6.9.10</div>
+                                        <div class="sha">#45fc1d0</div>
+                                        <div class="message">Bump dev-python/pygments-2.19.1</div>
                                     </div>
                                 </div>
                             </section>
@@ -344,12 +344,12 @@ mark-devkit: Bump dev-libs/oniguruma-6.9.10</div>
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#13 mark-devkit: Bump dev-libs/oniguruma-6.9.10</span>
+                                        <span class="issue">#7 mark-devkit: Bump dev-python/pygments-2.19.1</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div> in <span class="repo">macaroni-os/dev-kit</span></div>
-                                    <div>4 files changed <span class="code">++72 --0</span></div>
+                                    <div> in <span class="repo">macaroni-os/python-modules-kit</span></div>
+                                    <div>2 files changed <span class="code">++19 --0</span></div>
                                 </div>
                             </section>
                         </div>
@@ -362,9 +362,9 @@ mark-devkit: Bump dev-libs/oniguruma-6.9.10</div>
                                     <div class="content">
                                         Deleted
                       branch
-                                        <span class="code">merge/bump-app-crypt_trousers-0_3_14-r3</span>
+                                        <span class="code">merge/bump-dev-python_trove-classifiers-2025_1_7_14</span>
                                         in
-                                        <span class="repo">macaroni-os/security-kit</span>
+                                        <span class="repo">macaroni-os/python-modules-kit</span>
                                     </div>
                                 </div>
                             </section>
@@ -377,20 +377,20 @@ mark-devkit: Bump dev-libs/oniguruma-6.9.10</div>
                                     </svg>
                                     <div class="content">
                                         Pushed 2 commits in
-                                        <span class="repo">macaroni-os/security-kit</span>
+                                        <span class="repo">macaroni-os/python-modules-kit</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">mark-xl</span></div>
                                     <div class="commit">
-                                        <div class="sha">#f43b327</div>
-                                        <div class="message">Merge pull request #1 from macaroni-os/merge/bump-app-crypt_trousers-0_3_14-r3
+                                        <div class="sha">#02834e3</div>
+                                        <div class="message">Merge pull request #8 from macaroni-os/merge/bump-dev-python_trove-classifiers-2025_1_7_14
 
-mark-devkit: Bump app-crypt/trousers-0.3.14-r3</div>
+mark-devkit: Bump dev-python/trove-classifiers-2025.1.7.14</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#0168666</div>
-                                        <div class="message">Bump app-crypt/trousers-0.3.14-r3</div>
+                                        <div class="sha">#c10d54a</div>
+                                        <div class="message">Bump dev-python/trove-classifiers-2025.1.7.14</div>
                                     </div>
                                 </div>
                             </section>
@@ -852,7 +852,7 @@ mark-devkit: Bump app-crypt/trousers-0.3.14-r3</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 900k out of 206m repositories</span>
+                                    <span class="gh">ranked 900k out of 229m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 33 stars</div>
                             </div>
@@ -898,7 +898,7 @@ mark-devkit: Bump app-crypt/trousers-0.3.14-r3</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 2.31m out of 206m repositories</span>
+                                    <span class="gh">ranked 2.31m out of 229m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 4 times</div>
                             </div>
@@ -1013,7 +1013,7 @@ mark-devkit: Bump app-crypt/trousers-0.3.14-r3</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 8 Jan 2025, 17:17:17 (timezone Europe/Rome) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 8 Jan 2025, 18:12:31 (timezone Europe/Rome) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
