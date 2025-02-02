@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2026" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2210" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}.gauge text,h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details,footer{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;flex-direction:column;justify-content:flex-end;padding:0 4px}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.audit.text{min-width:42px}.audit svg{margin:0}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement .gh{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}.gauge text,h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details,footer{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;flex-direction:column;justify-content:flex-end;padding:0 4px}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement .gh{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -30,20 +30,20 @@
                         <div class="field calendar">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
-                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="15" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="30" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="60" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            26041 Commits
+                            26122 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    1.60m added, 359k removed
+                                    1.51m added, 479k removed
                                 </div>
                             </section>
                             <section>
@@ -301,165 +301,207 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 10 commits in
+                                        Pushed 7 commits in
+                                        <span class="repo">macaroni-os/core-server-kit</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">mark-iii</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#2b06716</div>
+                                        <div class="message">Bump app-emulation/cri-o-1.14.4</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#aee0a6b</div>
+                                        <div class="message">Bump app-emulation/virt-manager-5.0.0</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1a2820d</div>
+                                        <div class="message">Bump app-emulation/waydroid-1.4.3</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e27aca0</div>
+                                        <div class="message">Bump app-emulation/open-vm-tools-12.5.0</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2434e6a</div>
+                                        <div class="message">Bump sys-process/procs-0.14.9</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#731c815</div>
+                                        <div class="message">Bump sys-block/open-isns-0.99</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9610cad</div>
+                                        <div class="message">Bump sys-block/open-iscsi-2.1.9</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">macaroni-os/core-server-kit</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">mark-iii</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#02c1dcd</div>
+                                        <div class="message">Bump sys-fs/libostree-2025.1</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">macaroni-os/meta-repo</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">mark-xl</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#41400fc</div>
+                                        <div class="message">Bump kits updates</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 81 commits in
+                                        <span class="repo">macaroni-os/macaroni-funtoo</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">phoenix</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#1ccaea2</div>
+                                        <div class="message">virtual/perl-ExtUtils-Manifest: Bump v.1.720.0+1</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#02a2e1d</div>
+                                        <div class="message">virtual/perl-ExtUtils-ParseXS: Bump v.3.400.0+1</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9d71bab</div>
+                                        <div class="message">virtual/perl-File-Spec: Bump v.3.780.0+1</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bf163ce</div>
+                                        <div class="message">virtual/perl-File-Temp: Bump v.0.230.900+1</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#86b8c9b</div>
+                                        <div class="message">virtual/perl-Getopt-Long: Bump v.2.510.0+1</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6bfe8f8</div>
+                                        <div class="message">virtual/perl-IO: Bump v.1.430.0+1</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e098c86</div>
+                                        <div class="message">virtual/perl-JSON-PP: Bump v.4.40.0+1</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#898953c</div>
+                                        <div class="message">virtual/perl-MIME-Base64: Bump v.3.150.0+1</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#92e5fac</div>
+                                        <div class="message">virtual/perl-Module-Metadata: Bump v.1.0.37+1</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7117702</div>
+                                        <div class="message">virtual/perl-Parse-CPAN-Meta: Bump v.2.150.10+1</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#77ed10c</div>
+                                        <div class="message">virtual/perl-Perl-OSType: Bump v.1.10.0+1</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d468166</div>
+                                        <div class="message">virtual/perl-Pod-Parser: Bump v.1.630.0+1</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b4a0bd7</div>
+                                        <div class="message">virtual/perl-Scalar-List-Utils: Bump v.1.550.0+1</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4528c54</div>
+                                        <div class="message">virtual/perl-Test-Harness: Bump v.3.420.0+1</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9bd8a7b</div>
+                                        <div class="message">virtual/perl-Text-ParseWords: Bump v.3.300.0+1</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c157f40</div>
+                                        <div class="message">virtual/perl-podlators: Bump v.4.140.0+1</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2101429</div>
+                                        <div class="message">virtual/perl-version: Bump v.0.992.400+1</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2f7b6b6</div>
+                                        <div class="message">virtual/pkgconfig: Bump v.2+1</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#07ddac3</div>
+                                        <div class="message">virtual/udev: Bump v.217+1</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0ff7a51</div>
+                                        <div class="message">virtual/yacc: Bump v.0+3</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 4 commits in
                                         <span class="repo">macaroni-os/kit-fixups</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">mark-iii</span></div>
                                     <div class="commit">
-                                        <div class="sha">#bb10271</div>
-                                        <div class="message">text-kit: Add convertlit, ebook-tools, editorconfig-core-c</div>
+                                        <div class="sha">#c97c431</div>
+                                        <div class="message">core-server-kit: Add shells.yml</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#1731db9</div>
-                                        <div class="message">security-kit: Add libmcrypt, rtkit</div>
+                                        <div class="sha">#4f590e7</div>
+                                        <div class="message">Add media-kit</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#2e81994</div>
-                                        <div class="message">science-kit: Add new packages</div>
+                                        <div class="sha">#63c089c</div>
+                                        <div class="message">Add core-gl-kit</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#8f6e307</div>
-                                        <div class="message">python-modueles-kit: Add llfuse, python-slip</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a6c04b6</div>
-                                        <div class="message">portage-kit: Add gentoo-bashcomp</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fba0407</div>
-                                        <div class="message">net-kit: Add new packages</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d869774</div>
-                                        <div class="message">dev-kit: Add new packages</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ae0b7b7</div>
-                                        <div class="message">core-server-kit: Add new packages</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3efc4b3</div>
-                                        <div class="message">core-kit: Fix slot of libpcre</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b336b2b</div>
-                                        <div class="message">core-hw-kit: Add sys-app/hwdata</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 7 commits in
-                                        <span class="repo">macaroni-os/macaroni-funtoo</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">phoenix</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#e0ce436</div>
-                                        <div class="message">app-arch/libarchive: Bump v.3.7.5</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#60d8854</div>
-                                        <div class="message">dev-libs/jsoncpp: Bump v.1.9.6</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8323b4c</div>
-                                        <div class="message">dev-libs/nss: Bump v.3.104</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6514f89</div>
-                                        <div class="message">dev-python/cython: Bump v.3.0.11</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#212a2e9</div>
-                                        <div class="message">sys-apps/texinfo: Bump v.7.1.1</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#00115c8</div>
-                                        <div class="message">sys-libs/timezone-data: Bump v.2024b</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8e99a67</div>
-                                        <div class="message">sys-process/audit: Bump v.4.0.2</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 3 commits in
-                                        <span class="repo">macaroni-os/macaroni-funtoo</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">phoenix</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#54e9eef</div>
-                                        <div class="message">seed/macaroni-funtoo-base: Bump v.0.20250201</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#396c46d</div>
-                                        <div class="message">pkglist/macaroni-funtoo-base: Bump v.0.20250201</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#80c7bd0</div>
-                                        <div class="message">seed/macaroni-funtoo-stage: Bump v.0.20250201</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">macaroni-os/macaroni-funtoo</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">phoenix</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#20a38e5</div>
-                                        <div class="message">Revert "sys-devel-11.3.0/gcc: Bump v.11.3.0+1"
-
-This reverts commit b9025351dc3d9c34973d123ab4bde2792c5b391f.</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">macaroni-os/macaroni-funtoo</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">phoenix</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#3e04625</div>
-                                        <div class="message">seed/funtoo-gnome-stage3: Removed</div>
+                                        <div class="sha">#5a1e8c2</div>
+                                        <div class="message">Add kde-kit</div>
                                     </div>
                                 </div>
                             </section>
@@ -921,7 +963,7 @@ This reverts commit b9025351dc3d9c34973d123ab4bde2792c5b391f.</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 906k out of 238m repositories</span>
+                                    <span class="gh">ranked 906k out of 237m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 33 stars</div>
                             </div>
@@ -967,7 +1009,7 @@ This reverts commit b9025351dc3d9c34973d123ab4bde2792c5b391f.</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 2.32m out of 238m repositories</span>
+                                    <span class="gh">ranked 2.32m out of 237m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 4 times</div>
                             </div>
@@ -1082,7 +1124,7 @@ This reverts commit b9025351dc3d9c34973d123ab4bde2792c5b391f.</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 2 Feb 2025, 00:12:24 (timezone Europe/Rome) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 2 Feb 2025, 02:07:17 (timezone Europe/Rome) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
