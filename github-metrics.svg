@@ -30,20 +30,20 @@
                         <div class="field calendar">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
-                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="60" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    44.9k added, 32.9k removed
+                                    29.5k added, 28.8k removed
                                 </div>
                             </section>
                             <section>
@@ -303,9 +303,9 @@
                                     <div class="content">
                                         Deleted
                       branch
-                                        <span class="code">purge/app-editors_vim</span>
+                                        <span class="code">purge/app-misc_google-cloud-sdk</span>
                                         in
-                                        <span class="repo">macaroni-os/editors-kit</span>
+                                        <span class="repo">macaroni-os/dev-kit</span>
                                     </div>
                                 </div>
                             </section>
@@ -318,22 +318,22 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 2 commits in
-                                        <span class="repo">macaroni-os/editors-kit</span>
+                                        <span class="repo">macaroni-os/dev-kit</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">mark-unstable</span></div>
+                                    <div>on branch <span class="code">mark-iii</span></div>
                                     <div class="commit">
-                                        <div class="sha">#badf0a8</div>
-                                        <div class="message">Merge pull request #10 from macaroni-os/purge/app-editors_vim
+                                        <div class="sha">#a97f44b</div>
+                                        <div class="message">Merge pull request #123 from macaroni-os/purge/app-misc_google-cloud-sdk
 
-mark-devkit: Purge app-editors/vim</div>
+mark-devkit: Purge app-misc/google-cloud-sdk</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#627c47f</div>
-                                        <div class="message">app-editors/vim: Remove old versions
+                                        <div class="sha">#c5d60d8</div>
+                                        <div class="message">app-misc/google-cloud-sdk: Remove old versions
 
-  * Removed v9.1.1010</div>
+  * Removed v507.0.0</div>
                                     </div>
                                 </div>
                             </section>
@@ -346,12 +346,12 @@ mark-devkit: Purge app-editors/vim</div>
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#10 mark-devkit: Purge app-editors/vim</span>
+                                        <span class="issue">#123 mark-devkit: Purge app-misc/google-cloud-sdk</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div> in <span class="repo">macaroni-os/editors-kit</span></div>
-                                    <div>2 files changed <span class="code">++0 --344</span></div>
+                                    <div> in <span class="repo">macaroni-os/dev-kit</span></div>
+                                    <div>6 files changed <span class="code">++0 --744</span></div>
                                 </div>
                             </section>
                         </div>
@@ -364,7 +364,7 @@ mark-devkit: Purge app-editors/vim</div>
                                     <div class="content">
                                         Deleted
                       branch
-                                        <span class="code">purge/sys-apps_eza</span>
+                                        <span class="code">purge/dev-util_github-cli</span>
                                         in
                                         <span class="repo">macaroni-os/dev-kit</span>
                                     </div>
@@ -383,18 +383,18 @@ mark-devkit: Purge app-editors/vim</div>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">mark-xl</span></div>
+                                    <div>on branch <span class="code">mark-iii</span></div>
                                     <div class="commit">
-                                        <div class="sha">#e206afd</div>
-                                        <div class="message">Merge pull request #119 from macaroni-os/purge/sys-apps_eza
+                                        <div class="sha">#51f59d7</div>
+                                        <div class="message">Merge pull request #121 from macaroni-os/purge/dev-util_github-cli
 
-mark-devkit: Purge sys-apps/eza</div>
+mark-devkit: Purge dev-util/github-cli</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#5a4e9d5</div>
-                                        <div class="message">sys-apps/eza: Remove old versions
+                                        <div class="sha">#7994d1b</div>
+                                        <div class="message">dev-util/github-cli: Remove old versions
 
-  * Removed v0.20.18</div>
+  * Removed v2.65.0</div>
                                     </div>
                                 </div>
                             </section>
@@ -1017,7 +1017,7 @@ mark-devkit: Purge sys-apps/eza</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 20 Feb 2025, 00:13:30 (timezone Europe/Rome) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 20 Feb 2025, 02:05:54 (timezone Europe/Rome) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
