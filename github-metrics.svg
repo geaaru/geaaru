@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            26692 Commits
+                            26694 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -303,9 +303,9 @@
                                     <div class="content">
                                         Deleted
                       branch
-                                        <span class="code">merge/mark-xl/bump-net-misc_memcached-1_6_8</span>
+                                        <span class="code">merge/mark-xl/bump-dev-util_xdelta-3_0_11-r1</span>
                                         in
-                                        <span class="repo">macaroni-os/core-server-kit</span>
+                                        <span class="repo">macaroni-os/dev-kit</span>
                                     </div>
                                 </div>
                             </section>
@@ -318,20 +318,20 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 2 commits in
-                                        <span class="repo">macaroni-os/core-server-kit</span>
+                                        <span class="repo">macaroni-os/dev-kit</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">mark-xl</span></div>
                                     <div class="commit">
-                                        <div class="sha">#3cb4d12</div>
-                                        <div class="message">Merge pull request #262 from macaroni-os/merge/mark-xl/bump-net-misc_memcached-1_6_8
+                                        <div class="sha">#186033f</div>
+                                        <div class="message">Merge pull request #176 from macaroni-os/merge/mark-xl/bump-dev-util_xdelta-3_0_11-r1
 
-mark-devkit: Bump net-misc/memcached-1.6.8</div>
+mark-devkit: Bump dev-util/xdelta-3.0.11-r1</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#d5e9607</div>
-                                        <div class="message">Bump net-misc/memcached-1.6.8</div>
+                                        <div class="sha">#66444cf</div>
+                                        <div class="message">Bump dev-util/xdelta-3.0.11-r1</div>
                                     </div>
                                 </div>
                             </section>
@@ -344,12 +344,12 @@ mark-devkit: Bump net-misc/memcached-1.6.8</div>
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#262 mark-devkit: Bump net-misc/memcached-1.6.8</span>
+                                        <span class="issue">#176 mark-devkit: Bump dev-util/xdelta-3.0.11-r1</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div> in <span class="repo">macaroni-os/core-server-kit</span></div>
-                                    <div>9 files changed <span class="code">++352 --0</span></div>
+                                    <div> in <span class="repo">macaroni-os/dev-kit</span></div>
+                                    <div>2 files changed <span class="code">++34 --0</span></div>
                                 </div>
                             </section>
                         </div>
@@ -362,9 +362,9 @@ mark-devkit: Bump net-misc/memcached-1.6.8</div>
                                     <div class="content">
                                         Deleted
                       branch
-                                        <span class="code">merge/mark-xl/bump-net-misc_cni-plugins-0_8_1</span>
+                                        <span class="code">merge/mark-xl/bump-dev-vcs_git-2_49_0</span>
                                         in
-                                        <span class="repo">macaroni-os/core-server-kit</span>
+                                        <span class="repo">macaroni-os/dev-kit</span>
                                     </div>
                                 </div>
                             </section>
@@ -377,20 +377,20 @@ mark-devkit: Bump net-misc/memcached-1.6.8</div>
                                     </svg>
                                     <div class="content">
                                         Pushed 2 commits in
-                                        <span class="repo">macaroni-os/core-server-kit</span>
+                                        <span class="repo">macaroni-os/dev-kit</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">mark-xl</span></div>
                                     <div class="commit">
-                                        <div class="sha">#1a1e249</div>
-                                        <div class="message">Merge pull request #263 from macaroni-os/merge/mark-xl/bump-net-misc_cni-plugins-0_8_1
+                                        <div class="sha">#6f291ed</div>
+                                        <div class="message">Merge pull request #177 from macaroni-os/merge/mark-xl/bump-dev-vcs_git-2_49_0
 
-mark-devkit: Bump net-misc/cni-plugins-0.8.1</div>
+mark-devkit: Bump dev-vcs/git-2.49.0</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#0551a9c</div>
-                                        <div class="message">Bump net-misc/cni-plugins-0.8.1</div>
+                                        <div class="sha">#ea0addc</div>
+                                        <div class="message">Bump dev-vcs/git-2.49.0</div>
                                     </div>
                                 </div>
                             </section>
@@ -852,7 +852,7 @@ mark-devkit: Bump net-misc/cni-plugins-0.8.1</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 922k out of 244m repositories</span>
+                                    <span class="gh">ranked 922k out of 243m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 33 stars</div>
                             </div>
@@ -898,7 +898,7 @@ mark-devkit: Bump net-misc/cni-plugins-0.8.1</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 2.34m out of 244m repositories</span>
+                                    <span class="gh">ranked 2.34m out of 243m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 4 times</div>
                             </div>
@@ -1013,7 +1013,7 @@ mark-devkit: Bump net-misc/cni-plugins-0.8.1</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 18 Mar 2025, 10:16:38 (timezone Europe/Rome) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 18 Mar 2025, 11:16:22 (timezone Europe/Rome) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
