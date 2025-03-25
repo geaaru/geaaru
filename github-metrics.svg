@@ -859,7 +859,7 @@ Bugs: macaroni-os/mark-issues#326</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 925k out of 243m repositories</span>
+                                    <span class="gh">ranked 925k out of 245m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 33 stars</div>
                             </div>
@@ -905,7 +905,7 @@ Bugs: macaroni-os/mark-issues#326</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 2.35m out of 243m repositories</span>
+                                    <span class="gh">ranked 2.35m out of 245m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 4 times</div>
                             </div>
@@ -1020,7 +1020,7 @@ Bugs: macaroni-os/mark-issues#326</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 25 Mar 2025, 08:17:00 (timezone Europe/Rome) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 25 Mar 2025, 09:20:04 (timezone Europe/Rome) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
