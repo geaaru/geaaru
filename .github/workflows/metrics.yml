@@ -12,7 +12,9 @@ jobs:
  github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - uses: lowlighter/metrics@latest
+      # See https://github.com/lowlighter/metrics/issues/1706
+      #- uses: lowlighter/metrics@latest
+      - uses: stalomeow/metrics@projects-v2
         with:
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
