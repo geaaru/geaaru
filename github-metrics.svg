@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1710" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1693" class="">
     <defs>
         <style/>
     </defs>
@@ -23,7 +23,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                             </svg>
-                            Followed by 32 users
+                            Followed by 31 users
                         </div>
                     </section>
                     <section>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            32796 Commits
+                            32801 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    563k added, 77.1k removed
+                                    438k added, 266k removed
                                 </div>
                             </section>
                             <section>
@@ -215,7 +215,7 @@
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                         <path fill-rule="evenodd" d="M1.5 2.75a.25.25 0 01.25-.25h12.5a.25.25 0 01.25.25v8.5a.25.25 0 01-.25.25h-6.5a.75.75 0 00-.53.22L4.5 14.44v-2.19a.75.75 0 00-.75-.75h-2a.25.25 0 01-.25-.25v-8.5zM1.75 1A1.75 1.75 0 000 2.75v8.5C0 12.216.784 13 1.75 13H3v1.543a1.457 1.457 0 002.487 1.03L8.061 13h6.189A1.75 1.75 0 0016 11.25v-8.5A1.75 1.75 0 0014.25 1H1.75zm5.03 3.47a.75.75 0 010 1.06L5.31 7l1.47 1.47a.75.75 0 01-1.06 1.06l-2-2a.75.75 0 010-1.06l2-2a.75.75 0 011.06 0zm2.44 0a.75.75 0 000 1.06L10.69 7 9.22 8.47a.75.75 0 001.06 1.06l2-2a.75.75 0 000-1.06l-2-2a.75.75 0 00-1.06 0z"/>
                     </svg>
-                    15 Languages
+                    33 Languages
                 </h2>
             </section>
             <section class="column">
@@ -298,14 +298,34 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">macaroni-os/kit-fixups</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">mark-unstable</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#c131adb</div>
+                                        <div class="message">[qt-kit] Add py3 patch for qtwebengine (WIP)</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
                                     </svg>
                                     <div class="content">
                                         Deleted
                       branch
-                                        <span class="code">merge/mark-unstable/bump-app-metrics_prometheus-bin-3_3_1</span>
+                                        <span class="code">merge/mark-unstable/bump-media-gfx_blender-bin-4_4_3</span>
                                         in
-                                        <span class="repo">macaroni-os/core-server-kit</span>
+                                        <span class="repo">macaroni-os/media-kit</span>
                                     </div>
                                 </div>
                             </section>
@@ -318,20 +338,20 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 2 commits in
-                                        <span class="repo">macaroni-os/core-server-kit</span>
+                                        <span class="repo">macaroni-os/media-kit</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">mark-unstable</span></div>
                                     <div class="commit">
-                                        <div class="sha">#9b959b0</div>
-                                        <div class="message">Merge pull request #614 from macaroni-os/merge/mark-unstable/bump-app-metrics_prometheus-bin-3_3_1
+                                        <div class="sha">#4c0fb05</div>
+                                        <div class="message">Merge pull request #158 from macaroni-os/merge/mark-unstable/bump-media-gfx_blender-bin-4_4_3
 
-mark-devkit: Bump app-metrics/prometheus-bin-3.3.1</div>
+mark-devkit: Bump media-gfx/blender-bin-4.4.3</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#142170c</div>
-                                        <div class="message">Bump app-metrics/prometheus-bin-3.3.1</div>
+                                        <div class="sha">#3b3db30</div>
+                                        <div class="message">Bump media-gfx/blender-bin-4.4.3</div>
                                     </div>
                                 </div>
                             </section>
@@ -344,12 +364,12 @@ mark-devkit: Bump app-metrics/prometheus-bin-3.3.1</div>
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#614 mark-devkit: Bump app-metrics/prometheus-bin-3.3.1</span>
+                                        <span class="issue">#158 mark-devkit: Bump media-gfx/blender-bin-4.4.3</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div> in <span class="repo">macaroni-os/core-server-kit</span></div>
-                                    <div>2 files changed <span class="code">++41 --0</span></div>
+                                    <div> in <span class="repo">macaroni-os/media-kit</span></div>
+                                    <div>2 files changed <span class="code">++49 --0</span></div>
                                 </div>
                             </section>
                         </div>
@@ -362,35 +382,9 @@ mark-devkit: Bump app-metrics/prometheus-bin-3.3.1</div>
                                     <div class="content">
                                         Deleted
                       branch
-                                        <span class="code">merge/mark-iii/bump-net-im_discord-bin-0_0_93</span>
+                                        <span class="code">purge/dev-util_github-cli</span>
                                         in
-                                        <span class="repo">macaroni-os/desktop-kit</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">macaroni-os/desktop-kit</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">mark-iii</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#2b766c8</div>
-                                        <div class="message">Merge pull request #34 from macaroni-os/merge/mark-iii/bump-net-im_discord-bin-0_0_93
-
-mark-devkit: Bump net-im/discord-bin-0.0.93</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#91a2eaf</div>
-                                        <div class="message">Bump net-im/discord-bin-0.0.93</div>
+                                        <span class="repo">macaroni-os/dev-kit</span>
                                     </div>
                                 </div>
                             </section>
@@ -670,7 +664,7 @@ mark-devkit: Bump net-im/discord-bin-0.0.93</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="24.14572864321608 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="23.36683417085427 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" stroke-width="2" fill="none" fill-rule="evenodd">
@@ -707,9 +701,9 @@ mark-devkit: Bump net-im/discord-bin-0.0.93</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 513k out of 166m users</span>
+                                    <span class="gh">ranked 532k out of 166m users</span>
                                 </div>
-                                <div class="text">Followed by 32 users</div>
+                                <div class="text">Followed by 31 users</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -1013,7 +1007,7 @@ mark-devkit: Bump net-im/discord-bin-0.0.93</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 3 May 2025, 08:28:16 (timezone Europe/Rome) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 3 May 2025, 09:22:08 (timezone Europe/Rome) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
