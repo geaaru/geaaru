@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1777" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2076" class="">
     <defs>
         <style/>
     </defs>
@@ -30,18 +30,18 @@
                         <div class="field calendar">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
-                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
@@ -81,7 +81,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                             </svg>
-                            4641 Pull requests opened
+                            4645 Pull requests opened
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    32.2k added, 30.7k removed
+                                    33.9k added, 31.2k removed
                                 </div>
                             </section>
                             <section>
@@ -215,7 +215,7 @@
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                         <path fill-rule="evenodd" d="M1.5 2.75a.25.25 0 01.25-.25h12.5a.25.25 0 01.25.25v8.5a.25.25 0 01-.25.25h-6.5a.75.75 0 00-.53.22L4.5 14.44v-2.19a.75.75 0 00-.75-.75h-2a.25.25 0 01-.25-.25v-8.5zM1.75 1A1.75 1.75 0 000 2.75v8.5C0 12.216.784 13 1.75 13H3v1.543a1.457 1.457 0 002.487 1.03L8.061 13h6.189A1.75 1.75 0 0016 11.25v-8.5A1.75 1.75 0 0014.25 1H1.75zm5.03 3.47a.75.75 0 010 1.06L5.31 7l1.47 1.47a.75.75 0 01-1.06 1.06l-2-2a.75.75 0 010-1.06l2-2a.75.75 0 011.06 0zm2.44 0a.75.75 0 000 1.06L10.69 7 9.22 8.47a.75.75 0 001.06 1.06l2-2a.75.75 0 000-1.06l-2-2a.75.75 0 00-1.06 0z"/>
                     </svg>
-                    32 Languages
+                    15 Languages
                 </h2>
             </section>
             <section class="column">
@@ -294,6 +294,102 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 68 commits in
+                                        <span class="repo">macaroni-os/macaroni-funtoo</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">phoenix</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#8573949</div>
+                                        <div class="message">mail-filter/spamassassin: Bump v.3.4.4+1</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6dba799</div>
+                                        <div class="message">media-libs-0.12/libchamplain: Bump v.0.12.20+1</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bf8b994</div>
+                                        <div class="message">media-libs-2/exempi: Bump v.2.4.5+1</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#352278d</div>
+                                        <div class="message">media-libs-5/musicbrainz: Bump v.5.1.0+1</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c2be72f</div>
+                                        <div class="message">media-libs/gexiv2: Bump v.0.12.0+1</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#de81d70</div>
+                                        <div class="message">media-libs/libdiscid: Bump v.0.6.2+1</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fb790d4</div>
+                                        <div class="message">media-libs/libnsgif: Bump v.0.2.1+1</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#42fef77</div>
+                                        <div class="message">net-libs/neon: Bump v.0.30.2+1</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cc41c54</div>
+                                        <div class="message">net-misc/netkit-fingerd: Bump v.0.17+1</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b455847</div>
+                                        <div class="message">sci-libs/gsl: Bump v.2.7.1+1</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#87bd974</div>
+                                        <div class="message">sys-apps/mlocate: Bump v.0.26+1</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7ef013a</div>
+                                        <div class="message">virtual/notification-daemon: Bump v.0+1</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d811d64</div>
+                                        <div class="message">virtual/perl-Archive-Tar: Bump v.2.360.0+1</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d4f9419</div>
+                                        <div class="message">virtual/perl-DB_File: Bump v.1.853.0+1</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#95250bd</div>
+                                        <div class="message">virtual/perl-Digest: Bump v.1.170.100+1</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6af02ba</div>
+                                        <div class="message">virtual/perl-IO-Zlib: Bump v.1.100.0+1</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1ff51a2</div>
+                                        <div class="message">x11-libs-1.0/mx: Bump v.1.4.7+1</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7dfb778</div>
+                                        <div class="message">x11-misc/icon-naming-utils: Bump v.0.8.90+1</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ddd3fdc</div>
+                                        <div class="message">x11-themes/macaroni-gnome-shell-theme: Bump v.0.1.0+1</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f127170</div>
+                                        <div class="message">x11-wm/mutter: Bump v.3.36.7+2</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -382,32 +478,6 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">macaroni-os/net-kit</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">mark-iii</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#caf0221</div>
-                                        <div class="message">Merge pull request #378 from macaroni-os/merge/mark-iii/bump-sys-apps_flatpak-1_16_1
-
-mark-devkit: Bump sys-apps/flatpak-1.16.1</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3f07523</div>
-                                        <div class="message">Bump sys-apps/flatpak-1.16.1</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -430,7 +500,7 @@ mark-devkit: Bump sys-apps/flatpak-1.16.1</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="401.45 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="401.86333333333334 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -458,7 +528,7 @@ mark-devkit: Bump sys-apps/flatpak-1.16.1</div>
                                     <span class="prefix">Master</span>
                                     contributor
                                 </div>
-                                <div class="text">Opened 4885 pull requests</div>
+                                <div class="text">Opened 4889 pull requests</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
@@ -1026,7 +1096,7 @@ mark-devkit: Bump sys-apps/flatpak-1.16.1</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 14 May 2025, 01:22:57 (timezone Europe/Rome) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 14 May 2025, 03:22:38 (timezone Europe/Rome) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
