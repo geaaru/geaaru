@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1860" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2376" class="">
     <defs>
         <style/>
     </defs>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            35768 Commits
+                            35790 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    31k added, 31k removed
+                                    40.9k added, 31.9k removed
                                 </div>
                             </section>
                             <section>
@@ -301,6 +301,122 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 21 commits in
+                                        <span class="repo">macaroni-os/macaroni-funtoo</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">phoenix</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#c4783f9</div>
+                                        <div class="message">app-text/pandoc-bin: Bump v.3.7.0.1+1</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#327cdb8</div>
+                                        <div class="message">sys-apps/eza: Bump v.0.21.1+1</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bad595b</div>
+                                        <div class="message">sys-apps/eza: Moved to race17</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#defc0c7</div>
+                                        <div class="message">dev-util-2024.06/eclipse-sdk-bin: Bump v.2024.06.0 (new package)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1a8bec5</div>
+                                        <div class="message">app-text/pandoc-bin: Moved to race17</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3577acc</div>
+                                        <div class="message">app-misc/google-cloud-sdk: Bump v.519.0.0</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f58a062</div>
+                                        <div class="message">dev-embedded/arduino-bin: Bump v.1.8.19+1</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e0fae9e</div>
+                                        <div class="message">dev-go/delve: Bump v.1.22.1+1</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5853b55</div>
+                                        <div class="message">dev-util/github-cli: Bump v.2.70.0</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e2a6026</div>
+                                        <div class="message">dev-util/gitlab-runner-bin: Bump v.17.11.0</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2c59077</div>
+                                        <div class="message">dev-util/jenkins-bin: Bump v.2.511</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ed596ff</div>
+                                        <div class="message">dev-util/just: Bump v.1.40.0</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d9ea180</div>
+                                        <div class="message">dev-util/mongodb-compass: Bump v.1.46.2</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b35d611</div>
+                                        <div class="message">dev-util/packer: Bump v.1.12.0</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d0a3f12</div>
+                                        <div class="message">dev-util/smem: Bump v.1.5+1</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9e60598</div>
+                                        <div class="message">dev-vcs/hub: Bump v.2.14.2+3</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fe5b20e</div>
+                                        <div class="message">dev-vcs/tig: Bump v.2.5.12</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b6fc332</div>
+                                        <div class="message">sys-auth/google-authenticator: Bump v.1.11</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#332e9b5</div>
+                                        <div class="message">sys-cluster/kubectl: Bump v.1.33.1</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bc0bcdd</div>
+                                        <div class="message">dev-util-2023.06/eclipse-sdk-bin: Dropped and replaced by new slot</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">macaroni-os/kit-fixups</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">mark-unstable</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#42f093f</div>
+                                        <div class="message">[dev-kit] Add editors-kit source on ide.yml</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 1 commit in
                                         <span class="repo">macaroni-os/kit-fixups</span>
                                     </div>
@@ -308,34 +424,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">mark-iii</span></div>
                                     <div class="commit">
-                                        <div class="sha">#0140476</div>
-                                        <div class="message">Revert "[text-kit] Add app-text/ronn"
-
-This reverts commit b42c51408ef7de96475f481ea617da04651533c0.</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">macaroni-os/text-kit</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">mark-iii</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#00c4784</div>
-                                        <div class="message">Revert "Bump app-text/ronn-0.7.3-r3"
-
-This reverts commit 6bf8fcd6b97f4bf4af2739da1dac0d8f1f6af032.
-
-Broken package to replace with `ronn-ng` and others dependencies.</div>
+                                        <div class="sha">#fe44440</div>
+                                        <div class="message">[dev-kit] Add editors-kit source on ide.yml</div>
                                     </div>
                                 </div>
                             </section>
@@ -354,30 +444,9 @@ Broken package to replace with `ronn-ng` and others dependencies.</div>
                                 <div class="details">
                                     <div>on branch <span class="code">phoenix</span></div>
                                     <div class="commit">
-                                        <div class="sha">#78c169d</div>
-                                        <div class="message">Revert "app-text/ronn: Bump v.0.7.3 (new package)"
-
-This reverts commit 06b136b6a1987570eac67cb0822c52abb9b0f04f.
-
-To replace with `ronn-ng` in the near future.</div>
+                                        <div class="sha">#c696db4</div>
+                                        <div class="message">toolchain/desktop: Update rdeps</div>
                                     </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
-                                        <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Opened
-                                        <span class="issue">#417 [dev-kit] Autogen sys-boot/etcher-bin</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened  in <span class="repo">macaroni-os/mark-issues</span></div>
                                 </div>
                             </section>
                         </div>
@@ -388,47 +457,91 @@ To replace with `ronn-ng` in the near future.</div>
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 9 commits in
+                                        Pushed 44 commits in
                                         <span class="repo">macaroni-os/macaroni-funtoo</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">phoenix</span></div>
                                     <div class="commit">
-                                        <div class="sha">#06b136b</div>
-                                        <div class="message">app-text/ronn: Bump v.0.7.3 (new package)</div>
+                                        <div class="sha">#1f0eee0</div>
+                                        <div class="message">media-video/dvdauthor: Bump v.0.7.2</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#cbc8e8b</div>
-                                        <div class="message">dev-libs/confuse: Bump v.3.3+1</div>
+                                        <div class="sha">#6aea282</div>
+                                        <div class="message">media-video/kino: Bump v.1.3.4+3</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#5b198b5</div>
-                                        <div class="message">dev-libs/yajl: Bump v.2.1.0+1</div>
+                                        <div class="sha">#1828c9b</div>
+                                        <div class="message">media-video/obs-studio: Bump v.29.1.3+2</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#0810bcf</div>
-                                        <div class="message">dev-perl/AnyEvent-I3: Bump v.0.170.0+1</div>
+                                        <div class="sha">#06dd4a3</div>
+                                        <div class="message">net-im/discord-bin: Bump v.0.0.95</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#10fb45a</div>
-                                        <div class="message">dev-perl/AnyEvent: Bump v.7.140.0+1</div>
+                                        <div class="sha">#0beb606</div>
+                                        <div class="message">net-im/mattermost-desktop-bin: Bump v.5.12.0</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#51a877a</div>
-                                        <div class="message">media-sound/playerctl: Bump v.2.4.1+1</div>
+                                        <div class="sha">#62d2ee1</div>
+                                        <div class="message">net-im/slack-bin: Bump v.4.43.51</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#7096c7b</div>
-                                        <div class="message">x11-misc/i3lock: Bump v.2.15+1</div>
+                                        <div class="sha">#d938c27</div>
+                                        <div class="message">net-im/telegram-desktop-bin: Bump v.5.14.3</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#73827be</div>
-                                        <div class="message">x11-misc/i3status: Bump v.2.15</div>
+                                        <div class="sha">#e701de4</div>
+                                        <div class="message">net-irc/hexchat: Bump v.2.16.1+1</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#c29a0cb</div>
-                                        <div class="message">x11-wm/i3: Bump v.4.24</div>
+                                        <div class="sha">#53a5f8b</div>
+                                        <div class="message">net-libs/mbedtls: Bump v.2.17.0+1</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7b8d1bd</div>
+                                        <div class="message">net-misc/postman-bin: Bump v.11.46.6</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6f1f711</div>
+                                        <div class="message">net-vpn/networkmanager-fortisslvpn: Bump v.1.2.8+2</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d51b031</div>
+                                        <div class="message">net-vpn/networkmanager-openconnect: Bump v.1.2.6.20200831+1</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f968da4</div>
+                                        <div class="message">net-vpn/networkmanager-strongswan: Bump v.1.6.0+2</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a74e239</div>
+                                        <div class="message">net-vpn/networkmanager-vpnc: Bump v.1.2.6+2</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ef0cf77</div>
+                                        <div class="message">sys-libs/libieee1284: Bump v.0.2.11+2</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ef8051d</div>
+                                        <div class="message">virtual/ffmpeg: Bump v.9+1</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6864466</div>
+                                        <div class="message">x11-terms/guake: Bump v.3.6.3+1</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e8835ce</div>
+                                        <div class="message">x11-themes/gnome-orchis-theme: Bump v.20240902+3</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f69399c</div>
+                                        <div class="message">x11-themes/papirus-icon-theme: Bump v.20240501+2</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#04eb9f5</div>
+                                        <div class="message">net-im/skypeforlinux: Dropped (service closed on May 2025)</div>
                                     </div>
                                 </div>
                             </section>
@@ -1051,7 +1164,7 @@ To replace with `ronn-ng` in the near future.</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 30 May 2025, 14:39:43 (timezone Europe/Rome) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 30 May 2025, 15:35:18 (timezone Europe/Rome) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
