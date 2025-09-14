@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            39294 Commits
+                            39296 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    2.03m added, 1.06m removed
+                                    1.15m added, 367k removed
                                 </div>
                             </section>
                             <section>
@@ -215,7 +215,7 @@
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                         <path fill-rule="evenodd" d="M1.5 2.75a.25.25 0 01.25-.25h12.5a.25.25 0 01.25.25v8.5a.25.25 0 01-.25.25h-6.5a.75.75 0 00-.53.22L4.5 14.44v-2.19a.75.75 0 00-.75-.75h-2a.25.25 0 01-.25-.25v-8.5zM1.75 1A1.75 1.75 0 000 2.75v8.5C0 12.216.784 13 1.75 13H3v1.543a1.457 1.457 0 002.487 1.03L8.061 13h6.189A1.75 1.75 0 0016 11.25v-8.5A1.75 1.75 0 0014.25 1H1.75zm5.03 3.47a.75.75 0 010 1.06L5.31 7l1.47 1.47a.75.75 0 01-1.06 1.06l-2-2a.75.75 0 010-1.06l2-2a.75.75 0 011.06 0zm2.44 0a.75.75 0 000 1.06L10.69 7 9.22 8.47a.75.75 0 001.06 1.06l2-2a.75.75 0 000-1.06l-2-2a.75.75 0 00-1.06 0z"/>
                     </svg>
-                    33 Languages
+                    15 Languages
                 </h2>
             </section>
             <section class="column">
@@ -302,12 +302,12 @@
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#303 mark-devkit: [mark-iii] Bump www-client/google-chrome-unstable-142.0.7405.0</span>
+                                        <span class="issue">#1063 mark-devkit: [mark-iii] Bump app-metrics/redis_exporter-bin-1.77.0</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div> in <span class="repo">macaroni-os/browser-kit</span></div>
-                                    <div>2 files changed <span class="code">++104 --0</span></div>
+                                    <div> in <span class="repo">macaroni-os/core-server-kit</span></div>
+                                    <div>2 files changed <span class="code">++41 --0</span></div>
                                 </div>
                             </section>
                         </div>
@@ -320,9 +320,9 @@
                                     <div class="content">
                                         Created new
                       branch
-                                        <span class="code">merge/mark-iii/bump-www-client_google-chrome-unstable-142_0_7405_0</span>
+                                        <span class="code">merge/mark-iii/bump-app-metrics_redis_exporter-bin-1_77_0</span>
                                         in
-                                        <span class="repo">macaroni-os/browser-kit</span>
+                                        <span class="repo">macaroni-os/core-server-kit</span>
                                     </div>
                                 </div>
                             </section>
@@ -335,12 +335,12 @@
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#302 mark-devkit: [mark-iii] Bump www-client/google-chrome-beta-141.0.7390.16</span>
+                                        <span class="issue">#1062 mark-devkit: [mark-iii] Bump app-shells/fish-4.0.6</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div> in <span class="repo">macaroni-os/browser-kit</span></div>
-                                    <div>2 files changed <span class="code">++104 --0</span></div>
+                                    <div> in <span class="repo">macaroni-os/core-server-kit</span></div>
+                                    <div>2 files changed <span class="code">++73 --0</span></div>
                                 </div>
                             </section>
                         </div>
@@ -353,9 +353,9 @@
                                     <div class="content">
                                         Created new
                       branch
-                                        <span class="code">merge/mark-iii/bump-www-client_google-chrome-beta-141_0_7390_16</span>
+                                        <span class="code">merge/mark-iii/bump-app-shells_fish-4_0_6</span>
                                         in
-                                        <span class="repo">macaroni-os/browser-kit</span>
+                                        <span class="repo">macaroni-os/core-server-kit</span>
                                     </div>
                                 </div>
                             </section>
@@ -368,12 +368,12 @@
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#301 mark-devkit: [mark-iii] Bump www-client/google-chrome-140.0.7339.127</span>
+                                        <span class="issue">#212 mark-devkit: [mark-unstable] Bump sys-kernel/debian-sources-6.16.7_p1</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div> in <span class="repo">macaroni-os/browser-kit</span></div>
-                                    <div>2 files changed <span class="code">++104 --0</span></div>
+                                    <div> in <span class="repo">macaroni-os/kernel-kit</span></div>
+                                    <div>2 files changed <span class="code">++430 --0</span></div>
                                 </div>
                             </section>
                         </div>
@@ -995,7 +995,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 14 Sept 2025, 13:13:54 (timezone Europe/Rome) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 14 Sept 2025, 14:30:18 (timezone Europe/Rome) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
